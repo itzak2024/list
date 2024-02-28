@@ -1,0 +1,49 @@
+
+#EXTM3U 
+#EXTINF:-1 tvg-id"Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png"
+group-title="Canales de Peru",Frecuencia Latina
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"
+group-title="Canales de Peru", TVpe
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" 
+group-title="Canales de Peru",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png"
+group title="Canales de Peru",Televisionpe 
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=7778944
+
+#EXTINF:-1 tvg-id="VH1EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/1920px-VH1_logo.svg.png"
+group-title="Canales en Ingles",VH1East
+https://v4.thetvapp.to/hls/VH1East_low.m3u8?token=i55tQ3fCNhE2wW_z0LdFMw&expires=1709101922
+
+#EXTINF:-1 tvg-id="EEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/800px-E%21_Logo_2012.svg.png"
+group-title="Canales en Ingles",EEast
+https://v1.thetvapp.to/hls/EEast_low.m3u8?token=tGW6FvA7upQt0nH8HqX_0A&expires=1709102102
+
+#EXTINF:-1 tvg-id="SyfyEast" tvg=logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"
+group-title="Canales en Ingles",SyfyEast
+https://v2.thetvapp.to/hls/SyfyEast_low.m3u8?token=1sNmvwca2JwBuNhf_mTOlA&expires=1709102407
+
+#EXTINF:-1 tvg-id="CNN" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png"
+group-title="Canales en Ingles",CNN
+https://v3.thetvapp.to/hls/CNN_low.m3u8?token=oE149lUVabCvThIknekbaQ&expires=1709102641
+
+#EXTINF:-1 tvg-id="FXMovie" tvg=logo="https://logowik.com/content/uploads/images/fxm-fx-movie-channel2193.jpg"
+group-title="Canales en Ingles",FXMovie
+https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=p-ea6_-Lm98f5pURS0qqqw&expires=1709103542
+
+#EXTINF:-1 tvg-id="HBO2East" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png"
+group-title="Canales en Ingles",HBO2East
+https://v5.thetvapp.to/hls/HBO2East_low.m3u8?token=spyI8R4JGmld6tiwEO3SdA&expires=1709102824
+
+#EXTINF:-1 tvg-id="HBOComedyEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png"
+group-title="Canales en Ingles",HBOComedyEast
+https://v2.thetvapp.to/hls/HBOComedyEast.m3u8?token=SilRtkWkT22pOhZazJaKGw&expires=1709102962
+
+#EXTINF:-1 tvg-id="MTVEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png"
+group-title="Canales en Ingles",MTVEast
+https://v2.thetvapp.to/hls/MTVEast_low.m3u8?token=L752gOS0PbSrrtyjjl7vZQ&expires=1709103303
