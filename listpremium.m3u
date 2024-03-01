@@ -61,8 +61,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2484
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18763
 #EXTINF:-1,HBO + UHD group-title="Canales de Brasil"
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21249
-#EXTINF:-1,HBO 2 FHD group-title="Canales de Brasil"
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18755
+#EXTINF:-1,HBO 2 FHD group-title="Canales de Brasil" http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18755
 #EXTINF:-1,HBO FAMILY FHD group-title="Canales de Brasil"
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18759
 #EXTINF:-1,HBO FHD group-title="Canales de Brasil"
