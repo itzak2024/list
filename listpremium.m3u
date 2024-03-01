@@ -21,7 +21,7 @@ https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvcIL4-IgTjobuJUF3
 #EXTINF:-1 tvg-id="Willax HD" tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/07/willax-tv2.jpg " group-title="Canales de Peru",WillaxHD
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvcIL4-IgTjobuJUF3JAwO2zJTlm4NCf59sPmGZLrU_Z)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1,GLOBO SP 4K group-title="Canales de Brasil", GLOBO SP http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284587
-#EXTINF:-1, tvg-id="GloboNews 4K" tvg-logo="https://c0.klipartz.com/pngpicture/959/723/sticker-png-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television-text-trademark-logo.png" group-title="Canales de Brasil", GLOBONEWS http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
+#EXTINF:-1 tvg-id="GloboNews 4K" tvg-logo="https://c0.klipartz.com/pngpicture/959/723/sticker-png-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television-text-trademark-logo.png" group-title="Canales de Brasil", GLOBONEWS http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
 #EXTINF:-1,BAND SP 4K group-title="Canales de Brasil", BAND SP
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284590
 #EXTINF:-1,CNN Brasil 4K group-title="Canales de Brasil"
