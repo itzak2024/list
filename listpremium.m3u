@@ -53,6 +53,8 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/380
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/384
 #EXTINF:-1,GNT FHD group-title="Canales de Brasil"
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2484
+#EXTINF:-1, id-tvg="MYTIME" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png " group-title="Canales de Brasil", MyTime
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,HBO + FHD group-title="Canales de Brasil"
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18763
 #EXTINF:-1,HBO + UHD group-title="Canales de Brasil"
