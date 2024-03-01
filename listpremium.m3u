@@ -20,7 +20,7 @@ https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvcIL4-IgTjobuJUF3
 #EXTINF:-1 tvg-id="Willax HD" tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/07/willax-tv2.jpg " group-title="Canales de Peru",WillaxHD
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp3UroUUToNQ4vsoccp4DNaMJRlC8Q1DPuXWVfZ5LpmC)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ExitosaNoticias" tvg-logo="https://i1.sndcdn.com/avatars-000581566491-bzxr05-t500x500.jpg" group-title="Canales de Peru",ExitosaNoticias https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
