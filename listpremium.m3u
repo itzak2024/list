@@ -126,7 +126,7 @@ https://v1.thetvapp.to/hls/EEast_low.m3u8?token=tGW6FvA7upQt0nH8HqX_0A&expires=1
 #EXTINF:-1 tvg-id="SyfyEast" tvg=logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png" group-title="Canales en Ingles",SyfyEast
 https://v2.thetvapp.to/hls/SyfyEast_low.m3u8?token=1sNmvwca2JwBuNhf_mTOlA&expires=1709102407
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="Canales en Ingles",CNN
-https://v3.thetvapp.to/hls/CNN_low.m3u8?token=oE149lUVabCvThIknekbaQ&expires=1709102641
+https://v3.thetvapp.to/hls/CNN_low.m3u8
 #EXTINF:-1 tvg-id="FXMovie" tvg=logo="https://logowik.com/content/uploads/images/fxm-fx-movie-channel2193.jpg" group-title="Canales en Ingles",FXMovie
 https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=p-ea6_-Lm98f5pURS0qqqw&expires=1709103542
 #EXTINF:-1 tvg-id="HBO2East" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="Canales en Ingles",HBO2East
