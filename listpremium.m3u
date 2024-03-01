@@ -188,15 +188,12 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
 #EXTINF:-1 tvg-logo="http://puu.sh/vnC7J/3851e472fd.png" group-title="Infantiles", El Chavo del 8 24/7 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4848.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Infantiles", Chapulin Colorado 24/7 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11450.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Infantiles", Super Campeones 24/7 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11425.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmA23L3.png" group-title="Infantiles", X-MEN 24/7 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14158.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KPRzuJ.jpg" group-title="Infantiles", BOB ESPONJA 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4840.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wI5NQWY.png" group-title="Infantiles", LOONEY TOONS 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14130.m3u8
 
@@ -220,12 +217,9 @@ http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14131.m3u8
 
 #EXTINF:-1 tvg-logo="https://seriestvinfo.files.wordpress.com/2018/07/0115-e1532104434926.jpg" group-title="Infantiles", MR BEAN 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14144.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ionlitio.com/images/2012/02/dinosaurios-la-serie-logo.jpg" group-title="Infantiles", Dinosaurios 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14155.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/xh3eu/503d8c2925.png" group-title="Infantiles", El Principel del Rap 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/7907.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/43/ALF-animatedtitle.jpg" group-title="Infantiles", ALF 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4844.m3u8
