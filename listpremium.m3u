@@ -17,10 +17,8 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1,GLOBO SP 4K group-title="Canales de Brasil", GLOBO SP
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284587
-#EXTINF:-1,GloboNews 4K group-title="Canales de Brasil", GLOBONEWS
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
+#EXTINF:-1,GLOBO SP 4K group-title="Canales de Brasil", GLOBO SP http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284587
+#EXTINF:-1,GloboNews 4K group-title="Canales de Brasil", GLOBONEWS http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
 #EXTINF:-1,BAND SP 4K group-title="Canales de Brasil", BAND SP
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284590
 #EXTINF:-1,CNN Brasil 4K group-title="Canales de Brasil"
