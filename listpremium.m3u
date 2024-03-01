@@ -1,0 +1,135 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="Canales de Peru",Panamericana
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkQyIjGRlhwAxOeveC_FCsAb4snvqQ0nbXrhE0rmwY0X)/dm/3/x774s7s/s/live-3.m3u8
+#EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru", TVpe
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="Canales de Peru",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru",Televisionpe 
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=7778944
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,GLOBO SP 4K group-title="Canales de Brasil", GLOBO SP
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284587
+#EXTINF:-1,GloboNews 4K group-title="Canales de Brasil", GLOBONEWS
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
+#EXTINF:-1,BAND SP 4K group-title="Canales de Brasil", BAND SP
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284590
+#EXTINF:-1,CNN Brasil 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284591
+#EXTINF:-1,Jovem Pan News 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284593
+#EXTINF:-1,Universal TV 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284596
+#EXTINF:-1,Telecine Action 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284597
+#EXTINF:-1,Telecine Pipoca 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284598
+#EXTINF:-1,Telecine Premium 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284599
+#EXTINF:-1,AXN 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284601
+#EXTINF:-1,AMC  4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284602
+#EXTINF:-1,HBO 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284603
+#EXTINF:-1,Disc. Home &  Health 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284604
+#EXTINF:-1,Disc. Channe 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284605
+#EXTINF:-1,Animal Planet 4K group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284607
+#EXTINF:-1,GloboNews FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/479
+#EXTINF:-1,Gloob FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/380
+#EXTINF:-1,Gloobinho FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/384
+#EXTINF:-1,GNT FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2484
+#EXTINF:-1,HBO + FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18763
+#EXTINF:-1,HBO + UHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21249
+#EXTINF:-1,HBO 2 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18755
+#EXTINF:-1,HBO FAMILY FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18759
+#EXTINF:-1,HBO FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18751
+#EXTINF:-1,HBO FHD [LEG ] group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118896
+#EXTINF:-1,HBO FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121578
+#EXTINF:-1,HBO Max 1 FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121597
+#EXTINF:-1,HBO Max 2 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121600
+#EXTINF:-1,HBO Max 2 FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121601
+#EXTINF:-1,HBO Max 3 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121604
+#EXTINF:-1,HBO Max 3 FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121605
+#EXTINF:-1,HBO Max 4 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121608
+#EXTINF:-1,HBO Max 4 FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121609
+#EXTINF:-1,HBO Max 5 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121612
+#EXTINF:-1,HBO Max 5 FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121613
+#EXTINF:-1,HBO Max 6 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121616
+#EXTINF:-1,HBO Max 6 FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/121617
+#EXTINF:-1,HBO MUNDI FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18771
+#EXTINF:-1,HBO POP FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18779
+#EXTINF:-1,HBO Pop FHD [LEG ] group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118918
+#EXTINF:-1,HBO SIGNATURE FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18767
+#EXTINF:-1,HBO XTREME FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18775
+#EXTINF:-1,HGTV FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2627
+#EXTINF:-1,HGTV FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/141266
+#EXTINF:-1,History 2 FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2622
+#EXTINF:-1,History FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2617
+#EXTINF:-1,History UHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/59173
+#EXTINF:-1,ID FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2632
+#EXTINF:-1,Jovem Pan News FHD group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/483
+#EXTINF:-1,Jovem Pan News FHD² group-title="Canales de Brasil"
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118888
+#EXTINF:-1 tvg-id="VH1EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/1920px-VH1_logo.svg.png" group-title="Canales en Ingles",VH1East
+https://v4.thetvapp.to/hls/VH1East_low.m3u8?token=i55tQ3fCNhE2wW_z0LdFMw&expires=1709101922
+#EXTINF:-1 tvg-id="EEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/800px-E%21_Logo_2012.svg.png" group-title="Canales en Ingles",EEast
+https://v1.thetvapp.to/hls/EEast_low.m3u8?token=tGW6FvA7upQt0nH8HqX_0A&expires=1709102102
+#EXTINF:-1 tvg-id="SyfyEast" tvg=logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png" group-title="Canales en Ingles",SyfyEast
+https://v2.thetvapp.to/hls/SyfyEast_low.m3u8?token=1sNmvwca2JwBuNhf_mTOlA&expires=1709102407
+#EXTINF:-1 tvg-id="CNN" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="Canales en Ingles",CNN
+https://v3.thetvapp.to/hls/CNN_low.m3u8?token=oE149lUVabCvThIknekbaQ&expires=1709102641
+#EXTINF:-1 tvg-id="FXMovie" tvg=logo="https://logowik.com/content/uploads/images/fxm-fx-movie-channel2193.jpg" group-title="Canales en Ingles",FXMovie
+https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=p-ea6_-Lm98f5pURS0qqqw&expires=1709103542
+#EXTINF:-1 tvg-id="HBO2East" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="Canales en Ingles",HBO2East
+https://v5.thetvapp.to/hls/HBO2East_low.m3u8?token=spyI8R4JGmld6tiwEO3SdA&expires=1709102824
+#EXTINF:-1 tvg-id="HBOComedyEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Canales en Ingles",HBOComedyEast
+https://v2.thetvapp.to/hls/HBOComedyEast.m3u8?token=SilRtkWkT22pOhZazJaKGw&expires=1709102962
+#EXTINF:-1 tvg-id="MTVEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png" group-title="Canales en Ingles",MTVEast
+https://v2.thetvapp.to/hls/MTVEast_low.m3u8?token=L752gOS0PbSrrtyjjl7vZQ&expires=1709103303
