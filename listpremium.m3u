@@ -127,8 +127,7 @@ https://v2.thetvapp.to/hls/SyfyEast_low.m3u8?token=1sNmvwca2JwBuNhf_mTOlA&expire
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="Canales en Ingles",CNN https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1 tvg-id="FXMovie" tvg=logo="https://logowik.com/content/uploads/images/fxm-fx-movie-channel2193.jpg" group-title="Canales en Ingles",FXMovie
 https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=p-ea6_-Lm98f5pURS0qqqw&expires=1709103542
-#EXTINF:-1 tvg-id="HBO2East" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="Canales en Ingles",HBO2East
-https://v5.thetvapp.to/hls/HBO2East_low.m3u8?token=spyI8R4JGmld6tiwEO3SdA&expires=1709102824
+#EXTINF:-1 tvg-id="HBO2East" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="Canales en Ingles",HBO2East https://v5.thetvapp.to/hls/HBO2East_low.m3u8?token=spyI8R4JGmld6tiwEO3SdA&expires=1709102824
 #EXTINF:-1 tvg-id="HBOComedyEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Canales en Ingles",HBOComedyEast
 https://v2.thetvapp.to/hls/HBOComedyEast.m3u8?token=SilRtkWkT22pOhZazJaKGw&expires=1709102962
 #EXTINF:-1 tvg-id="MTVEast" tvg=logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png" group-title="Canales en Ingles",MTVEast
