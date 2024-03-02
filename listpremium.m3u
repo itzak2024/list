@@ -19,6 +19,8 @@ https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvcIL4-IgTjobuJUF3
 #EXTINF:-1 tvg-id="Willax HD" tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/07/willax-tv2.jpg " group-title="Canales de Peru",WillaxHD
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp3UroUUToNQ4vsoccp4DNaMJRlC8Q1DPuXWVfZ5LpmC)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ExitosaNoticias" tvg-logo="https://i1.sndcdn.com/avatars-000581566491-bzxr05-t500x500.jpg" group-title="Canales de Peru",ExitosaNoticias https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="ExitosaNoticiasHD" tvg-logo="https://i1.sndcdn.com/avatars-000581566491-bzxr05-t500x500.jpg" group-title="Canales de Peru",ExitosaNoticiasHD https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-a1/index.fmp4.m3u8
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
@@ -27,7 +29,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 #EXTINF:-1 tvg-id="Liga1Max" tvg-logo"https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="Canales de Peru",Liga1Max
 https://euz02.dlive.click/QEN0uQrUuO5zX5m5U9GOzA/1709359011/3138312e3137362e3130342e323431/ff198/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png " group-title="Canales Infantiles",Cartoon Network
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cr4FPYuLSd3X-oKXnmd_ycP3B9scaQb-GEjP7iqilqflvjty_HddpL2Y3UP-kXmnhb7uvj8HQY_dqqTawzYmxw9CjTfB0EHiyWHgAGwVZBzHGkEnNJEfF4B9IUWxbNpGzqrYTFltthT054Rmvr19fyJ78jeQTv8zw_DOF-xd7Zlk7IYvXoJaIokehwbiMMcnk7ddDjsRNKw275SaTPwqeU0T2HeQ5Z_6KOStj3aSUDhgluy6O8XKXqN6rjxOxzyAY2VqfPUdQ6cxalSFET73QwZlNPuAnD-EJkGFw0tgnwhUvHR5Fz32zKk4RVTVrAjmPLmMzG2L9CKCm6v5p07GcgUP9B2lTsxi3JH99GoGhMpV8FO_FSWFSont5Dit2FXUCVzue_V7dnzHSX6MWFSii_soGXXVtvMZwMKvMhjN2K4DV7wUh49KOCBefnHuY94ya8bWiPAtonfeqwf1hGAduFGgGbFgiJyspeQUc7yvNbSqs1B-oA1Fm4ZKFlMWXK-xryiVZA4aETy7ILOk8rprRK9HbkPUAPSVREu6B9_cyFxQQkx4YQKgWudpbySHPG6Q1QpSa-Uae3dvBwI-T4nJMWSi9hUrzJFfzcxBpIDfddzoSS0IycPpVct0S7MW9dcEakKx4BZd2B7EryJ0vDdH8lbfufN8i-EXaeH-YojpZPLAB6Zu2hlPAWLpsd8WQ8B98mi5V1e0P3xtDGBSxGMBRbuPlyzaxMQ3EI2qnIPPkskuKQyGvgPn5ZV8gMWf4qRDPe_J6kfj1AfdGwCZaei0w3u26JD6DSYCkL0gJzPE1_q0VOP-Gk0fmVlQojI_u3M9VuL27jzSB2UT3a2t3d60QUXRx4vMYQKe34fVt-ZbmFlydWQnqgmpdCqlAPLkzzyfQ2VudtRbPCujaE3abXn63J4RAtMASfL6L45hLz-WNSqmGgwi-fSl7lqjgQXkIiEgASoJdXMtZWFzdC0xMKIH.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Canales de España",RT (720p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Canales de España",DW Español (1080p)
