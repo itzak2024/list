@@ -11,10 +11,19 @@ https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru",Televisionpe https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=7790994
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV (720p) [Not 24/7]
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (720p) [Not 24/7]
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",Via Television Tarapoto | PE
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru",Televisionpe https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=7790994
+#EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png", group title="Canales de Peru",Via Television Tarapoto | PE
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="Canales de Peru",Willax
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvcIL4-IgTjobuJUF3JAwO2zJTlm4NCf59sPmGZLrU_Z)/dm/3/x7x4dgx/s/live-0.m3u8
@@ -40,6 +49,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Canales de Mexico",De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://pbs.twimg.com/media/EajmNaqXQAk8XPw.jpg" group title="Canales de Mexico"
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrkFloptSbid7WPwyJIrQqUkUpVJ7g_wX5fS9u-9_m_QH3IcQjj16LVCoGKTmApDb8ujqXHBt3RpNdvuQTR9F9PS548_dX6Id8rPQxHIJ9rL6LnBIQ7IwCKmJH_TAojOvJmtFMtukB8usC2fqs3csRFGhj3tiPNpwc9Dj59AaeHzf5kxSpu_LHbfND9F58nqFzfA4j1Wo8KOau7OZF6zGNXCUahOdlUJscoVRJAxjaQMlUzeh1L3QQc8cQ51rZ1D7FCCmSzH03AHEvACgYJd5pjdQCQr5hiMnY0mABcNS63GmHMOkCaPWv7fjMCqfCP9zvT0G-yL5rY00QZpGslp765TsHf3BXrBIaPf7td-abq-OtJYBgtmR9pZZDoMKyuYl2935umhAdnngQ7wyvLgmx1gFE89J_X55C46rhY4rDXWrlhgVUSaRMZfrmMDc5v6rH3m3GDCN-p_ERzFY-ht5zwzKbqOYau6i6Zn72XAMRSp3gGUeifzfIWGbfDsoI1GfPX7We9JuZ6jYe4gOfrICuKOAXW07Gl_tRcZGMkrommkzw8CQLLMkVGfs2GfapqlwKfmf8shs3KOpZH3syko-VzuVi7RWo_B0o6SFKiJ9y9PyumKdzNemB22N4y_M49V3vzjZRVsHMO6PBYmZKr7Q86uiWt5TnaAhyTNyBK8xUYoP2xSbW5I_T3yPSdT7GUhIVRSrIC9Md07wpAS_QTJxDbwoTPZLuFbS0sn8uoBr9aDlVfA2kImUyYAotzzncHnJ6QPcoZdhBvuaKRI1QAuQuGHQKcZmxTpsLB8ZAeM6X5jFFBduS5_J0M4_BXg09FpuuUaks0bfpJzpyRG3cAT0Q6WXu9_JebwD49iAvm6FaVPXNgK1GQg3wWNQUVZutSbPzJj0n62rL8WV4lfF0n7kuJygJAIMWenEABTXRoMkCuxVp3nheVjsUCdIAEqCXVzLWVhc3QtMTCjBw.m3u8
 #EXTINF:-1,GLOBO SP 4K group-title="Canales de Brasil", GLOBO SP http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284587
 #EXTINF:-1 tvg-id="GloboNews4K" tvg-logo="https://c0.klipartz.com/pngpicture/959/723/sticker-png-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television-text-trademark-logo.png" group-title="Canales de Brasil", GLOBONEWS 
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
