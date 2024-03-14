@@ -254,14 +254,10 @@ http://livex.pop-app.live/s4n/poplive/ch318/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",DISCOVERY http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",DISCOVERY FAMILY
 http://livex.pop-app.live/s4n/poplive/ch526/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",DISCOVERY ID LAT
-http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",DISCOVERY TURBO LAT
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",E!
-http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN 2 MX
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY ID LAT http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY TURBO LAT http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",E! http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 2 MX http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",ESPN 3 MX
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",ESPN DEPORTES
