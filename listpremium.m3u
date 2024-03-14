@@ -32,6 +32,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 #EXTINF:-1 tvg-id="Liga1Max" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/8/83/LIGA1MAXTV.png" group-title="Canales de Peru",Liga1Max
 https://server.tvhdlibre.com:442/mls/tracks-v1a1/mono.m3u8?remote=181.176.127.142&token=6b07aff1b747f0b1515a70e4385137b60ca7a187-9056de6ff18c166e92d151a324ad0f77-1709422202-1709411402
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png " group-title="Canales Infantiles",Cartoon Network
