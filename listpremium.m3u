@@ -59,8 +59,13 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrkFloptSbid7WPwyJIrQqUkUpVJ7g_wX5fS9u-9_m_QH3IcQjj16LVCoGKTmApDb8ujqXHBt3RpNdvuQTR9F9PS548_dX6Id8rPQxHIJ9rL6LnBIQ7IwCKmJH_TAojOvJmtFMtukB8usC2fqs3csRFGhj3tiPNpwc9Dj59AaeHzf5kxSpu_LHbfND9F58nqFzfA4j1Wo8KOau7OZF6zGNXCUahOdlUJscoVRJAxjaQMlUzeh1L3QQc8cQ51rZ1D7FCCmSzH03AHEvACgYJd5pjdQCQr5hiMnY0mABcNS63GmHMOkCaPWv7fjMCqfCP9zvT0G-yL5rY00QZpGslp765TsHf3BXrBIaPf7td-abq-OtJYBgtmR9pZZDoMKyuYl2935umhAdnngQ7wyvLgmx1gFE89J_X55C46rhY4rDXWrlhgVUSaRMZfrmMDc5v6rH3m3GDCN-p_ERzFY-ht5zwzKbqOYau6i6Zn72XAMRSp3gGUeifzfIWGbfDsoI1GfPX7We9JuZ6jYe4gOfrICuKOAXW07Gl_tRcZGMkrommkzw8CQLLMkVGfs2GfapqlwKfmf8shs3KOpZH3syko-VzuVi7RWo_B0o6SFKiJ9y9PyumKdzNemB22N4y_M49V3vzjZRVsHMO6PBYmZKr7Q86uiWt5TnaAhyTNyBK8xUYoP2xSbW5I_T3yPSdT7GUhIVRSrIC9Md07wpAS_QTJxDbwoTPZLuFbS0sn8uoBr9aDlVfA2kImUyYAotzzncHnJ6QPcoZdhBvuaKRI1QAuQuGHQKcZmxTpsLB8ZAeM6X5jFFBduS5_J0M4_BXg09FpuuUaks0bfpJzpyRG3cAT0Q6WXu9_JebwD49iAvm6FaVPXNgK1GQg3wWNQUVZutSbPzJj0n62rL8WV4lfF0n7kuJygJAIMWenEABTXRoMkCuxVp3nheVjsUCdIAEqCXVzLWVhc3QtMTCjBw.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p) https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Undefined",Golden Multiplex (576p)
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Undefined",Golden Plus (576p)
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Undefined",Golden Premier (576p)
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,GLOBO SP 4K group-title="Canales de Brasil", GLOBO SP http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284587
 #EXTINF:-1 tvg-id="GloboNews4K" tvg-logo="https://c0.klipartz.com/pngpicture/959/723/sticker-png-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television-text-trademark-logo.png" group-title="Canales de Brasil", GLOBONEWS 
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/284589
