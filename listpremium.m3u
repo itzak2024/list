@@ -584,3 +584,8 @@ http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14155.m3u8
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/7907.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/43/ALF-animatedtitle.jpg" group-title="Infantiles", ALF 24/7
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4844.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MOVIES", EL DURO 
+https://ww1.inkapelis.ws/pelicula/road-house-de-profesion-duro-2024-online-descargar/
+#EXTINF:-1 tvg-logo=" " group-title="MOVIES", EL DURO2 https://ok.ru/video/7853376015024
+
