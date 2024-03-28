@@ -587,11 +587,8 @@ http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4844.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MOVIES", EL DURO 
 https://ww1.inkapelis.ws/pelicula/road-house-de-profesion-duro-2024-online-descargar/
 #EXTINF:-1 tvg-logo=" " group-title="MOVIES", EL DURO2 https://ok.ru/video/7853376015024
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="MOVISTAR TEST1", MOVISTARTEST1 
-https://@239.0.3.4:8208
-#EXTINF:-1 tvg-logo=" " group-title="MOVISTAR TEST2 HD", EL DURO2 https://@239.0.5.137:8208
-
+#EXTINF:-1, […] Test 1
+rtp://@239.0.3.4:8208
+#EXTINF:-1, […] Test1 HD
+rtp://@239.0.5.137:8208
 
