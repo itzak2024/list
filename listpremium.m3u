@@ -68,6 +68,8 @@ http://clubtv.link/AB0104/key4513/lista1.php?c=a01p&token=TecntvGeneradorTV&f=.m
 http://clubtv.link/AB0104/key4513/lista1.php?c=a01m&token=TecntvGeneradorTV&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO Plus HD
 http://clubtv.link/AB0104/key4513/lista1.php?c=a01o&token=TecntvGeneradorTV&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sport 3
+http://clubtv.link/AB0104/key4513/lista1.php?c=a02h&token=TecntvGeneradorTV&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p) https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
