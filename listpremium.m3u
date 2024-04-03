@@ -600,3 +600,5 @@ rtp://@239.0.3.4:8208
 #EXTINF:-1, […] Test1 HD
 rtp://@239.0.5.137:8208
 
+#EXTINF:-1 tvg-logo=" " group-title="MOVIES", SCREAM4 
+https://pluto.tv/es/on-demand/movies/5f7b872be4b56900138b7983
