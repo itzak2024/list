@@ -603,3 +603,25 @@ rtp://@239.0.5.137:8208
 
 #EXTINF:-1 tvg-logo=" " group-title="MOVIES", SCREAM4 
 https://pluto.tv/es/on-demand/movies/5f7b872be4b56900138b7983
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Lo Mas Visto", Retro Cartoon | SD
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Lo Mas Visto", Anime TV | SD
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
+
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png" group-title="Lo Mas Visto", WOW TV  | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="Lo Mas Visto", Anime Zone TV  | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Lo Mas Visto", Orbit TV  | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png", Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="486" tvg-name="TOP LATINO TV" tvg-logo="https://es.wikipedia.org/wiki/Top_Latino_TV#/media/Archivo:LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA", TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1878258964.m3u8
+
