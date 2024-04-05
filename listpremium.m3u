@@ -624,4 +624,69 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="TOP LATINO TV" tvg-logo="https://es.wikipedia.org/wiki/Top_Latino_TV#/media/Archivo:LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA", TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1878258964.m3u8
+#EXTINF:0 ,MTV US
+http://143.244.60.30/MTV/manifest.m3u8
+#EXTINF:0 ,MTV U US
+http://143.244.60.30/MTVU/manifest.m3u8
+#EXTINF:0 ,MTV2 US
+http://143.244.60.30/MTV2/manifest.m3u8
+#EXTINF:0 ,MTV CLASSIC US
+http://143.244.60.30/MTVCLASSIC/manifest.m3u8
+#EXTINF:0 ,MTV LIVE US
+http://143.244.60.30/MTVLIVE/manifest.m3u8
+#EXTINF:0 ,NICK MUSIC US
+http://143.244.60.30/NICKMUSIC/manifest.m3u8
+#EXTINF:0 ,REVOLT US
+http://143.244.60.30/REVOLT/manifest.m3u8
+#EXTINF:0 tvg-rec="0",VF Modern Talking
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Britney Spears
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14005/index.m3u8
+#EXTINF:0 tvg-rec="0",Classic Music
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14008/index.m3u8
+#EXTINF:0 tvg-rec="0",Radio Metal TV
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14010/index.m3u8
+#EXTINF:0 tvg-rec="3",SONG TV RUSSIA 
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/6394/index.m3u8
+#EXTINF:0 tvg-rec="7",Europa Plus TV
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/115/index.m3u8
+#EXTINF:0 tvg-rec="0",Муз ТВ +4
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/6036/index.m3u8
+#EXTINF:0 tvg-rec="7",МУЗ-ТВ
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/116/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge Русский Хит
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/120/index.m3u8
+#EXTINF:0 tvg-rec="7",Bridge TV
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/122/index.m3u8
+#EXTINF:0 tvg-rec="7",Bridge Hits
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/711/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Шлягер
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/10038/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Rock
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/17043/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/142/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV Hits
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/153/index.m3u8
+#EXTINF:0 tvg-rec="7",Музыка Первого
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/155/index.m3u8
+#EXTINF:0 tvg-rec="7",Mezzo Live HD
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/208/index.m3u8
 
