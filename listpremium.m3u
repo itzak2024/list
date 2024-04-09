@@ -65,6 +65,11 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO+" tvg-logo="https://pbs.twimg.com/media/EajmNaqXQAk8XPw.jpg" group title="Canales de Mexico" https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrkFloptSbid7WPwyJIrQqUkUpVJ7g_wX5fS9u-9_m_QH3IcQjj16LVCoGKTmApDb8ujqXHBt3RpNdvuQTR9F9PS548_dX6Id8rPQxHIJ9rL6LnBIQ7IwCKmJH_TAojOvJmtFMtukB8usC2fqs3csRFGhj3tiPNpwc9Dj59AaeHzf5kxSpu_LHbfND9F58nqFzfA4j1Wo8KOau7OZF6zGNXCUahOdlUJscoVRJAxjaQMlUzeh1L3QQc8cQ51rZ1D7FCCmSzH03AHEvACgYJd5pjdQCQr5hiMnY0mABcNS63GmHMOkCaPWv7fjMCqfCP9zvT0G-yL5rY00QZpGslp765TsHf3BXrBIaPf7td-abq-OtJYBgtmR9pZZDoMKyuYl2935umhAdnngQ7wyvLgmx1gFE89J_X55C46rhY4rDXWrlhgVUSaRMZfrmMDc5v6rH3m3GDCN-p_ERzFY-ht5zwzKbqOYau6i6Zn72XAMRSp3gGUeifzfIWGbfDsoI1GfPX7We9JuZ6jYe4gOfrICuKOAXW07Gl_tRcZGMkrommkzw8CQLLMkVGfs2GfapqlwKfmf8shs3KOpZH3syko-VzuVi7RWo_B0o6SFKiJ9y9PyumKdzNemB22N4y_M49V3vzjZRVsHMO6PBYmZKr7Q86uiWt5TnaAhyTNyBK8xUYoP2xSbW5I_T3yPSdT7GUhIVRSrIC9Md07wpAS_QTJxDbwoTPZLuFbS0sn8uoBr9aDlVfA2kImUyYAotzzncHnJ6QPcoZdhBvuaKRI1QAuQuGHQKcZmxTpsLB8ZAeM6X5jFFBduS5_J0M4_BXg09FpuuUaks0bfpJzpyRG3cAT0Q6WXu9_JebwD49iAvm6FaVPXNgK1GQg3wWNQUVZutSbPzJj0n62rL8WV4lfF0n7kuJygJAIMWenEABTXRoMkCuxVp3nheVjsUCdIAEqCXVzLWVhc3QtMTCjBw.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO Family HD
 http://170.254.18.106/HBO_FAMILY/index.m3u8
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+
 #EXTINF:-1 group-title="TV PREMIUM", HBO HD
 http://clubtv.link/AB0104/key4513/lista1.php?c=a01m&token=TecntvGeneradorTV&f=.m3u8
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",HBO 2
