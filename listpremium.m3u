@@ -68,8 +68,8 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
-
-
+#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO HD
 http://clubtv.link/AB0104/key4513/lista1.php?c=a01m&token=TecntvGeneradorTV&f=.m3u8
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",HBO 2
