@@ -53,7 +53,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://web.facebook.com/photo/?fbid=930577592407931&set=a.488277393304622" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJEtjxM4KJ7ykaL06baJCsY9Aaa4DPlmqVNTcK_NNsonzlM9TQh0Biauma4I47WKS0M1DioSYZbc4JFyIoWLZ5vQhmrrznaQZL6CRV2Lp-nrq78FJFwpdaoZsR5x68oREuR2XHo40YLfs/s1600/radio-tropical.jpg" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Canales de Peru",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
