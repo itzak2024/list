@@ -401,17 +401,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/tcPyX/933e3b17e1.png" group-title="España",Movistar Comedia
 http://usuarios.club/usuarios/src5/MoviComedia/demoUwD/OV0.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/tcNE5/7aa9899bd2.png" group-title="Deportes",Movistar Deportes
-http://usuarios.club/usuarios/src5/MoviDeportes/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png" group-title="Deportes",Movistar Deportes 2
-http://usuarios.club/usuarios/src5/MoviDeportes2/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcOvk/be7e131035.png" group-title="Deportes",Movistar Futbol
-http://usuarios.club/usuarios/src5/MoviFutbol/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png" group-title="España",Movistar Xtra
-http://usuarios.club/usuarios/src5/MoviXtra/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNE5/7aa9899bd2.png" group-title="Deportes",Movistar Deportes http://usuarios.club/usuarios/src5/MoviDeportes/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png" group-title="Deportes",Movistar Deportes 2 http://usuarios.club/usuarios/src5/MoviDeportes2/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcOvk/be7e131035.png" group-title="Deportes",Movistar Futbol http://usuarios.club/usuarios/src5/MoviFutbol/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png" group-title="España",Movistar Xtra http://usuarios.club/usuarios/src5/MoviXtra/demoUwD/OV0.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/xh3hv/30cc1bff4d.png" group-title="Entretenimiento",Mr. Bean 24/7
 http://usuarios.club/usuarios/src3/MrBean/demoUwD/OV0.m3u8
