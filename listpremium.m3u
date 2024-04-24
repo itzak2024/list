@@ -398,6 +398,47 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tcPyX/933e3b17e1.png" group-title="España",Movistar Comedia
+http://usuarios.club/usuarios/src5/MoviComedia/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNE5/7aa9899bd2.png" group-title="Deportes",Movistar Deportes
+http://usuarios.club/usuarios/src5/MoviDeportes/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png" group-title="Deportes",Movistar Deportes 2
+http://usuarios.club/usuarios/src5/MoviDeportes2/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/tcOvk/be7e131035.png" group-title="Deportes",Movistar Futbol
+http://usuarios.club/usuarios/src5/MoviFutbol/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png" group-title="España",Movistar Xtra
+http://usuarios.club/usuarios/src5/MoviXtra/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3hv/30cc1bff4d.png" group-title="Entretenimiento",Mr. Bean 24/7
+http://usuarios.club/usuarios/src3/MrBean/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV
+http://usuarios.club/usuarios/src1/MTV/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_HD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV (720p)
+http://usuarios.club/usuarios/src2/MTV_HD/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" group-title="Musica",MTV Hits (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_HITS/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" group-title="Musica",MTV Hits (720p)
+http://usuarios.club/usuarios/src2/MTV_HITS/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live
+http://usuarios.club/usuarios/src1/MTVLive/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live (Opcion 2)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live (720p)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/demoUwD/OV0/hd.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 228 | Claro Sports
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 229 | Claro Sports 2
