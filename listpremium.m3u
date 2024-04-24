@@ -162,181 +162,183 @@ http://138.59.177.34:8000/play/a01o/index.m3u8
 http://138.59.177.34:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 110 | HBO Xtreme
 http://138.59.177.34:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Pop
+#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 112 | HBO Pop
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 112 | TNT
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 113 | TNT Series
+#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 114 | TNT Series
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 114 | Cine Latino
+#EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 115 | Cine Latino
 http://138.59.177.34:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 115 | Golden
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 116 | Golden
 http://138.59.177.34:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 116 | Golden Plus
+#EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 117 | Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 117 | Golden Premier
+#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 118 | Golden Premier
 http://138.59.177.34:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 118 | Golden Premier 2
+#EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 119 | Golden Premier 2
 http://138.59.177.34:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="PELICULAS Y SERIES", 119 | Golden Edge
+#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="PELICULAS Y SERIES", 120 | Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 120 | Multipremier
+#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 121 | Multipremier
 http://138.59.177.34:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 121 | Canal MC
+#EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 122 | Canal MC
 http://138.59.177.34:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="PELICULAS Y SERIES", 122 | DHE
+#EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="PELICULAS Y SERIES", 123 | DHE
 http://bantel.iptvperu.tv:1935/transcoderip/DHE_t2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 123 | Cine Premium
+#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 124 | Cine Premium
 http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 124 | Cine Hispano
+#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 125 | Cine Hispano
 http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES", 125 | Cine Familiar
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES", 126 | Cine Familiar
 http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="PELICULAS Y SERIES", 126 | FMH Movies
+#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="PELICULAS Y SERIES", 127 | FMH Movies
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 127 | FMH Family
+#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 128 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 128 | Dios TV Kids
+#EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 129 | Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="CL | Varied TV" tvg-name="CL | Varied TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="INFANTILES", 129 | Varied TV
+#EXTINF:-1 tvg-id="CL | Varied TV" tvg-name="CL | Varied TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="INFANTILES", 130 | Varied TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 130 | Magic Kids
+#EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 131 | Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
-#EXTINF:-1 tvg-id="AR | Retro Mágico" tvg-name="AR | Retro Mágico" tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="INFANTILES", 131 | Retro Mágico
+#EXTINF:-1 tvg-id="AR | Retro Mágico" tvg-name="AR | Retro Mágico" tvg-logo="https://pbs.twimg.com/media/F1IhipWWwAELlB6?format=png&name=900x900" group-title="INFANTILES", 132 | Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Retro Cartoon" tvg-name="BR | Retro Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgVAzhKEkkeyQQOJXImzZwdg9jk55MjA5gQ&usqp=CAU" group-title="INFANTILES", 132 | Retro Cartoon
+#EXTINF:-1 tvg-id="BR | Retro Cartoon" tvg-name="BR | Retro Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgVAzhKEkkeyQQOJXImzZwdg9jk55MjA5gQ&usqp=CAU" group-title="INFANTILES", 133 | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
-#EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 133 | ZooMoo
+#EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 134 | ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="CL | Funbox" tvg-name="CL | Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/120px-FunBox_TV_logo.svg.png" group-title="INFANTILES", 134 | Funbox
+#EXTINF:-1 tvg-id="CL | Funbox" tvg-name="CL | Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/120px-FunBox_TV_logo.svg.png" group-title="INFANTILES", 135 | Funbox
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 135 | Latino Kids TV
+#EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 136 | Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES", 136 | Cartoon Network
+#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES", 137 | Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 137 | Cartoonito
+#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 138 | Cartoonito
 http://138.59.177.34:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 138 | Tooncast
+#EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 139 | Tooncast
 http://138.59.177.34:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="INFANTILES", 139 | Dreiko TV
+#EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="INFANTILES", 140 | Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="INFANTILES", 140 | BabyFirst
+#EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="INFANTILES", 1401| BabyFirst
 http://138.59.177.34:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", 141 | BabyTV
+#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", 142 | BabyTV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 142 | Semillitas
+#EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 143 | Semillitas
 http://138.59.177.34:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 143 | Toon Goggles TV
+#EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 144 | Toon Goggles TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 144 | Discovery Kids
+#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 145 | Discovery Kids
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 145 | Disney Channel
+#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 146 | Disney Channel
 http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="INFANTILES", 146 | Disney Junior
+#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="INFANTILES", 147 | Disney Junior
 http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 147 | 1·2·3 TV
+#EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 148 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
-#EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES", 148 | Plim Plim TV
+#EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES", 149 | Plim Plim TV
 http://38.41.8.1:8000/play/a0b2
-#EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="INFANTILES", 149 | DreamWorks
+#EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="INFANTILES", 150 | DreamWorks
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 150 | Nickelodeon
+#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 151 | Nickelodeon
 http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 151 | Nick Jr.
+#EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 152 | Nick Jr.
 http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="INFANTILES", 152 | TeenNick
+#EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="INFANTILES", 153 | TeenNick
 http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="INFANTILES", 153 | Planeta Family TV Kids
+#EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="INFANTILES", 154 | Planeta Family TV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | TVG Xabarín" tvg-name="ES | TVG Xabarín" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png" group-title="INFANTILES", 154 | TVG Xabarín
+#EXTINF:-1 tvg-id="ES | TVG Xabarín" tvg-name="ES | TVG Xabarín" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png" group-title="INFANTILES", 155 | TVG Xabarín
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Canal IPe" tvg-name="PE | Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_IPe_Abril_2022.png/190px-Canal_IPe_Abril_2022.png" group-title="INFANTILES", 155 | Canal IPe
+#EXTINF:-1 tvg-id="PE | Canal IPe" tvg-name="PE | Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_IPe_Abril_2022.png/190px-Canal_IPe_Abril_2022.png" group-title="INFANTILES", 156 | Canal IPe
 http://bantel.iptvperu.tv:1935/transcoder_t1/ipe_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 156 | DM Kids TV
+#EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 157 | DM Kids TV
 https://ott1.hdlatam.tv/live/k1DS_tvLKENFS53FB/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", 157 | Canal Infantil
+#EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", 158 | Canal Infantil
 http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTILES", 158 | FMH Kids
+#EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTILES", 159 | FMH Kids
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Kids/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", 159 | bitMe
+#EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", 160 | bitMe
 https://linear-401.frequency.stream/dist/studio/401/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Pandamax" tvg-name="CL | Pandamax" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="INFANTILES", 160 | Pandamax
+#EXTINF:-1 tvg-id="CL | Pandamax" tvg-name="CL | Pandamax" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="INFANTILES", 161 | Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Energeek Retro" tvg-name="CL | Energeek Retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EnerGeek%20Retro.png?itok=JIRywtME" group-title="INFANTILES", 161 | Energeek Retro
+#EXTINF:-1 tvg-id="CL | Energeek Retro" tvg-name="CL | Energeek Retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EnerGeek%20Retro.png?itok=JIRywtME" group-title="INFANTILES", 162 | Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Energeek Fanpop" tvg-name="CL | Energeek Fanpop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6fbOyqJnACt2wVpVKC0JMmmELZKQN4cVk9h-LztnMWk2LX1TESycu1iJGOEtwqXwPas&usqp=CAU" group-title="INFANTILES", 162 | Energeek Fanpop
+#EXTINF:-1 tvg-id="CL | Energeek Fanpop" tvg-name="CL | Energeek Fanpop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6fbOyqJnACt2wVpVKC0JMmmELZKQN4cVk9h-LztnMWk2LX1TESycu1iJGOEtwqXwPas&usqp=CAU" group-title="INFANTILES", 163 | Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | 13 Kids" tvg-name="CL | 13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg/revision/latest?cb=20230517002128&path-prefix=es" group-title="INFANTILES", 163 | 13 Kids
+#EXTINF:-1 tvg-id="CL | 13 Kids" tvg-name="CL | 13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg/revision/latest?cb=20230517002128&path-prefix=es" group-title="INFANTILES", 164 | 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="AR | AnimeStation" tvg-name="AR | AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="INFANTILES", 164 | AnimeStation
+#EXTINF:-1 tvg-id="AR | AnimeStation" tvg-name="AR | AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="INFANTILES", 165 | AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Adult Swim" tvg-name="USA | Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="INFANTILES", 165 | Adult Swim
+#EXTINF:-1 tvg-id="USA | Adult Swim" tvg-name="USA | Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="INFANTILES", 166 | Adult Swim
 http://138.59.177.34:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 166 | El Conflicto Tribunal del Pueblo TV
+#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 167 | El Conflicto Tribunal del Pueblo TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-#EXTINF:-1 tvg-id="MX | La Rosa de Guadalupe TV" tvg-name="MX | La Rosa de Guadalupe TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/La_rosa_de_guadalupe_with_font.jpg/revision/latest/scale-to-width-down/1200?cb=20220509193234" group-title="CANALES 24/7", 167 | La Rosa de Guadalupe TV
+#EXTINF:-1 tvg-id="MX | La Rosa de Guadalupe TV" tvg-name="MX | La Rosa de Guadalupe TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/La_rosa_de_guadalupe_with_font.jpg/revision/latest/scale-to-width-down/1200?cb=20220509193234" group-title="CANALES 24/7", 168 | La Rosa de Guadalupe TV
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7", 168 | Tom y Jerry TV
+#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7", 169 | Tom y Jerry TV
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
-#EXTINF:-1 tvg-id="USA | Ben 10 TV" tvg-name="USA | Ben 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="CANALES 24/7", 169 | Ben 10 TV
+#EXTINF:-1 tvg-id="USA | Ben 10 TV" tvg-name="USA | Ben 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="CANALES 24/7", 170 | Ben 10 TV
 http://51.159.104.29:8080/ben10/index.m3u8
-#EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANALES 24/7", 170 | Bob Esponja TV
+#EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANALES 24/7", 171 | Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
-#EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7", 171 | Los Tres Chiflados TV
+#EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7", 172 | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="MX | Una familia con suerte TV" tvg-name="MX | Una familia con suerte TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Una_familia_con_suerte.jpg" group-title="CANALES 24/7", 172 | Una familia con suerte TV
+#EXTINF:-1 tvg-id="MX | Una familia con suerte TV" tvg-name="MX | Una familia con suerte TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Una_familia_con_suerte.jpg" group-title="CANALES 24/7", 173 | Una familia con suerte TV
 https://linear-580.frequency.stream/dist/studio/580/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 173 | Distrito Comedia
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 174 | Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
-#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 174 | Comedy Central 
+#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 175 | Comedy Central 
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | QUVO Teve Empresa" tvg-name="PE | QUVO Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="EMPRENDIMIENTO", 175 | QUVO Teve Empresa
+#EXTINF:-1 tvg-id="PE | QUVO Teve Empresa" tvg-name="PE | QUVO Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="EMPRENDIMIENTO", 176 | QUVO Teve Empresa
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1883493467&_cdn_timestamp=1713443670&_cdn_token=f2e19be1978fb59d40f5e38f051a6bc29c4009ff
-#EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="EMPRENDIMIENTO", 176 | Inti TV
+#EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="EMPRENDIMIENTO", 177 | Inti TV
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-#EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | RT Noticias
+#EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 178 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 178 | Telesur
+#EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 179 | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 179 | Globovisión
+#EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 180 | Globovisión
 http://38.41.8.1:8000/play/a03u
-#EXTINF:-1 tvg-id="VE | Vivo Play" tvg-name="VE | Vivo Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/VIVOplay_logo.png" group-title="NOTICIAS E INFORMACION", 180 | Vivo Play
+#EXTINF:-1 tvg-id="VE | Vivo Play" tvg-name="VE | Vivo Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/VIVOplay_logo.png" group-title="NOTICIAS E INFORMACION", 181 | Vivo Play
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 181 | DW Televisión
+#EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 182 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 182 | France 24
+#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 183 | France 24
 https://marine2.miplay.cl/france24/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Foro TV" tvg-name="MX | Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/125px-Logo-ForoTV-2020.png" group-title="NOTICIAS E INFORMACION", 183 | Foro TV
+#EXTINF:-1 tvg-id="MX | Foro TV" tvg-name="MX | Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/125px-Logo-ForoTV-2020.png" group-title="NOTICIAS E INFORMACION", 184 | Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-#EXTINF:-1 tvg-id="MX | Canal 10 Noticias" tvg-name="MX | Canal 10 Noticias" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="NOTICIAS E INFORMACION", 184 | Canal 10 Noticias
+#EXTINF:-1 tvg-id="MX | Canal 10 Noticias" tvg-name="MX | Canal 10 Noticias" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="NOTICIAS E INFORMACION", 185 | Canal 10 Noticias
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Todo Noticias" tvg-name="AR | Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 185 | Todo Noticias
+#EXTINF:-1 tvg-id="AR | Todo Noticias" tvg-name="AR | Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 186 | Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 186 | Cablenoticias
+#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 187 | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 187 | HispanTV
+#EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 188 | HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 188 | CGTN Español
+#EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 189 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 189 | Canal N
+#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 190 | Canal N
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
-#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 190 | 24 horas tve
+#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 191 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 191 | CNN en Español
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 192 | CNN en Español
 http://138.59.177.34:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="CL | CNN Conclusiones" tvg-name="CL | CNN Conclusiones" tvg-logo="https://cdn-3.expansion.mx/dims4/default/1a4ad89/2147483647/strip/true/crop/2400x1454+0+0/resize/1200x727!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F10%2F06%2Fcnn-espanol-nuevo-logo-imagen.jpg" group-title="NOTICIAS E INFORMACION", 192 | CNN Conclusiones
+#EXTINF:-1 tvg-id="CL | CNN Conclusiones" tvg-name="CL | CNN Conclusiones" tvg-logo="https://cdn-3.expansion.mx/dims4/default/1a4ad89/2147483647/strip/true/crop/2400x1454+0+0/resize/1200x727!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F10%2F06%2Fcnn-espanol-nuevo-logo-imagen.jpg" group-title="NOTICIAS E INFORMACION", 193 | CNN Conclusiones
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 193 | CNN Internacional
+#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 194 | CNN Internacional
 http://138.59.177.34:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 194 | CNN Chile
+#EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 195 | CNN Chile
 http://201.222.44.220:4227/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="USA | Noticias Univisión 24/7" tvg-name="USA | Noticias Univisión 24/7" tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="NOTICIAS E INFORMACION", 195 | Noticias Univisión 24/7
+#EXTINF:-1 tvg-id="USA | Noticias Univisión 24/7" tvg-name="USA | Noticias Univisión 24/7" tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="NOTICIAS E INFORMACION", 196 | Noticias Univisión 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION", 196 | BBC World News
+#EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION", 197 | BBC World News
 http://45.5.117.182:8000/play/a0f7/index.m3u8
-#EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/320px-Euronews_2022.svg.png" group-title="NOTICIAS E INFORMACION", 197 | Euronews
+#EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/320px-Euronews_2022.svg.png" group-title="NOTICIAS E INFORMACION", 198 | Euronews
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS E INFORMACION", 198 | Canal 24 Horas
+#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS E INFORMACION", 199 | Canal 24 Horas
 http://201.222.44.220:4227/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 199 | Lifetime
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
@@ -466,6 +468,9 @@ http://177.234.230.226:8010/play/a01t/index.m3u8
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Lolly Kids" tvg-name="ES | Lolly Kids" tvg-logo="https://media.licdn.com/dms/image/C560BAQFdAU1qHO5HLw/company-logo_200_200/0/1572863101739?e=2147483647&v=beta&t=rCVG3SLF7zMjcfOfIScjaFkE1mHM4onFuIhlUhxB2Mk" group-title="MUSICA Y REALITIES", 263 | Lolly Kids
 http://38.41.8.1:8000/play/a02n
+
+#EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 264 | MTV USA
+http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 264 | MTV
 http://138.59.177.34:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="USA | MTV 80s" tvg-name="USA | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="MUSICA Y REALITIES", 265 | MTV 80s
