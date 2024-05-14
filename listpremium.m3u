@@ -12,6 +12,8 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES
+https://directv.bz/uuid/46373319/key/dc75dcf3324e5548cd40068423c08687
 #EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru",TVpe
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
@@ -158,10 +160,13 @@ http://190.61.55.186:1010/play/a022/index.m3u8
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsgFStznvTNur49zkQhL-P3oWKbzcaCxEwOc9yXb3YwcbHHh6eWKVWjkXSyqgJ6rqUbrs_coKIcsp1YM4rc8bqPN2ixCf6Ibg0zBEiP0ug-kgRtwdo-wRJCQhIDQG2TKSLTqxd09vB2iM9Ck7l63RD9gtHjxuyjther5LYQqimNKSjQJG8MLB2zLZmkHopePYGMSskj4P-eswCybJzQ6vI5XGv_DD-Svx0FYKZIl1EI1YZHYTtS3cAMdBErSB8QjexbP5Ts7LDYbciLeGdbyFYl1tW_l_R15K637JbztXcIihrgSMk572ZTQxJ6U8EuN9dJyh-A0XivruaOqXf2BD7ALGgRGSwCvO8Y6-1ExODwANoFPMZAl6ZmyoTu9EtttI11VAGnUgdHNqMK0oL2yifKN2VjIOfHtfYX9RX_Euh4SVR0BSPUZfFe43G6SXHrTNHgKeOYDbgx_OxPg0p8q-j_WWBb97D0-uvepEw0Mt2Twhvie1_-YmzJ9DHzk1gNNydPdHYRaZiWzeeQpI9uqJHTtnumkJzApSkQ2PazKqeV4P33I3_njSBaavkAGZDjzQo0Eq6nxQipPHXOS_1b5ZDsT710DnfEqvTT4qHB3d9TcGXMAbJsEnW1hY7bTVg_3vGl4HShvAHFGBDkKY-BlGZ7NOaO5pMhectsnrWWN2g9EY-bN8MMIVgZH-gSbQ2YjDnSNxb6-3HYKhU0A3MdhRh8T96Ao9eFJjP5jkT0MRV9xFwI0eyB8Vh15nh8rd9J64P4ByjuiTndHiGGCtUGohjr9uGewH7bzuR0WGNMSl5WeDnfL0Quvsp_WXQ-tC0VElyKrMxJS0inUTb9zIndahVqiTxFUwoS8cTCK9LXCpruGZnHl2Ckf83kkDHS_qokU5WmavNP3Miau3Lj0_bxLBv8QKSu5Mw0z0F3X9exQ8kPqa9vbPxvgj_cFpBoMCl6XVa7XX4FN9F2wIAEqCXVzLWVhc3QtMTDjBw.m3u8
 
 #EXTINF:-1 tvg-id="USA | Fox Premium action" tvg-name="USA | Fox Premium action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="PELICULAS Y SERIES", 105 | Fox premium action
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsoFqfZ-hu_p0k_luBfi8v5jaeXl-n1y3F0xmmP2kgBxX-fFecFbl8RYshbxQhLQ--abfbfX5tin3H4bYFzwxFIK6JlyeE4Yzcpvtpk2mLVhA3AsIUioGoe-7mypUgM84PsfNFUu3PvJkGJ9CX06fSRnLy-yHds_VcjqmnG1Jxk8pAAFBsb5sZNBRTZiQDVbcz4bjbzt5DInhpv0dNxpFwfcwmGb6MxHD-Ox15wBe9ntEAArSF5ESxLr5KifUnr4aTnUmok7jOIy2To3IlFJUvGnaAm8qEQzqZ_xhl8vNCfMnq2yGWlSACpsMYPfdkJL08jvOiGkLLP5ys-RGLrR5Xx_CUwWhrtgJvEj6wBlcO-TrtLW2TENYburU4cS8H6hKhfAXyu1BVqn9qOHprESajtgLYT6QgLWR9g7HpRaF2X3lOzK8jcl3GsZ2CWlGiL6bGqlBJ0KeBRdokBWt1VRROogBhTy7mEGX7bdfgpPCpg7ed985Ban9ZeJTkud993y0i4TPMMtLy4OGjAnBdniiaiJRQ_Yz08qdclofYUplYLmoxyePKAbh4SdR4Lkx28WNKgxeH18AwJXVEzc3K965xsBgSOyw0P56pTpU9UlY4cboCAp0L0LEANl4qJMhODfeEtEjZTLfAPaagO3-dIEHQhqOvTyxDNcK9yyC4bvVNm3riqHL8CuLUX7QTenGEJ4tLljGs7_woZbzQu_1fsFo1UfgzD7c8HbIbmPM-drmmID_hmXv46DNr-cBm95HZRxwINJ8c0KlELVHohM-_xTqxOlOkyqrqo3Wuzb62fRDkCIUI5HAi7MMIJkP6Iu1-8HPKKUzqF38ayh0SAW1Uwey_1wUe8E5FgWputR6so1aBQPycQzsayxp26MLUVl3VfxgCeLlEr7ehFSvG2-ys4u3IxA-U_3B4ScL-5XMR488vukZk52JyW7vHUratMvGgzujoALiTCThBgLdZogASoJdXMtZWFzdC0xMOMH.m3u8
+https://directv.bz/uuid/486jwnhg/key/dc75dcf3324e5548cd40068423c08687
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
 http://38.41.8.1:8000/play/a05u
+
+#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
+http://45.4.3.76:7700/play/a02d
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO COMEDY
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
@@ -188,6 +193,9 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
+https://directv.bz/uuid/31427hki/key/dc75dcf3324e5548cd40068423c08687
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
@@ -2680,6 +2688,7 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM", MOVISTAR https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/chunklist.m3u8
+
 #EXTINF:-1 group-title="TV PREMIUM", MOVISTAR ACCIÓN https://stream.ads.ottera.tv/cl/240410cob092c4f1300s5ramlg/1280x720_2300000_0_f.m3u8?i=475_1153
 #EXTINF:-1 group-title="TV PREMIUM", HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
