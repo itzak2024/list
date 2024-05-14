@@ -145,11 +145,11 @@ http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", 100 | Universal Crime
 http://138.59.177.34:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", 101 | Universal Cinema
-http://138.59.177.34:8000/play/a07c/index.m3u8
+https://directv.bz/uuid/358gutim/key/b6e38f94347b2a24b9c9e65d775ac334
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="PELICULAS Y SERIES", 102 | Universal Reality
 http://138.59.177.34:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Comedy" tvg-name="USA | Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015318&path-prefix=es" group-title="PELICULAS Y SERIES", 103 | Universal Comedy
-http://138.59.177.34:8000/play/a05w/index.m3u8
+https://directv.bz/uuid/35ayff70/key/b6e38f94347b2a24b9c9e65d775ac334
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", 104 | Universal Premiere
 http://138.59.177.34:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337481747-universal-premiere.png" group-title="PELICULAS Y SERIES", 104.2 | Universal Premiere Oeste
@@ -194,9 +194,10 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 https://directv.bz/uuid/31427hki/key/dc75dcf3324e5548cd40068423c08687
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
+https://directv.bz/uuid/31427hki/key/b6e38f94347b2a24b9c9e65d775ac334
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
