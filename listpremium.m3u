@@ -44,7 +44,8 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",Via Television Tarapoto | PE
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru",Televisionpe https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=7790994
+#EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru",Televisionpe 
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=7790994
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
