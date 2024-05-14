@@ -138,6 +138,14 @@ http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 http://138.59.177.34:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
 https://directv.bz/uuid/314v048y/key/b6e38f94347b2a24b9c9e65d775ac334
+
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
+https://directv.bz/uuid/424hrddw/key/19ae8556c0a3f8b80f7c73c9730b9736
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
+https://directv.bz/uuid/345kffua/key/19ae8556c0a3f8b80f7c73c9730b9736
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
+https://directv.bz/uuid/34am1mk3/key/19ae8556c0a3f8b80f7c73c9730b9736
+
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 97 | FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 98 | Clover Channel
