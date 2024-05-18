@@ -193,9 +193,11 @@ http://41.205.93.154/HBO/index.m3u8
 https://directv.bz/uuid/313dsc9w/key/b6e38f94347b2a24b9c9e65d775ac334
 
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
-https://directv.bz/uuid/466khrpz/key/b6e38f94347b2a24b9c9e65d775ac334
+http://190.113.43.210:8000/play/a00r
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
-http://45.166.92.22:58001/play/a03t/index.m3u8
+http://190.119.84.92:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
+http://8.242.121.210:8080/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO +
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
