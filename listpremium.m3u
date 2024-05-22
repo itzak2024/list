@@ -429,7 +429,7 @@ http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 213 | On Tour Channel
 https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA", 214 | Sun Channel
-http://138.59.177.34:8000/play/a044/index.m3u8
+http://45.5.116.178:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="IN | Travelxp" tvg-name="IN | Travelxp" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="ESTILOS DE VIDA", 215 | Travelxp
 http://38.41.8.1:8000/play/a014
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA", 216 | El Gourmet Televisión
