@@ -116,6 +116,8 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 80 | MX Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Amazon Prime" tvg-name="CL | Amazon Prime" tvg-logo=" " group-title="PELICULAS Y SERIES", 80 | Amazon Prime
+http://45.90.106.7:8779/play/QmnY940TsS4@rfZ54N/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 82 | Claro Cinema
