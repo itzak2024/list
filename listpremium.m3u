@@ -10,7 +10,8 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfi
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Avatar 2 http://45.179.164.59:8181/Peliculas/2023/Avatar%20The%20Way%20Of%20Water%20(2022)%20%5b720p%5d/Avatar.The.Way.Of.Water.2022.mkv
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Avatar 2 
+https://player.how/movie/?imdb_id=tt1630029&title=Avatar:%20The%20Way%20of%20Water&year=2022
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
