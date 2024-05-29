@@ -10,6 +10,8 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfi
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Avatar 2
+http://45.179.164.59:8181/Peliculas/2023/Avatar%20The%20Way%20Of%20Water%20(2022)%20%5b720p%5d/Avatar.The.Way.Of.Water.2022.mkv
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
@@ -19,7 +21,7 @@ http://186.148.195.206:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://192.141.99.3:8000/play/a03d
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max
-http://190.216.162.234:8000/play/a00p
+http://190.216.162.234:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru",TVpe
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
@@ -95,7 +97,7 @@ http://190.216.162.234:8000/play/a02j
 http://38.41.8.1:8000/play/a00a
 
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
-http://74.91.17.110/play/spacehd
+http://38.199.5.160:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 72 | Azteca Cinema
@@ -124,6 +126,8 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Amazon Prime" tvg-name="CL | Amazon Prime" tvg-logo=" " group-title="PELICULAS Y SERIES", 80 | Amazon Prime
 http://45.90.106.7:8779/play/QmnY940TsS4@rfZ54N/index.m3u8
+#EXTINF:-1 tvg-id="CL | Amazon Prime" tvg-name="CL | Amazon Prime" tvg-logo=" " group-title="PELICULAS Y SERIES", 80 | Amazon Prime
+http://45.90.106.7:8779/play/NmWb689iE3@BqHL7V/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 82 | Claro Cinema
