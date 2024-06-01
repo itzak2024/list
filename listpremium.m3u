@@ -15,8 +15,6 @@ https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", El planeta de los simios nuevo reino 
 https://xhisossxof6ziadr.sw-cdnstreamwish.com/v/01/03974/8zen94yqm5jy_h/265193--d4d79291-628b-4fe1-87c6-01621bc3e260--oney--2319070-streamwish.mp4?t=JGF9bOrpw_vIKaCLxfFvT90cdp6UP62AaJI2f0wXPoE&s=1717095543&e=129600&f=19871774&sp=400&i=0.0
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", tratamos demasiado bien a las mujeres
-
-
 https://kxbg0h85dae8.pradoi.com/v/01/04040/41zasn99m9bp_h/266415--0c8d8aa9-7059-4a6c-a816-dcb47a37f0fb--sqtu--2330176-streamwish.mp4?t=7lAQWPhE3srnqtX2blO9Pz-DFD6ZIaNVZcF7sHyUqEs&s=1717209013&e=129600&f=20203952&sp=400&i=0.0
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
@@ -461,7 +459,7 @@ http://138.59.177.34:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 220 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 221 | ESPN
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+http://38.41.8.1:8000/play/a01i
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 223 | ESPN 3
