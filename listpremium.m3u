@@ -26,16 +26,18 @@ https://fwu7y5aucmvpqd3m.sw-cdnstreamwish.com/v/01/03938/kkviu3cvy80q_h/264795--
 https://e9ccawf5esyyffhp.sw-cdnstreamwish.com/v/01/03596/znq352q3zh49_h/254631--f3a2b0c1-4c90-49df-8425-51d48b8e4898--qkdr--2231755-streamwish.mp4?t=-S9WZRT3B6z6mBUzvOI2nHIsLqz4CbzB-DaZgkEBY3k&s=1717446382&e=129600&f=17984574&sp=400&i=0.0
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", GARFIELD: LA PELICULA
 https://5nrdhdrayadkaqp2.sw-cdnstreamwish.com/v/01/03988/2h28bjyf9b1d_x/265622--79e885fa-802e-43e5-8e7d-92004a7bb2d1--gqie--2322967-streamwish.mp4?t=gWkqWXSTPG8SYm69Af-nOVsrYQpSE4DXiYrPheAcEW8&s=1717447102&e=129600&f=19943765&sp=400&i=0.0
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", NIGHTMAN LAS SOMBRAS DEL MAL
+https://jtkd5kf4kett.pradoi.com/v/01/03685/3zl2lgb9of2r_h/256333--32036a6b-3491-4943-8f69-519125ac49bf--thee--2245479-streamwish.mp4?t=odkeuMqENjlI5zvC2zDP1Ov1GW9OibXdKmSJ7rLLty0&s=1717614824&e=129600&f=18427991&sp=400&i=0.0
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
-http://38.137.194.42:8000/play/a0ma
+http://38.41.8.1:8000/play/a026
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS
-http://186.148.195.206:8000/play/a05i/index.m3u8
+http://209.45.52.14:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://192.141.99.3:8000/play/a03d
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max
-http://190.216.162.234:8000/play/a00p/index.m3u8
+http://38.62.232.25:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru",TVpe
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
