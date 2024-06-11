@@ -45,7 +45,7 @@ http://191.97.49.13:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://192.141.99.3:8000/play/a03d
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max
-http://38.62.232.25:8000/play/a002/index.m3u8
+http://38.25.46.186:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru",TVpe
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
