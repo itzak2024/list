@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
-https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b131648329547665a5499d39eb&ndvc=0&sid=ba5t1l1xb2876660478665a549f1734a
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="Canales de Peru",Panamericana http://zial2.mine.nu:8000/live/jaime5/jaime5/2022.ts
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
@@ -34,8 +32,6 @@ https://sedrfmwrpjxatem5.sw-cdnstreamwish.com/v/01/03794/xci8etaapfx4_h/259667--
 https://dcdxsqfmj7z5tynr.sw-cdnstreamwish.com/v/01/04088/dh4vrksdgivi_h/268360--5eb8b0c0-9a44-4914-b582-d7a7c7cfe48b--osuc--2347906-streamwish.mp4?t=Z_0g_jH46j7KMM_TifVxQhoqYN_TRi5PzvLACTJzGUw&s=1718069986&e=129600&f=20443062&sp=400&i=0.0
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", CHICA ARTIFICIAL
 https://mnnx3x8e5xk.sw-cdnstreamwish.com/v/01/03794/dzzv2e2h5cuu_h/259669--444431cf-8258-4d79-bc06-8ab326249fb0--safn--2273029-streamwish.mp4?t=kTKQmUITry6jPJF5ZvVUBhLUFAeADcxD6MY4HKJpYag&s=1717899595&e=129600&f=18970503&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", ASTRAL WOODS - BOSQUES ASTRALES
-https://hkpl82vl0bni.pradoi.com/v/01/02048/5xtxg0msv247_h/222596--0ec90e23-7c45-499c-ae69-86f6cfef94c1--ucfx--1853198-streamwish.mp4?t=OvYJ7LewzF_k1UEoICdFg-3bR8EBSqZ0iUhH5WSH8R0&s=1717900482&e=129600&f=10241305&sp=400&i=0.0
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
@@ -59,11 +55,12 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=11078542
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 34 | Master Televisión || Tarapoto
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV (720p) [ 24/7]
 http://190.216.162.154:8001/play/a09f
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (720p) [Not 24/7]
-http://45.232.148.101:8000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
+http://190.2.213.38:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (720p) [ 24/7]
+http://181.189.244.252:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
 http://181.189.244.252:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
@@ -73,7 +70,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
-http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
+http://45.173.201.50:4000/play/a023
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
 http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
@@ -139,7 +136,7 @@ http://38.188.100.26:8000/play/a0b0
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 76 | Sony Channel
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 76 | Sony Channel
-http://38.41.8.1:8000/play/a05w
+http://170.82.37.21:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 77 | Sony Movies
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 77 | Sony Movies
@@ -214,13 +211,13 @@ http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En http://74.91.17.110/play/cinemaxhd
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax Sp http://45.181.122.13:8000/play/028
 #EXTINF:-1 tvg-id="USA | Fox Premium action" tvg-name="USA | Fox Premium action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="PELICULAS Y SERIES", 105 | Fox premium action
-https://directv.bz/uuid/486jwnhg/key/dc75dcf3324e5548cd40068423c08687
+http://190.115.15.49:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
 http://38.41.8.1:8000/play/a05u
 
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
-http://45.4.3.76:7700/play/a02d
+http://38.7.223.20:8000/play/a01h
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO COMEDY
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
@@ -232,7 +229,7 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 http://41.205.93.154/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
-https://directv.bz/uuid/313dsc9w/key/b6e38f94347b2a24b9c9e65d775ac334
+http://38.41.8.1:8000/play/a031
 
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
 http://190.113.43.210:8000/play/a00r
