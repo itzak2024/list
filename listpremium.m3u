@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b131648329547665a5499d39eb&ndvc=0&sid=ba5t1l1xb2876660478665a549f1734a
+https://jireh-4-hls-video-us-isp.dps.live/chunks/567ffde3fa319fadf3419efda25619456231dfeabdai/latina/latina.smil/latina/livestream1/l_685_24855000_61509.ts?bpkio_serviceid=b427426b8acd2c2ee88847cc933ab21b&bpkio_sessionid=10c1d45b37-a4e96cb4-7b72-42a4-b1e0-ca94e1205715&ch=latina&dpssid=b131648329547665a5499d39eb&ndvc=0&oservice=567ffde3fa319fadf3419efda25619456231dfeabdai&sid=ba5t1l1xb275578191166710c161ada6
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="Canales de Peru",Panamericana http://zial2.mine.nu:8000/live/jaime5/jaime5/2022.ts
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
