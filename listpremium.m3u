@@ -3,6 +3,8 @@
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 https://jireh-4-hls-video-us-isp.dps.live/chunks/567ffde3fa319fadf3419efda25619456231dfeabdai/latina/latina.smil/latina/livestream1/l_685_24855000_61509.ts?bpkio_serviceid=b427426b8acd2c2ee88847cc933ab21b&bpkio_sessionid=10c1d45b37-a4e96cb4-7b72-42a4-b1e0-ca94e1205715&ch=latina&dpssid=b131648329547665a5499d39eb&ndvc=0&oservice=567ffde3fa319fadf3419efda25619456231dfeabdai&sid=ba5t1l1xb275578191166710c161ada6
+#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
+http://177.126.51.9:8000/play/a02e
 #EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="Canales de Peru",Panamericana http://zial2.mine.nu:8000/live/jaime5/jaime5/2022.ts
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
@@ -10,28 +12,6 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfi
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", 100 velitas
-https://qpljyz39awcoenfd.sw-cdnstreamwish.com/v/01/03936/sclm4dg323cj_h/264781--149b6787-e622-4dd1-abf5-d07b72c050bc--rqgd--2315274-streamwish.mp4?t=SI_5wrNEgJXeullB6g-D1nh-m3O7YUu0c_2AS2U6IME&s=1718592145&e=129600&f=19684863&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", Mi isla bonita
-https://hkpl82vl0bni.pradoi.com/v/01/03089/4ocuomfa5g9v_n/241219--64a0d320-1bd3-4c0c-8658-f4c8b4bde6dd--zhyn--2097065-streamwish.mp4?t=ay0mlquijget9rrZ1ckXVUXdiZ-soC3k_gzN0YyaYKQ&s=1717279160&e=129600&f=15448943&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", NAHIR
-https://js4bwlkgfmtmjmvh.sw-cdnstreamwish.com/v/01/03912/4gfwy7ity3o7_h/264091--b610627b-cd33-46ba-bde3-1eab83b8760c--jhti--2309106-streamwish.mp4?t=DFLO9DKAJuj88PzGFd086igVfXlh3iXCcHaawu9Spwk&s=1718475866&e=129600&f=19560466&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", Atlas
-https://gy4kxlg7mxrdxe7k.sw-cdnstreamwish.com/v/01/03939/jytsjfhbm90m_h/264800--66fe9c8a-4111-49d6-9f57-76e427a086d3--jlkx--2315445-streamwish.mp4?t=swagpiw2juaVXhNG78KJCmZ2hFes3PO5z6CYhrkZn68&s=1717445719&e=129600&f=19695325&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", Perra vida
-https://fwu7y5aucmvpqd3m.sw-cdnstreamwish.com/v/01/03938/kkviu3cvy80q_h/264795--06e02221-dd80-4322-a153-92256a7fe37a--xxlp--2315400-streamwish.mp4?t=jWocx1EoBezPNOFXSO9LM5t1H258WajY3CbZlXhY_cA&s=1717446137&e=129600&f=19694948&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", APE VS MECHA APE
-https://e9ccawf5esyyffhp.sw-cdnstreamwish.com/v/01/03596/znq352q3zh49_h/254631--f3a2b0c1-4c90-49df-8425-51d48b8e4898--qkdr--2231755-streamwish.mp4?t=-S9WZRT3B6z6mBUzvOI2nHIsLqz4CbzB-DaZgkEBY3k&s=1717446382&e=129600&f=17984574&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", GARFIELD: LA PELICULA
-https://5nrdhdrayadkaqp2.sw-cdnstreamwish.com/v/01/03988/2h28bjyf9b1d_h/265622--79e885fa-802e-43e5-8e7d-92004a7bb2d1--gqie--2322967-streamwish.mp4?t=hs0-qX4i357915JQoBB1D3nXDy1z2MQyX7dr9nty59M&s=1718045724&e=129600&f=19943765&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", NIGHTMAN LAS SOMBRAS DEL MAL
-https://jtkd5kf4kett.pradoi.com/v/01/03685/3zl2lgb9of2r_h/256333--32036a6b-3491-4943-8f69-519125ac49bf--thee--2245479-streamwish.mp4?t=odkeuMqENjlI5zvC2zDP1Ov1GW9OibXdKmSJ7rLLty0&s=1717614824&e=129600&f=18427991&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", DIOSES DE LA PROFUNDIDAD
-https://sedrfmwrpjxatem5.sw-cdnstreamwish.com/v/01/03794/xci8etaapfx4_h/259667--aec78a7e-031f-4af1-969d-e5163ef64a98--oibs--2273013-streamwish.mp4?t=SI9nDlpdI8CXuQRb1xiEFPer__U0l06Y8vRIHcuCu9A&s=1717615427&e=129600&f=18970417&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", CIVIL WAR
-https://dcdxsqfmj7z5tynr.sw-cdnstreamwish.com/v/01/04088/dh4vrksdgivi_h/268360--5eb8b0c0-9a44-4914-b582-d7a7c7cfe48b--osuc--2347906-streamwish.mp4?t=Z_0g_jH46j7KMM_TifVxQhoqYN_TRi5PzvLACTJzGUw&s=1718069986&e=129600&f=20443062&sp=400&i=0.0
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", CHICA ARTIFICIAL
-https://mnnx3x8e5xk.sw-cdnstreamwish.com/v/01/03794/dzzv2e2h5cuu_h/259669--444431cf-8258-4d79-bc06-8ab326249fb0--safn--2273029-streamwish.mp4?t=kTKQmUITry6jPJF5ZvVUBhLUFAeADcxD6MY4HKJpYag&s=1717899595&e=129600&f=18970503&sp=400&i=0.0
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
@@ -529,7 +509,7 @@ http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 229 | Claro Sports 2
 http://138.59.177.34:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 230 | TNT Sports
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+http://38.7.223.20:8000/play/a01x
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", 231 | TyC Sports
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 232 | El Garage TV
