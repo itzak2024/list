@@ -232,33 +232,29 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 112 | HBO Pop
 http://38.7.223.20:8000/play/a01z
 
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-https://directv.bz/uuid/31427hki/key/10de8ef708e4877834155ef357921b3b
 TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://45.4.3.76:7700/play/a008
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://38.7.223.20:8000/play/a02c
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-https://directv.bz/uuid/31427hki/key/b6e38f94347b2a24b9c9e65d775ac334
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 114 | TNT Series
-http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+http://38.41.8.1:8000/play/a01g
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 115 | Cine Latino
 http://138.59.177.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 116 | Golden
-http://38.252.157.62:8000/play/29
+http://45.175.139.194:8000/play/40
 #EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 117 | Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://204.157.96.1:8875/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 118 | Golden Premier
 http://45.179.164.30:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 119 | Golden Premier 2
 http://138.59.177.34:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="PELICULAS Y SERIES", 120 | Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://45.175.139.194:8000/play/29
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 121 | Multipremier
 http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 122 | Canal MC
