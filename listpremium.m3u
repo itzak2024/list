@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
-https://jireh-4-hls-video-us-isp.dps.live/chunks/567ffde3fa319fadf3419efda25619456231dfeabdai/latina/latina.smil/latina/livestream1/l_685_24855000_61509.ts?bpkio_serviceid=b427426b8acd2c2ee88847cc933ab21b&bpkio_sessionid=10c1d45b37-a4e96cb4-7b72-42a4-b1e0-ca94e1205715&ch=latina&dpssid=b131648329547665a5499d39eb&ndvc=0&oservice=567ffde3fa319fadf3419efda25619456231dfeabdai&sid=ba5t1l1xb275578191166710c161ada6
-#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 http://177.126.51.9:8000/play/a02e
 #EXTINF:-1 tvg-id="La academia del Sr Kleks" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La academia del Sr Kleks
 https://6x71sfq2g4l07bi.pradoi.com/v/01/04187/pb5m1esxu670_h/270640--6d6dc7fd-7cf0-46cc-ae58-e6e3c74da2d0--zxad--2368809-streamwish.mp4?t=tg0rr4o_VzYHG_xw7TxlxVHsDVpqMdIcuA9-DzssrMQ&s=1719871906&e=129600&f=20937697&sp=400&i=0.0
@@ -11,7 +9,6 @@ https://6x71sfq2g4l07bi.pradoi.com/v/01/04187/pb5m1esxu670_h/270640--6d6dc7fd-7c
 https://gy4kxlg7mxrdxe7k.sw-cdnstreamwish.com/v/01/04021/2z1lumes54rz_h/266194--5d20eb93-5cd6-4ab6-852c-0473746f2987--imjc--2328067-streamwish.mp4?t=ywWn1uCfa9YM3Op3t8pgmNdpavibGOJIfHwGpKiJcao&s=1719872161&e=129600&f=20108801&sp=400&i=0.0
 #EXTINF:-1 tvg-id="Mi villano favorito 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMAazhw5tKMTszg6Ryg3NGQtzjXifOOYzNyw&s" group-title="movie",Mi villano favorito 4 
 https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecnXW&export=download&authuser=0&confirm=t&uuid=d081db13-0b0f-4ea9-9302-9720bb73cae1&at=APZUnTWp3aIDjI9bsfoz9RuMl85s%3A1720054013526
-#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="Canales de Peru",Panamericana http://zial2.mine.nu:8000/live/jaime5/jaime5/2022.ts
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="" tvg-name="this is me"  group-title="movies", this is me una historia de amor
@@ -60,7 +57,7 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
 http://45.173.201.50:4000/play/a023
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
-http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",Via Television Tarapoto | PE
@@ -71,9 +68,8 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-evg4.tv360.bitel.com.pe/bit
-el/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
@@ -106,7 +102,8 @@ http://74.91.17.110/play/ae
 http://190.216.162.234:8000/play/a02j
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space Sp
 http://38.41.8.1:8000/play/a00a
-
+#EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" group-title="MUSICA" | MTV2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://38.199.5.160:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
