@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
-http://177.126.51.9:8000/play/a02e
+http://38.187.2.194:8000/play/a0pc
 #EXTINF:-1 tvg-id="La academia del Sr Kleks" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La academia del Sr Kleks
 https://6x71sfq2g4l07bi.pradoi.com/v/01/04187/pb5m1esxu670_h/270640--6d6dc7fd-7cf0-46cc-ae58-e6e3c74da2d0--zxad--2368809-streamwish.mp4?t=tg0rr4o_VzYHG_xw7TxlxVHsDVpqMdIcuA9-DzssrMQ&s=1719871906&e=129600&f=20937697&sp=400&i=0.0
 #EXTINF:-1 tvg-id="bad boys" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",Bad boys
