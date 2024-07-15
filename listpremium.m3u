@@ -5,6 +5,8 @@ https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilte
 http://38.252.215.1:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://200.59.191.6:5000/play/a02l
+#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
+http://192.141.99.3:8000/play/a031
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 http://38.187.2.194:8000/play/a0pc
 #EXTINF:-1 tvg-id="La academia del Sr Kleks" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La academia del Sr Kleks
