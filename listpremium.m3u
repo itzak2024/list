@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
-http://38.252.215.1:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://200.59.191.6:5000/play/a02l
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://192.141.99.3:8000/play/a031
@@ -51,8 +49,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=13961475
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 34 | Master Televisión || Tarapoto
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV (720p) [ 24/7]
-http://190.216.162.154:8001/play/a09f
+
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
 
@@ -63,7 +60,8 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
-http://45.173.201.50:4000/play/a023
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cs8FY2W26iUKTXZET3IHONcCEsBjgdTx9ip1pf1Vz6KnREf5y1j5pC0CAgP_TfQ1l5xeWmeDTOjvnFi5liP88jyqfLAlQCrTUWAMdhYgCkKR_d5vdS78hNGHfzd6NlNZ4j75D2HeolwVU_JzKHHmszfoXBG20XIzFx4FUgnaYX8hOuHsiQMAVf_59ptMgNKwaLuYdxMgjvte01pyW4V4bgdMLaQyt8xlI2lA2Z0FXFPfOKcYWPpB677F0Bi0iz1a0W3RA1JKqOIoL5cyhHAUj54lJreKLFUn3n9foaKmxwmjFUKZtR__I5y6uPfWfWQyF17yja46mxtBoji7xiOD9ci5sZpMXw5L7_-MG5Z2fxBBq84FMzv-hsZfJ3tFHWQpIspAvGgBubnETdTzwXk_WZmtO53AHUQppdqpYGYwsc97ID9H8B7KusnrzdmiWNU2UgOqO2zwPreNxYnygmI0GHruXwnVbYVlpC_yxKGA-NIa-ksXJa-oNvTUQD4chPWyADE7eoxojvfZVqTdqwjwbPvx1Owup2StiWnVqyC0IUwGLQJYsWk40Z9rBaqx51YHJqLyZoYRTs12uWIeqSIpQ_IEMLAHXRwBljMNhb1f_RWlmqww6moe1IpsD0-0rp96kHIxOX7bl00MnE3ArG1cVuI8NpX5mtTbaCiOcXxx2OVZMICDDRY4KLghO2bNO3PL9UazGPfFGZz4Ta0RQblTAs2frgtb7ibBKnPCo-yvHBciv4rfFRg5IWjc8jnaTlLAndjsFaBeu2OgEHpN0aObJOHIAJjo39t-KeSW3PgmpGHLW2bCppjQWXekXni-NQVlhpHNcEAJK7ltXMvFUuem2mYOeNsRkwHy3_11rLq_Xl2M9lrorFL-iEm_zXL3LNxQWkfDfgiVRg7Gq5dieG1Rqt5CEuKfkIrwoNZy8M2bxXr25ZiLAlfv6MPO3uqzMJCgOvYaDNUHAiSMqn_z22GY7SABKgl1cy1lYXN0LTEwtQg.m3u8
+
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
@@ -80,7 +78,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
+http://201.230.101.42:8000/play/a004
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJEtjxM4KJ7ykaL06baJCsY9Aaa4DPlmqVNTcK_NNsonzlM9TQh0Biauma4I47WKS0M1DioSYZbc4JFyIoWLZ5vQhmrrznaQZL6CRV2Lp-nrq78FJFwpdaoZsR5x68oREuR2XHo40YLfs/s1600/radio-tropical.jpg" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Canales de Peru",La Ribereña (Pucallpa) (480p) [Not 24/7]
