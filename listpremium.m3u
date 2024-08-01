@@ -11,8 +11,10 @@ http://38.187.2.194:8000/play/a0pc
 http://38.187.2.194:8000/play/a0pc
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 http://38.41.8.1:8000/play/a02h
-#EXTINF:-1 tvg-id="abigail" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",abigail
+#EXTINF:-1 tvg-id="Perspectiva" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",Perspectiva
 https://vb889as.video-delivery.net/u5kj7dtxm7d3sdgge6rbqna7jhhruftkjbyqphuncu3vhtqoemsjtnzc67mq/259267--65850fe5-87d7-4a95-9c34-dd0d2ab0a3dd--btvg--2269751-doodstream.mp4?token=fqw1z381cph3gtwvrataia99&expiry=1721245689412
+#EXTINF:-1 tvg-id="abigail" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",abigail
+https://xhisossxof6ziadr.pradoi.com/v/01/04376/ciqktsgyymgc_h/273114--dbb9474c-29c0-4d10-9e4d-89179ea1ad79--aerd--2391825-streamwish.mp4?t=0Xni6o19e7CTqVVpkLCrPpbykLusP1jtZpdRXqLynU0&s=1722474870&e=129600&f=21880918&sp=400&i=0.0
 #EXTINF:-1 tvg-id="La primera profecia" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La primera profecia
 https://gy4kxlg7mxrdxe7k.pradoi.com/v/01/03986/g2c0u21xlho8_h/265603--66001eca-42c1-44d0-bf11-a742de6c1a52--uxgs--2322762-streamwish.mp4?t=uGSbZ82VFG8j6C5J1mfJG0CsX34Z2yTbB9m42SlYlDw&s=1721519616&e=129600&f=19930962&sp=400&i=0.0
 #EXTINF:-1 tvg-id="SUSURROS MORTALES" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie", SUSURROS MORTALES
