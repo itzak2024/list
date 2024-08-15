@@ -114,14 +114,16 @@ http://74.91.17.110/play/ae
 http://190.216.162.234:8000/play/a02j
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space Sp
 http://38.41.8.1:8000/play/a00a
-#EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" group-title="MUSICA" | MTV2
+#EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" group-title="MUSICA" | MTV2 EN
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" group-title="MUSICA" | MTV ES
+http://38.41.8.1:8000/play/a04t
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://38.199.5.160:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 72 | Azteca Cinema
-http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+http://38.252.158.1:8000/play/a02u
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 73 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
