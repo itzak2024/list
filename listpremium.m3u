@@ -42,6 +42,8 @@ http://200.37.59.35:8000/play/a034/index.m3u8
 http://209.45.103.201:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://209.45.52.14:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
+http://38.56.113.12:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru",TVpe
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
@@ -64,6 +66,9 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
+http://38.56.113.12:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cs8FY2W26iUKTXZET3IHONcCEsBjgdTx9ip1pf1Vz6KnREf5y1j5pC0CAgP_TfQ1l5xeWmeDTOjvnFi5liP88jyqfLAlQCrTUWAMdhYgCkKR_d5vdS78hNGHfzd6NlNZ4j75D2HeolwVU_JzKHHmszfoXBG20XIzFx4FUgnaYX8hOuHsiQMAVf_59ptMgNKwaLuYdxMgjvte01pyW4V4bgdMLaQyt8xlI2lA2Z0FXFPfOKcYWPpB677F0Bi0iz1a0W3RA1JKqOIoL5cyhHAUj54lJreKLFUn3n9foaKmxwmjFUKZtR__I5y6uPfWfWQyF17yja46mxtBoji7xiOD9ci5sZpMXw5L7_-MG5Z2fxBBq84FMzv-hsZfJ3tFHWQpIspAvGgBubnETdTzwXk_WZmtO53AHUQppdqpYGYwsc97ID9H8B7KusnrzdmiWNU2UgOqO2zwPreNxYnygmI0GHruXwnVbYVlpC_yxKGA-NIa-ksXJa-oNvTUQD4chPWyADE7eoxojvfZVqTdqwjwbPvx1Owup2StiWnVqyC0IUwGLQJYsWk40Z9rBaqx51YHJqLyZoYRTs12uWIeqSIpQ_IEMLAHXRwBljMNhb1f_RWlmqww6moe1IpsD0-0rp96kHIxOX7bl00MnE3ArG1cVuI8NpX5mtTbaCiOcXxx2OVZMICDDRY4KLghO2bNO3PL9UazGPfFGZz4Ta0RQblTAs2frgtb7ibBKnPCo-yvHBciv4rfFRg5IWjc8jnaTlLAndjsFaBeu2OgEHpN0aObJOHIAJjo39t-KeSW3PgmpGHLW2bCppjQWXekXni-NQVlhpHNcEAJK7ltXMvFUuem2mYOeNsRkwHy3_11rLq_Xl2M9lrorFL-iEm_zXL3LNxQWkfDfgiVRg7Gq5dieG1Rqt5CEuKfkIrwoNZy8M2bxXr25ZiLAlfv6MPO3uqzMJCgOvYaDNUHAiSMqn_z22GY7SABKgl1cy1lYXN0LTEwtQg.m3u8
