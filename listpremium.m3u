@@ -503,30 +503,31 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
 http://204.157.96.1:8875/play/a0bc/index.m3u8
-
+#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
+http://38.41.8.1:8000/play/a0bs
 #EXTINF:-1 tvg-logo="https://puu.sh/xh3hv/30cc1bff4d.png" group-title="Entretenimiento",Mr. Bean 24/7
 http://usuarios.club/usuarios/src3/MrBean/demoUwD/OV0.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV
-http://usuarios.club/usuarios/src1/MTV/demoUwD/OV0.m3u8
+http://38.41.8.1:8000/play/a04t
 
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV (Opcion 2)
-http://usuarios.club/usuarios/src2/MTV_HD/demoUwD/OV0.m3u8
+http://38.41.8.1:8000/play/a02u
 
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV (720p)
 http://usuarios.club/usuarios/src2/MTV_HD/demoUwD/OV0/hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" group-title="Musica",MTV Hits (Opcion 2)
-http://usuarios.club/usuarios/src2/MTV_HITS/demoUwD/OV0.m3u8
+http://195.189.60.34:9006/play/a00r
 
 #EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" group-title="Musica",MTV Hits (720p)
-http://usuarios.club/usuarios/src2/MTV_HITS/demoUwD/OV0/hd.m3u8
+http://193.106.124.204:8003/play/a05r
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live
-http://usuarios.club/usuarios/src1/MTVLive/demoUwD/OV0.m3u8
+http://200.59.191.6:5000/play/a01i
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live (Opcion 2)
-http://usuarios.club/usuarios/src2/MTV_LIVE_HD/demoUwD/OV0.m3u8
+http://38.187.2.194:8000/play/a085
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live (720p)
 http://usuarios.club/usuarios/src2/MTV_LIVE_HD/demoUwD/OV0/hd.m3u8
