@@ -61,8 +61,8 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
 
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (480p)
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (720p)
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/live2/alba-pe-atv-atvsur_720p/chunks.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
@@ -267,7 +267,7 @@ http://45.4.3.76:7700/play/a008
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-http://45.181.122.13:8000/play/038
+http://45.160.12.253:8000/play/109
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
