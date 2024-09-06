@@ -211,8 +211,7 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 http://41.205.93.154/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
-http://38.41.8.1:8000/play/a031
-
+http://177.126.51.9:8001/play/a086
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
 http://192.141.99.3:8000/play/a038
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
