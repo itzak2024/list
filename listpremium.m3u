@@ -6,7 +6,7 @@ http://200.59.191.6:5000/play/a02l
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://192.141.99.3:8000/play/a031
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
-http://38.187.2.194:8000/play/a0pc
+http://38.41.8.1:8000/play/a02h
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 http://38.187.2.194:8000/play/a0pc
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
@@ -22,7 +22,7 @@ https://mnnx3x8e5xk.pradoi.com/v/01/04653/yfo09x1bribk_h/279513--2b159428-70d9-4
 #EXTINF:-1 tvg-id="Mi villano favorito 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMAazhw5tKMTszg6Ryg3NGQtzjXifOOYzNyw&s" group-title="movie",Mi villano favorito 4 
 https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecnXW&export=download&authuser=0&confirm=t&uuid=d081db13-0b0f-4ea9-9302-9720bb73cae1&at=APZUnTWp3aIDjI9bsfoz9RuMl85s%3A1720054013526
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-c.cf.dmcdn.net/sec2(uxjXj1oDRkD3CxyhKpwbWa_uz3w31mPSNKyJQ9FqTfMeVNNOMEV_QBnKWiBQ8TCv4Ebehk__BNA6E-bvwQ8m50wYdQQAy5fYSF8s5f4sgfk)/dm/3/x774s7s/s/live-720.m3u8#cell=lcfc
 #EXTINF:-1 tvg-id="" tvg-name="this is me"  group-title="movies", this is me una historia de amor
 https://rcw6bat4y3dx8.pradoi.com/v/01/03069/rzdpjwdo05s0_n/240923--06aa4b87-d56c-4401-9c59-fde6219313ea--anrd--2094906-streamwish.mp4?t=ebWoDGtTYQLg9hm-ICpbIuFKfiP1MN70wGXyFf7m_q0&s=1718806343&e=129600&f=15346323&sp=400&i=0.0
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
