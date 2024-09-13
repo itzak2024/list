@@ -23,6 +23,8 @@ https://mnnx3x8e5xk.pradoi.com/v/01/04653/yfo09x1bribk_h/279513--2b159428-70d9-4
 https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecnXW&export=download&authuser=0&confirm=t&uuid=d081db13-0b0f-4ea9-9302-9720bb73cae1&at=APZUnTWp3aIDjI9bsfoz9RuMl85s%3A1720054013526
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://live-c.cf.dmcdn.net/sec2(sgQSPW3hk7E_ILb6aoSQrcj3fArO23N2JiYCjDbEJDqanmAeow3T2TueAryJNQYXdC_fBgYdYkeVA9UIBBlLXs8K-0prj7TIm2cJK6Ht-OM)/dm/3/x774s7s/s/live-720.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="this is me"  group-title="movies", this is me una historia de amor
 https://rcw6bat4y3dx8.pradoi.com/v/01/03069/rzdpjwdo05s0_n/240923--06aa4b87-d56c-4401-9c59-fde6219313ea--anrd--2094906-streamwish.mp4?t=ebWoDGtTYQLg9hm-ICpbIuFKfiP1MN70wGXyFf7m_q0&s=1718806343&e=129600&f=15346323&sp=400&i=0.0
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
@@ -40,6 +42,28 @@ http://192.141.99.3:8000/play/a03d
 http://200.37.59.35:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://209.45.103.201:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO HD
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
+http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
+http://181.78.8.90:16123/play/ch19
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
+http://200.60.124.19:29000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://209.45.52.14:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
