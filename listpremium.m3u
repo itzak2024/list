@@ -115,7 +115,7 @@ https://live-c.cf.dmcdn.net/sec2(t2SUSvzGqsPxqaQ6_peRHFdINLxqD20lF5lCiPzT4_IgSEW
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
-http://201.230.101.42:8000/play/a004
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJEtjxM4KJ7ykaL06baJCsY9Aaa4DPlmqVNTcK_NNsonzlM9TQh0Biauma4I47WKS0M1DioSYZbc4JFyIoWLZ5vQhmrrznaQZL6CRV2Lp-nrq78FJFwpdaoZsR5x68oREuR2XHo40YLfs/s1600/radio-tropical.jpg" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Canales de Peru",La Ribereña (Pucallpa) (480p) [Not 24/7]
@@ -143,8 +143,6 @@ http://38.41.8.1:8000/play/a006
 http://74.91.17.110/play/ae
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 69 | AMC
 http://190.216.162.234:8000/play/a02j
-#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space Sp
-http://38.41.8.1:8000/play/a00a
 #EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" group-title="MUSICA" | MTV2 EN
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" group-title="MUSICA" | MTV ES
@@ -157,7 +155,6 @@ http://38.41.8.1:8000/play/a009
 http://38.252.158.1:8000/play/a02u
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 73 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 74 | Cinecanal
 http://200.59.191.6:5000/play/a01x
@@ -216,7 +213,7 @@ http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 http://138.59.177.34:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
-http://38.41.8.1:8000/play/a04w
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
 http://154.198.57.34:8000/play/42
@@ -227,35 +224,44 @@ http://200.59.191.6:5000/play/a020
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
 http://200.59.191.6:5000/play/a035
 
+#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
+
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO COMEDY
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO DIRECT TV 
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SIGNATURE ENG
 http://41.205.93.154/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
 http://177.126.51.9:8001/play/a086
+
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
+
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
 http://192.141.99.3:8000/play/a038
+
+#EXTINF:-1,Latino | HBO Signature
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
+
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
 http://45.238.20.83:8000/play/a19b
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
-http://190.119.84.92:8000/play/a00f/index.m3u8
+http://my.streamerstv.com:25461/Bob123/Bob123/177
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
 http://8.242.121.210:8080/play/a04f/index.m3u8
+#EXTINF:-1,HBO POP
+http://my.streamerstv.com:25461/Bob123/Bob123/178
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO +
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
-http://45.181.122.13:8000/play/043
+http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 110 | HBO Xtreme
 http://179.1.48.57:9000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 112 | HBO Pop
-http://38.7.223.20:8000/play/a01z
 
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 97 | FX
 http://74.91.17.110/play/fxhd
@@ -281,6 +287,8 @@ http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax Sp http://45.181.122.13:8000/play/028
 #EXTINF:-1 tvg-id="USA | Fox Premium action" tvg-name="USA | Fox Premium action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="PELICULAS Y SERIES", 105 | Fox premium action
 http://190.115.15.49:8000/play/a05q/index.m3u8
+
+https://live.sdfgnksbounce.com:8080/MTgxLjE3Ni4xMTguMTQ5/43_3292.ts
 
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
