@@ -111,9 +111,9 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-c.cf.dmcdn.net/sec2(t2SUSvzGqsPxqaQ6_peRHFdINLxqD20lF5lCiPzT4_IgSEWre7Hwje4uJBwMlkz5swFWya_5cAEylcjvxvnufwjMrnmg_vXSdqJgP4bdE3Q)/dm/3/x7x4dgx/s/live-480.m3u8
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
 http://201.230.101.42:8000/play/a004
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJEtjxM4KJ7ykaL06baJCsY9Aaa4DPlmqVNTcK_NNsonzlM9TQh0Biauma4I47WKS0M1DioSYZbc4JFyIoWLZ5vQhmrrznaQZL6CRV2Lp-nrq78FJFwpdaoZsR5x68oREuR2XHo40YLfs/s1600/radio-tropical.jpg" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
