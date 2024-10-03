@@ -15,6 +15,8 @@ http://38.41.8.1:8000/play/a02h
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqgGBKp0speO7MQzbkjZilfwTR7_9qY78WWP3yoJxRapOHCQw_XDB8B1PnfI49458w_RV1Q0O34_Lpny56EktHmjhXPvr_TkYDZug9kQnyqK5nDBnHFbvzZ776b9w1UyX0dOEl2aIRZ7ymbHxM18xJOf6wpvVfWllQPauxXdl1zakFWfyoE8zaXTcyhZLzadvwEGUqY5RKjjug7_TWWLuIaWO2YeN-lQz2b5uRliIMczjbH5PPKh1eYDyc4vqCPr9bZhYLNYUh7be3DtsE8WmRqTEQ8o0BIryBy9u5mEfm7KoShF76tPmsEk4ytHy1lq3KcY1ZdUFtWmXqw8wn5Dh31jBkanGckXa07CAW1ARWwBdt3nubZwZsQwW_JIpN-J2cMJIDB0nfFX3i4c_rS61J6bjhjDtqGHbV7zmLKwjx9UcLIXNmYp9VD-p7jAC8oUZdbgugkoCY7cG_VmIi72vc3ohqXKOVUUWLqRTsE1r02Q7pVQDa-TFlNuectCwSpXDBGodklmmUq4sCLkVq-S_j4GhjhG2mysUmd0LmtXFLBOCFUEUkLF73Gv5T7sJuYGAMCo5re6AwFK4mW6QR9il9vcOQIMULU_S06UMUtynxTN5qixzk8nHcxngRbzJcnKINmBF4INqzHV5CdbAhtPmcNYbytdBir-e2C2iU-5POZkl7CcnJ00fdrxTqYucJZWYahADKRP5ZO9MMS39lJL7A9FujGKbuQg-nQ-anZjyygdw6Wx2FF7o3U76S8uXU2b6u-QjMr5z4xlRjqQ6cIuwuz12jNGjaUYzLtw1h7gf8nkr7NhlTg3rTPZPG3cX2pE-e8RupiVNM5aZl58yfrDBD5sqd3dru5T27wmzKb4zF-whh_O5Pb-GSdM77yAo2lrKIne_2Gr6YtXkCtp0diu5xHldL1SR1CZYGGlZnfxnGoyp5epJlu8AszJWdbkuw8t-Y0WLgeFKUcBf8gzxhPVUzB9AT6QkhWfpbUwMWXWT1M3kkNUcf8S5_hLn_6PYgd7HUJQRFvThGE6IkkzgoMSM9j7IO-voEM6nLA0uCzaFM_tp2K8cvYARSlf1hoMIoLUhJlSWfi7cV_CIAEqCXVzLWVhc3QtMTD5CA.m3u8
+#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 
@@ -40,8 +42,6 @@ https://live-b.cf.dmcdn.net/sec2(2SY4GFPE59nRjW5fTlLgZ_mCGIrulnvg1V9SqOH9NT9JMOA
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
-
-
 #EXTINF:-1 tvg-id="La Bruja" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La Bruja
 https://rcw6bat4y3dx8.pradoi.com/v/01/03087/buos0tptrlt1_h/161105--1c4c3dd8-f671-4baa-98be-2fdd854d5d20--BK--fhwl--2049297-streamwish.mp4?t=9IwFOy8x5zVmLDK8st0z2GqBArhlhXrEQI_OfAYzUMU&s=1725227132&e=129600&f=15439958&sp=400&i=0.0
 #EXTINF:-1 tvg-id="LA PEOR AMIGA" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",LA PEOR AMIGA
@@ -49,8 +49,6 @@ https://www.youtube.com/watch?v=NVDJrxs34hM
 
 #EXTINF:-1 tvg-id="Mi villano favorito 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMAazhw5tKMTszg6Ryg3NGQtzjXifOOYzNyw&s" group-title="movie",Mi villano favorito 4 
 https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecnXW&export=download&authuser=0&confirm=t&uuid=d081db13-0b0f-4ea9-9302-9720bb73cae1&at=APZUnTWp3aIDjI9bsfoz9RuMl85s%3A1720054013526
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="this is me"  group-title="movies", this is me una historia de amor
 https://rcw6bat4y3dx8.pradoi.com/v/01/03069/rzdpjwdo05s0_n/240923--06aa4b87-d56c-4401-9c59-fde6219313ea--anrd--2094906-streamwish.mp4?t=ebWoDGtTYQLg9hm-ICpbIuFKfiP1MN70wGXyFf7m_q0&s=1718806343&e=129600&f=15346323&sp=400&i=0.0
@@ -91,7 +89,6 @@ http://38.252.213.1:8000/play/a01b
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 
 http://38.252.213.1:8000/play/a00t
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
-http://154.198.57.34:8000/play/15
 http://190.60.32.178:8178/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
 http://209.45.20.210:50001/play/a00w/index.m3u8
