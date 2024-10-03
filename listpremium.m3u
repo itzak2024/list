@@ -1,12 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
-http://200.37.54.66:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://200.59.191.6:5000/play/a02l
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 http://192.141.99.3:8000/play/a031
-#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
-http://200.59.191.6:5000/play/a02m
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b277944854766e23b95d5ad4&sid=ba5t1l1xb291700407166e2534795486&ndvc=0
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
@@ -29,16 +25,14 @@ https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
 https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
-https://d1svme839xkbsn.cloudfront.net/480p.m3u8
-
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cs8FY2W26iUKTXZET3IHONcCEsBjgdTx9ip1pf1Vz6KnREf5y1j5pC0CAgP_TfQ1l5xeWmeDTOjvnFi5liP88jyqfLAlQCrTUWAMdhYgCkKR_d5vdS78hNGHfzd6NlNZ4j75D2HeolwVU_JzKHHmszfoXBG20XIzFx4FUgnaYX8hOuHsiQMAVf_59ptMgNKwaLuYdxMgjvte01pyW4V4bgdMLaQyt8xlI2lA2Z0FXFPfOKcYWPpB677F0Bi0iz1a0W3RA1JKqOIoL5cyhHAUj54lJreKLFUn3n9foaKmxwmjFUKZtR__I5y6uPfWfWQyF17yja46mxtBoji7xiOD9ci5sZpMXw5L7_-MG5Z2fxBBq84FMzv-hsZfJ3tFHWQpIspAvGgBubnETdTzwXk_WZmtO53AHUQppdqpYGYwsc97ID9H8B7KusnrzdmiWNU2UgOqO2zwPreNxYnygmI0GHruXwnVbYVlpC_yxKGA-NIa-ksXJa-oNvTUQD4chPWyADE7eoxojvfZVqTdqwjwbPvx1Owup2StiWnVqyC0IUwGLQJYsWk40Z9rBaqx51YHJqLyZoYRTs12uWIeqSIpQ_IEMLAHXRwBljMNhb1f_RWlmqww6moe1IpsD0-0rp96kHIxOX7bl00MnE3ArG1cVuI8NpX5mtTbaCiOcXxx2OVZMICDDRY4KLghO2bNO3PL9UazGPfFGZz4Ta0RQblTAs2frgtb7ibBKnPCo-yvHBciv4rfFRg5IWjc8jnaTlLAndjsFaBeu2OgEHpN0aObJOHIAJjo39t-KeSW3PgmpGHLW2bCppjQWXekXni-NQVlhpHNcEAJK7ltXMvFUuem2mYOeNsRkwHy3_11rLq_Xl2M9lrorFL-iEm_zXL3LNxQWkfDfgiVRg7Gq5dieG1Rqt5CEuKfkIrwoNZy8M2bxXr25ZiLAlfv6MPO3uqzMJCgOvYaDNUHAiSMqn_z22GY7SABKgl1cy1lYXN0LTEwtQg.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogGIrDhhN-86VzJDX-EgxXUFDrlDUGKfuIxmMrFmxaCTko9rTzQH28lnHUvwayoK33qrfl8PkdBRYR_erDUZTQIhjWWmZVrTBa_-qKvNLy-jk0eBlFKnfJ9LeWdLdmPZxAKrAUaMaQK88_zcV55uCq-VQN8ZDHAvOKFTYWMMYcCWG_5ovCHAGA2Bjd9frAWLbPD2dSxhsAalmzNTqdEMIvGlHT-M2tWz5N-iQHz-ewNjui7v-KCUOYY95hy8EoWuOj2Kwj580V0i4RcBFI5TlC_-ss19zW0kyNTDBA_k-GuCiwmNuP9Wm5QfzVAGmnu25b2GWUWSfFiuoD_wWZwJGvVAjEvS5UPx4EABO4M4DIJMm7Fqu5sZa91ZLUHvzl1T7slR9Jq_FM08L6wAJwyzlcHKJOfLyugOOz18jReMKUBupq1HQp83Bw4VTJ1wkPX0Xy1AlezZA30xNLAQm7MRJtnVs2HMpOKMoANT2JasFgEOn6eSjAiPbjP8aER1pnIiLzLjYpzbMVgVs5kDKsuOJRYoH1vuM0UgDEu1TFJ9ODwFDmQmSGocg64EOFIhwXOUGiRYVXambtuNQmWVYpJu-msUESsowRp7qH6fQunq7OcFiK13b0qWapUlN6C7It6GO6gEUgSCt4E5E0AEzZ9yqupdHustVp8Y1_-cK95ENKnDavwzWdT3cbpJa_aeLyn05mgUrmYauarSGO4FZkHA56oFle-fKJT9bojdS5p_XzZubHxWQpmDpz4qOM-XWlUwKrGT5irwSBfhd71ueFI8eMBjY1XlsQJCWZp2EtofiPtysyK02gqNlCFPH9kBjFQ2lkgeyQSIccSJ9tMsgfc1X65jZ9YPYcuZtI9OIO7PoIZhzdYFZ_IH0Fq-Sftls3wLZ-Mtz84sy5XLyYz-PcLTsdH6-eCfDoTo5Qzt6G9X4OdLLv3oxUMtfl3aai_o98Qh5-tbCYk67Oq1TlLm9rvYf0e0wTxo5rGKRbbGvjdOL8wMMhZ0VQT1adXUW3sfY1fUiCTPypyCspk08UaDH1zsTKSL6nRg1hgSSABKgl1cy1lYXN0LTEw-Qg.m3u8
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://live-b.cf.dmcdn.net/sec2(5oNvv3xCeT-3Q7aFpFIahQiY9aUYHcbAF24GG8FZjumYyM20g77VH_-GMCZm5QCaZnglOFsPdS8zUvF2uIPZcyX4mbocLABA-rSimucHkW-FwSQNA0pkDE2V1nA27qrA)/dm/3/x7x4dgx/s/live-480.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 https://live-b.cf.dmcdn.net/sec2(2SY4GFPE59nRjW5fTlLgZ_mCGIrulnvg1V9SqOH9NT9JMOAL7MssR1ypmWkaTwdA6q-rFz8HZwb2TKZUaZKvpPG5N4VcZN1JzJU8nbmMBd9vnjU-_CfgS1L8TWRgdnPQ)/dm/3/x7x4dgx/s/stream-480-1727844284.ts
+
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
@@ -52,6 +46,7 @@ https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecn
 
 #EXTINF:-1 tvg-id="" tvg-name="this is me"  group-title="movies", this is me una historia de amor
 https://rcw6bat4y3dx8.pradoi.com/v/01/03069/rzdpjwdo05s0_n/240923--06aa4b87-d56c-4401-9c59-fde6219313ea--anrd--2094906-streamwish.mp4?t=ebWoDGtTYQLg9hm-ICpbIuFKfiP1MN70wGXyFf7m_q0&s=1718806343&e=129600&f=15346323&sp=400&i=0.0
+
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
@@ -60,7 +55,8 @@ https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
 http://38.41.8.1:8000/play/a026
-#EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS http://191.97.49.13:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg.id="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS 
+http://190.216.112.169:8000/play/a03g
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://192.141.99.3:8000/play/a03d
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
@@ -88,17 +84,9 @@ http://181.78.8.90:16123/play/ch19
 http://38.252.213.1:8000/play/a01b
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 
 http://38.252.213.1:8000/play/a00t
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
-http://190.60.32.178:8178/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://209.45.20.210:50001/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://190.60.32.178:8178/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://190.60.32.178:8178/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN Premium HD
-http://209.45.20.210:50001/play/a02p/index.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://154.198.57.34:8000/play/15
 
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
