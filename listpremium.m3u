@@ -32,6 +32,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqgGBKp0speO7MQzbkjZilfwTR7
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="this is me"  group-title="movies", this is me una historia de amor
 https://rcw6bat4y3dx8.pradoi.com/v/01/03069/rzdpjwdo05s0_n/240923--06aa4b87-d56c-4401-9c59-fde6219313ea--anrd--2094906-streamwish.mp4?t=ebWoDGtTYQLg9hm-ICpbIuFKfiP1MN70wGXyFf7m_q0&s=1718806343&e=129600&f=15346323&sp=400&i=0.0
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
@@ -54,23 +55,25 @@ http://209.45.103.201:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
-http://181.78.8.90:16123/play/ch16
+http://154.198.57.34:8000/play/10
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO HD
 http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
 http://181.78.8.90:16123/play/ch17
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
-http://200.60.124.19:29000/play/a015/index.m3u8
+http://179.63.6.12:8000/play/a04v
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
-http://200.60.124.19:29000/play/a02e/index.m3u8
+http://179.63.6.12:8000/play/a04x
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+http://38.252.213.1:8000/play/a01r
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
 http://181.78.8.90:16123/play/ch19
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 
-http://200.60.124.19:29000/play/a04y/index.m3u8
+http://38.252.213.1:8000/play/a01b
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 
-http://200.60.124.19:29000/play/a01f/index.m3u8
+http://38.252.213.1:8000/play/a00t
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
-http://200.60.124.19:29000/play/a01e/index.m3u8
+http://154.198.57.34:8000/play/15
 
 
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
@@ -167,6 +170,18 @@ http://38.252.158.1:8000/play/a02u
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 73 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
+#EXTINF:-1,Cartoon Network HD-IK1610-OK
+http://191.52.214.5:8000/play/a031/index.m3u8
+#EXTINF:-1,DW - 1651
+http://191.52.214.5:8000/play/a06f/index.m3u8
+#EXTINF:-1,Discovery H&H HD-IK1602-OK
+http://191.52.214.5:8000/play/a02i/index.m3u8
+#EXTINF:-1,Discovery Kids HD-IK1608-OK
+http://191.52.214.5:8000/play/a02h/index.m3u8
+#EXTINF:-1,Discovery Theater HD-IK1609-OK
+http://191.52.214.5:8000/play/a02j/index.m3u8
+#EXTINF:-1,E! HD-IK1615-OK
+http://191.52.214.5:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 74 | Cinecanal
 http://200.59.191.6:5000/play/a01x
 
@@ -227,7 +242,10 @@ http://138.59.177.34:8000/play/a041/index.m3u8
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
-http://154.198.57.34:8000/play/42
+http://191.52.214.5:8000/play/a02k/index.m3u8 
+
+#EXTINF:-1,Warner Channel HD-IK1631-HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
 http://200.59.191.6:5000/play/a020
@@ -248,7 +266,7 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 http://41.205.93.154/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
-http://177.126.51.9:8001/play/a086
+http://191.52.214.5:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
@@ -294,12 +312,13 @@ http://138.59.177.34:8000/play/a05s/index.m3u8
 http://138.59.177.34:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax
 http://190.61.55.186:1010/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En http://74.91.17.110/play/cinemaxhd
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En 
+http://74.91.17.110/play/cinemaxhd
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En
+http://191.52.214.5:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax Sp http://45.181.122.13:8000/play/028
 #EXTINF:-1 tvg-id="USA | Fox Premium action" tvg-name="USA | Fox Premium action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="PELICULAS Y SERIES", 105 | Fox premium action
 http://190.115.15.49:8000/play/a05q/index.m3u8
-
-https://live.sdfgnksbounce.com:8080/MTgxLjE3Ni4xMTguMTQ5/43_3292.ts
 
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
@@ -310,8 +329,9 @@ TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Log
 http://45.4.3.76:7700/play/a008
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-http://45.160.12.253:8000/play/109
+http://191.52.214.5:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
