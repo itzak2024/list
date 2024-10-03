@@ -49,6 +49,8 @@ http://192.141.99.3:8000/play/a03d
 http://200.37.59.35:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://209.45.103.201:8000/play/a067/index.m3u8
+
+
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
@@ -69,6 +71,8 @@ http://200.60.124.19:29000/play/a04y/index.m3u8
 http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
+
+
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
@@ -116,7 +120,7 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-c.cf.dmcdn.net/sec2(t2SUSvzGqsPxqaQ6_peRHFdINLxqD20lF5lCiPzT4_IgSEWre7Hwje4uJBwMlkz5swFWya_5cAEylcjvxvnufwjMrnmg_vXSdqJgP4bdE3Q)/dm/3/x7x4dgx/s/live-480.m3u8
+https://live-b.cf.dmcdn.net/sec2(5oNvv3xCeT-3Q7aFpFIahQiY9aUYHcbAF24GG8FZjumYyM20g77VH_-GMCZm5QCaZnglOFsPdS8zUvF2uIPZcyX4mbocLABA-rSimucHkW-FwSQNA0pkDE2V1nA27qrA)/dm/3/x7x4dgx/s/live-480.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 https://live-b.cf.dmcdn.net/sec2(2SY4GFPE59nRjW5fTlLgZ_mCGIrulnvg1V9SqOH9NT9JMOAL7MssR1ypmWkaTwdA6q-rFz8HZwb2TKZUaZKvpPG5N4VcZN1JzJU8nbmMBd9vnjU-_CfgS1L8TWRgdnPQ)/dm/3/x7x4dgx/s/stream-480-1727844284.ts
 #EXTINF:-1 tvg-id="Exitosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqtN8EnQVA6lhXsowKZEMKreHkZglJCzPXA&s" group title="Canales de Peru",EXITOSA 
