@@ -308,7 +308,6 @@ http://200.59.191.6:5000/play/a035
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
 
-
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO COMEDY
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
@@ -446,10 +445,6 @@ http://138.59.177.34:8000/play/a00q/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 136 | Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES", 137 | Cartoon Network
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 138 | Cartoonito
-http://138.59.177.34:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 139 | Tooncast
 http://138.59.177.34:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="INFANTILES", 140 | Dreiko TV
