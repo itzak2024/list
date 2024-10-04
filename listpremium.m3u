@@ -1413,8 +1413,7 @@ https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Life SCTV" tvg-name="BR | Life SCTV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11964/logo_256_1672317054.jpeg" group-title="BRASIL", 621 | Life SCTV || BRASIL
 https://video05.logicahost.com.br/lifesctv/lifesctv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Astral TV" tvg-name="BR | Astral TV" tvg-logo="https://astralbrasil.org.br/local/img/logo/logo.horizontal.png" group-title="BRASIL", 622 | Astral TV || BRASIL
-https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BR | TV A7" tvg-name="BR | TV A7" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12188/logo_256_1684133961.png" group-title="BRASIL", 623 | TV A7 || BRASIL
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | WTV" tvg-name="BR | WTV" tvg-logo="https://www.wtvbrasil.com.br/wp-content/uploads/2019/07/LOGO2019-site-s-fundo.png" group-title="BRASIL", 624 | WTV || BRASIL
