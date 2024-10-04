@@ -56,6 +56,8 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
 https://rcw6bat4y3dx8.pradoi.com/v/01/03087/buos0tptrlt1_h/161105--1c4c3dd8-f671-4baa-98be-2fdd854d5d20--BK--fhwl--2049297-streamwish.mp4?t=9IwFOy8x5zVmLDK8st0z2GqBArhlhXrEQI_OfAYzUMU&s=1725227132&e=129600&f=15439958&sp=400&i=0.0
 #EXTINF:-1 tvg-id="LA PEOR AMIGA" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",LA PEOR AMIGA
 https://www.youtube.com/watch?v=NVDJrxs34hM
+#EXTINF:-1 group-title="Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA4UTLrCEQ68WIc78KYcgWnb1cF.jpg",El viaje (2024)
+http://redima.pro:8880/movie/VALLE1402/VALLE1402/1085.mp4
 
 #EXTINF:-1 tvg-id="Mi villano favorito 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMAazhw5tKMTszg6Ryg3NGQtzjXifOOYzNyw&s" group-title="movie",Mi villano favorito 4 
 https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecnXW&export=download&authuser=0&confirm=t&uuid=d081db13-0b0f-4ea9-9302-9720bb73cae1&at=APZUnTWp3aIDjI9bsfoz9RuMl85s%3A1720054013526
