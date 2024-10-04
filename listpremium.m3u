@@ -34,7 +34,7 @@ https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogGIrDhhN-86VzJDX-EgxXUFDrlDUGKfuIxmMrFmxaCTko9rTzQH28lnHUvwayoK33qrfl8PkdBRYR_erDUZTQIhjWWmZVrTBa_-qKvNLy-jk0eBlFKnfJ9LeWdLdmPZxAKrAUaMaQK88_zcV55uCq-VQN8ZDHAvOKFTYWMMYcCWG_5ovCHAGA2Bjd9frAWLbPD2dSxhsAalmzNTqdEMIvGlHT-M2tWz5N-iQHz-ewNjui7v-KCUOYY95hy8EoWuOj2Kwj580V0i4RcBFI5TlC_-ss19zW0kyNTDBA_k-GuCiwmNuP9Wm5QfzVAGmnu25b2GWUWSfFiuoD_wWZwJGvVAjEvS5UPx4EABO4M4DIJMm7Fqu5sZa91ZLUHvzl1T7slR9Jq_FM08L6wAJwyzlcHKJOfLyugOOz18jReMKUBupq1HQp83Bw4VTJ1wkPX0Xy1AlezZA30xNLAQm7MRJtnVs2HMpOKMoANT2JasFgEOn6eSjAiPbjP8aER1pnIiLzLjYpzbMVgVs5kDKsuOJRYoH1vuM0UgDEu1TFJ9ODwFDmQmSGocg64EOFIhwXOUGiRYVXambtuNQmWVYpJu-msUESsowRp7qH6fQunq7OcFiK13b0qWapUlN6C7It6GO6gEUgSCt4E5E0AEzZ9yqupdHustVp8Y1_-cK95ENKnDavwzWdT3cbpJa_aeLyn05mgUrmYauarSGO4FZkHA56oFle-fKJT9bojdS5p_XzZubHxWQpmDpz4qOM-XWlUwKrGT5irwSBfhd71ueFI8eMBjY1XlsQJCWZp2EtofiPtysyK02gqNlCFPH9kBjFQ2lkgeyQSIccSJ9tMsgfc1X65jZ9YPYcuZtI9OIO7PoIZhzdYFZ_IH0Fq-Sftls3wLZ-Mtz84sy5XLyYz-PcLTsdH6-eCfDoTo5Qzt6G9X4OdLLv3oxUMtfl3aai_o98Qh5-tbCYk67Oq1TlLm9rvYf0e0wTxo5rGKRbbGvjdOL8wMMhZ0VQT1adXUW3sfY1fUiCTPypyCspk08UaDH1zsTKSL6nRg1hgSSABKgl1cy1lYXN0LTEw-Qg.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
 https://live-b.cf.dmcdn.net/sec2(5oNvv3xCeT-3Q7aFpFIahQiY9aUYHcbAF24GG8FZjumYyM20g77VH_-GMCZm5QCaZnglOFsPdS8zUvF2uIPZcyX4mbocLABA-rSimucHkW-FwSQNA0pkDE2V1nA27qrA)/dm/3/x7x4dgx/s/live-480.m3u8#cell=lcfb
@@ -167,27 +167,13 @@ https://fl2.moveonjoy.com/MTV_2/index.m3u8
 http://38.41.8.1:8000/play/a04t
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://38.199.5.160:8000/play/a03p/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 72 | Azteca Cinema
 http://38.252.158.1:8000/play/a02u
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 73 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-
-#EXTINF:-1,Cartoon Network HD-IK1610-OK
-http://191.52.214.5:8000/play/a031/index.m3u8
-#EXTINF:-1,DW - 1651
-http://191.52.214.5:8000/play/a06f/index.m3u8
-#EXTINF:-1,Discovery H&H HD-IK1602-OK
-http://191.52.214.5:8000/play/a02i/index.m3u8
-#EXTINF:-1,Discovery Kids HD-IK1608-OK
-http://191.52.214.5:8000/play/a02h/index.m3u8
-#EXTINF:-1,Discovery Theater HD-IK1609-OK
-http://191.52.214.5:8000/play/a02j/index.m3u8
-#EXTINF:-1,E! HD-IK1615-OK
-http://191.52.214.5:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 74 | Cinecanal
-http://200.59.191.6:5000/play/a01x
 
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 75 | Paramount Network
 http://38.41.8.1:8000/play/a01x
