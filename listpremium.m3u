@@ -1391,16 +1391,14 @@ http://177.74.174.57:8080/hls/primertv.m3u8
 https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Florida" tvg-name="BR | TV Florida" tvg-logo="https://usabrtv.com/wp-content/uploads/2023/02/LOGO-SITE-NEW-BRANCA.png" group-title="BRASIL", 609 | TV Florida || BRASIL
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | All Sports" tvg-name="BR | All Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/37a7f2bbd24082bb8f947686020c3e82.webp" group-title="BRASIL", 610 | All Sports || BRASIL
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Sou TV" tvg-name="BR | Sou TV" tvg-logo="https://play-lh.googleusercontent.com/NOSe8zTNGn7exNvqIYx9jZvVFgUNI71ObOux2jnX4PnhBrXLyo0YYnkN3WE0vZdgOaY=w240-h480-rw" group-title="BRASIL", 611 | Sou TV || BRASIL
-https://video01.kshost.com.br/tiago4725/tiago4725/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BR | Adesso TV" tvg-name="BR | Adesso TV" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="BRASIL", 612 | Adesso TV || BRASIL
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Milagro" tvg-name="BR | TV Milagro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title="BRASIL", 613 | TV Milagro || BRASIL
 http://201.87.136.36:8091/hls/tvmilagro.m3u8
 #EXTINF:-1 tvg-id="BR | VRT Channel" tvg-name="BR | VRT Channel" tvg-logo="https://play-lh.googleusercontent.com/S12InR6L45quw54QiZE-9SNG9zGXBLOmuJx8BrxVOavzEKinhw6oZn2v4PoOjjKXbg=w240-h480-rw" group-title="BRASIL", 614 | VRT Channel || BRASIL
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="BR | TVídeo News" tvg-name="BR | TVídeo News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtzM69t1Rqpf6csQ1mSQnkCqw3W3Wq95gQ2JoqtYQLm0uk9FDKBIH84fD0Z7TA6rn2cU&usqp=CAU" group-title="BRASIL", 615 | TVídeo News || BRASIL
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Programa 4 por 4" tvg-name="BR | Programa 4 por 4" tvg-logo="http://programa4por4.com/wp-content/uploads/2022/02/Icon-4por4-512x512-03.png" group-title="BRASIL", 616 | Programa 4 por 4 || BRASIL
