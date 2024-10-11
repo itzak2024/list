@@ -46,11 +46,11 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:-1 tvg-id="TVpe" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu_generica_pro_6.png"group-title="Canales de Peru",TVpe
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
-https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", 7.2 | TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Perú Noticias
-http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-id="La Bruja" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La Bruja
 https://rcw6bat4y3dx8.pradoi.com/v/01/03087/buos0tptrlt1_h/161105--1c4c3dd8-f671-4baa-98be-2fdd854d5d20--BK--fhwl--2049297-streamwish.mp4?t=9IwFOy8x5zVmLDK8st0z2GqBArhlhXrEQI_OfAYzUMU&s=1725227132&e=129600&f=15439958&sp=400&i=0.0
@@ -94,7 +94,7 @@ http://190.216.112.169:8000/play/a03g
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://192.141.99.3:8000/play/a03d
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
-http://200.37.59.35:8000/play/a034/index.m3u8
+https://a2lja3m.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=181.176.111.182&token=0bf95c79f1d09f38d7cfc13f6ced3da7c5546404-4b-1728687518-1728651518
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://209.45.103.201:8000/play/a067/index.m3u8
 
@@ -138,7 +138,10 @@ http://209.45.52.14:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://38.56.113.12:8000/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] 
+https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="ENLACE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20180426064713" group-title="Canales de Peru",ENLACE (720p) [ 24/7] 
+
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 33 | Televisión Tarapoto || Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=14768510
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 34 | Master Televisión || Tarapoto
