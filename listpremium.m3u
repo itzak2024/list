@@ -419,8 +419,6 @@ https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="6317ba014d4d040007227f72" tvg-name="" group-title="📺 Brazil 🇧🇷" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png",JP News 🇧🇷 🟤
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
-
-
 #EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | A&E
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | A&E
@@ -433,6 +431,8 @@ https://fl2.moveonjoy.com/MTV_2/index.m3u8
 http://38.41.8.1:8000/play/a04t
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://38.199.5.160:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
+http://154.198.57.34:8000/play/31
 
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
@@ -542,6 +542,9 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
 http://redima.pro:8880/VALLE1402/VALLE1402/336
+
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
+http://179.1.33.2:4000/play/a123
 
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
 http://192.141.99.3:8000/play/a038
