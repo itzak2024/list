@@ -17,6 +17,8 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 988 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
+#EXTINF:-1 group-title="Live TV (MoveOnJoy)", E!
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1,Cartoonito HD
@@ -141,7 +143,7 @@ http://38.56.113.12:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] 
 https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ENLACE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20180426064713" group-title="Canales de Peru",ENLACE (720p) [ 24/7] 
-
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 33 | Televisión Tarapoto || Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=14768510
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 34 | Master Televisión || Tarapoto
