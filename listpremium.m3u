@@ -16,7 +16,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 988 | Orbit TV || REPUBLICA DOMINICANA
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1,Cartoonito HD
