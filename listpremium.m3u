@@ -505,20 +505,14 @@ http://fl2.moveonjoy.com/VH1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
-http://191.52.214.5:8000/play/a02z/index.m3u8
+http://179.1.33.2:4000/play/a113
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
 http://redima.pro:8880/VALLE1402/VALLE1402/334
 #EXTINF:-1 tvg-id="USA | HBO HD" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO HD
 http://redima.pro:8880/VALLE1402/VALLE1402/337
 
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
-http://200.59.191.6:5000/play/a035
-
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
-
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO COMEDY
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO DIRECT TV 
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
@@ -3763,6 +3757,14 @@ http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14008/index.m3u8
 http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/14010/index.m3u8
 #EXTINF:0 tvg-rec="3",SONG TV RUSSIA 
 #EXTGRP:музыка
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/6394/index.m3u8
 #EXTINF:0 tvg-rec="7",Europa Plus TV
 #EXTGRP:музыка
