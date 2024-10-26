@@ -15,8 +15,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 #EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 988 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", E!
+#EXTINF:-1 group-title="Live TV (MoveOnJoy)", E! En
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="Live TV (MoveOnJoy)", E! Sp
+http://clubtv.link/OcT25/key4513/lista3.php?c=a02e&token=TecnotvSep26092400&f=.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1,Cartoonito HD
@@ -343,7 +345,6 @@ https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="📺 Brazil 🇧🇷" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",SBT 🇧🇷
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
@@ -500,9 +501,11 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="112" channel-number="112",SYFY East
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="121" channel-number="121",VH1 East
-http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY Sp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="TV PREMIUM", SyFy Sp
+http://clubtv.link/OcT25/key4513/lista1.php?c=a04o&token=TecnotvSep26092400&f=.m3u8
 
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="121" channel-number="121",VH1 East
+http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
 http://179.1.33.2:4000/play/a113
@@ -555,8 +558,7 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="58" channel-number="58",HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="59" channel-number="59",HBO Comedy East
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="60" channel-number="60",HBO Family East
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
@@ -579,6 +581,32 @@ https://directv.bz/uuid/35ayff70/key/b6e38f94347b2a24b9c9e65d775ac334
 http://138.59.177.34:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337481747-universal-premiere.png" group-title="PELICULAS Y SERIES", 104.2 | Universal Premiere Oeste
 http://138.59.177.34:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", Tru TV
+http://clubtv.link/OcT25/key4513/lista3.php?c=a01n&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY
+http://clubtv.link/OcT25/key4513/lista3.php?c=a017&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY HD
+http://clubtv.link/OcT25/key4513/lista3.php?c=a03t&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
+http://clubtv.link/OcT25/key4513/lista3.php?c=a016&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME HD
+http://clubtv.link/OcT25/key4513/lista3.php?c=a03s&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE
+http://clubtv.link/OcT25/key4513/lista3.php?c=a04i&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
+http://clubtv.link/OcT25/key4513/lista3.php?c=a03p&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O
+http://clubtv.link/OcT25/key4513/lista3.php?c=a04j&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O HD
+http://clubtv.link/OcT25/key4513/lista3.php?c=a03q&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY
+http://clubtv.link/OcT25/key4513/lista3.php?c=a015&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY HD
+http://clubtv.link/OcT25/key4513/lista3.php?c=a03r&token=TecnotvSep26092400&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", Universal
+http://clubtv.link/OcT25/key4513/lista3.php?c=a046&token=TecnotvSep26092400&f=.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En 
 http://redima.pro:8880/VALLE1402/VALLE1402/385
