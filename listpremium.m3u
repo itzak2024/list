@@ -208,6 +208,11 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="24" channel-number="24",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="24" channel-number="24",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Live TV (MoveOnJoy)", CNN INTERNACIONAL
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="25" channel-number="25",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="26" channel-number="26",Cooking Channel
@@ -435,6 +440,8 @@ http://38.41.8.1:8000/play/a04t
 http://38.199.5.160:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://154.198.57.34:8000/play/31
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
+http://191.52.214.5:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
@@ -449,6 +456,8 @@ http://38.41.8.1:8000/play/a01x
 http://38.187.2.194:8000/play/a08t
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 75 | Paramount Network
 http://redima.pro:8880/VALLE1402/VALLE1402/338
+#EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 75 | Paramount Network
+http://191.52.214.5:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 76 | Sony Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
@@ -495,6 +504,9 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
 http://redima.pro:8880/VALLE1402/VALLE1402/343
 
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 96 | Star Channel
+http://191.52.214.5:8000/play/a02k/index.m3u8
+
 #EXTINF:-1  tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQL4oPXmH4Ml26vYAzueBjrc-fCwZWo8q7vw&s" group-title="PELICULAS Y SERIES", 96 | Warner Channel HD
 http://191.52.214.5:8000/play/a01u/index.m3u8
 
@@ -515,7 +527,7 @@ http://fl2.moveonjoy.com/VH1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
-http://200.59.191.6:5000/play/a020
+http://191.52.214.5:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
 http://redima.pro:8880/VALLE1402/VALLE1402/334
 #EXTINF:-1 tvg-id="USA | HBO HD" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO HD
@@ -547,6 +559,8 @@ http://redima.pro:8880/VALLE1402/VALLE1402/336
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
 http://179.1.33.2:4000/play/a123
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
+http://191.52.214.5:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
 http://192.141.99.3:8000/play/a038
@@ -618,6 +632,8 @@ http://191.52.214.5:8000/play/a024/index.m3u8
 http://redima.pro:8880/VALLE1402/VALLE1402/364
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
+http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 114 | TNT Series
 http://38.41.8.1:8000/play/a01g
 
