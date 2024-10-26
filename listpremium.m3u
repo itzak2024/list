@@ -582,19 +582,6 @@ http://170.83.242.9:4000/play/a0ko
 #EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337481747-universal-premiere.png" group-title="PELICULAS Y SERIES", 104.2 | Universal Premiere Oeste
 http://138.59.177.34:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", Tru TV http://clubtv.link/OcT25/key4513/lista3.php?c=a01n&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY http://clubtv.link/OcT25/key4513/lista3.php?c=a017&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY HD http://clubtv.link/OcT25/key4513/lista3.php?c=a03t&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME http://clubtv.link/OcT25/key4513/lista3.php?c=a016&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME HD http://clubtv.link/OcT25/key4513/lista3.php?c=a03s&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE http://clubtv.link/OcT25/key4513/lista3.php?c=a04i&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE HD http://clubtv.link/OcT25/key4513/lista3.php?c=a03p&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O http://clubtv.link/OcT25/key4513/lista3.php?c=a04j&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O HD http://clubtv.link/OcT25/key4513/lista3.php?c=a03q&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY http://clubtv.link/OcT25/key4513/lista3.php?c=a015&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY HD http://clubtv.link/OcT25/key4513/lista3.php?c=a03r&token=TecnotvSep26092400&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal http://clubtv.link/OcT25/key4513/lista3.php?c=a046&token=TecnotvSep26092400&f=.m3u8
-
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En 
 http://redima.pro:8880/VALLE1402/VALLE1402/385
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En
