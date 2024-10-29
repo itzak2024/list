@@ -9,6 +9,19 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 group-title="PELICULAS", TNT PRUEBA En
+https://live.tv247us.com/hls/tnt.m3u8
+#EXTINF:-1 group-title="PELICULAS", HBO PRUEBA En
+https://live.tv247us.com/hls/hbo.m3u8
+#EXTINF:-1 group-title="NOTICIAS", URANIO TV En
+https://live.obslivestream.com/uraniotv/index.m3u8?
+#EXTINF:-1 group-title="NOTICIAS", TUMPIS TV
+https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 group-title="NOTICIAS", NORSELVA TV (RIOJAS)
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",SEÑAL PERU TV
+https://livestream.perucast.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 5 | USMP TV
