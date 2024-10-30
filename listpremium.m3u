@@ -28,7 +28,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", E! En
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
-
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1,Cartoonito HD
@@ -48,8 +47,6 @@ https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://live-b.cf.dmcdn.net/sec2(5oNvv3xCeT-3Q7aFpFIahQiY9aUYHcbAF24GG8FZjumYyM20g77VH_-GMCZm5QCaZnglOFsPdS8zUvF2uIPZcyX4mbocLABA-rSimucHkW-FwSQNA0pkDE2V1nA27qrA)/dm/3/x7x4dgx/s/live-480.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 
@@ -84,8 +81,6 @@ http://redima.pro:8880/movie/VALLE1402/VALLE1402/945.mp4
 #EXTINF:-1 tvg-id="Mi villano favorito 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMAazhw5tKMTszg6Ryg3NGQtzjXifOOYzNyw&s" group-title="movie",Mi villano favorito 4 
 https://drive.usercontent.google.com/download?id=12KZd7b_NuW0StXbaJqyFS788Vt-ecnXW&export=download&authuser=0&confirm=t&uuid=d081db13-0b0f-4ea9-9302-9720bb73cae1&at=APZUnTWp3aIDjI9bsfoz9RuMl85s%3A1720054013526
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
@@ -95,7 +90,7 @@ http://38.41.8.1:8000/play/a026
 #EXTINF:-1 tvg.id="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS 
 http://190.216.112.169:8000/play/a03g
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
-http://192.141.99.3:8000/play/a02x
+http://181.176.153.104:8090/play/a0s0/index.m3u8
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://209.45.30.135:8000/play/a0bk/index.m3u8
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT2
@@ -139,6 +134,9 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.t
 
 #EXTINF:-1 group-title="Bics DEPORTES", DIRECT SPORT2 (argentina)
 http://redima.pro:8880/stalin2024/stalin2024/575
+
+#EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://38.199.5.160:8000/play/a04q/index.m3u8
@@ -415,7 +413,6 @@ https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="" group-title="📺 Brazil 🇧🇷" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",Record News 🇧🇷 🟤
 https://bit.ly/3W0rqcE?profile=inspirationFreetv.m3u8
 
-
 #EXTINF:-1 tvg-id="CNNBRASIL" group-title="📺 Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg",CNN Brasil 🇧🇷
 https://cdn-4.nxplay.com.br/CNN_FAST/index.m3u8
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" group-title="📺 Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg",CNN Brasil 🇧🇷 🟤
@@ -442,46 +439,12 @@ http://74.91.17.110/play/ae
 http://190.216.162.234:8000/play/a02j
 #EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV2" tvg-logo="https://serjtankian.com/cdn/shop/articles/MTV2-RE_600x.jpg?v=1447715634" group-title="MUSICA" | MTV2 EN
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV2" tvg-name="USA | MTV" tvg-logo="https://i.blogs.es/b4b366/650_1000_mtv-logo/450_1000.png" | MTV EN
-http://38.41.8.1:8000/play/a04t
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://154.198.57.34:8000/play/31
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://45.175.139.194:8000/play/31
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://clubtv.link/oct2810/key4513/lista3.php?c=a01q&token=TecnoGeneradorTv265477&f=.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM", TNT
-http://clubtv.link/oct2810/key4513/lista3.php?c=a01z&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT HD
-http://clubtv.link/oct2810/key4513/lista3.php?c=a03i&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT Series
-http://clubtv.link/oct2810/key4513/lista3.php?c=a01r&token=TecnoGeneradorTv265477&f=.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM", Tru TV
-http://clubtv.link/oct2810/key4513/lista3.php?c=a01n&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY
-http://clubtv.link/oct2810/key4513/lista3.php?c=a017&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY HD
-http://clubtv.link/oct2810/key4513/lista3.php?c=a03t&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
-http://clubtv.link/oct2810/key4513/lista3.php?c=a016&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME HD
-http://clubtv.link/oct2810/key4513/lista3.php?c=a03s&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE
-http://clubtv.link/oct2810/key4513/lista3.php?c=a04i&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
-http://clubtv.link/oct2810/key4513/lista3.php?c=a03p&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O
-http://clubtv.link/oct2810/key4513/lista3.php?c=a04j&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O HD
-http://clubtv.link/oct2810/key4513/lista3.php?c=a03q&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY
-http://clubtv.link/oct2810/key4513/lista3.php?c=a015&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY HD
-http://clubtv.link/oct2810/key4513/lista3.php?c=a03r&token=TecnoGeneradorTv265477&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal
-http://clubtv.link/oct2810/key4513/lista3.php?c=a046&token=TecnoGeneradorTv265477&f=.m3u8
 
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
@@ -497,7 +460,8 @@ http://redima.pro:8880/VALLE1402/VALLE1402/338
 
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 76 | Sony Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 76 | Sony Channel
+
+#EXTINF:-1,SONY MOVIES
 http://redima.pro:8880/VALLE1402/VALLE1402/356
 #EXTINF:-1,SONY MOVIES
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
@@ -521,12 +485,10 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | De Película Plus" tvg-name="MX | De Película Plus" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="PELICULAS Y SERIES", 84 | De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | TCM
-http://138.59.177.34:8000/play/a04e/index.m3u8
+http://170.83.242.9:4000/play/a037
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 86 | Classic +
 http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 87 | Studio Universal
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 87 | Studio Universal
 http://redima.pro:8880/stalin2024/stalin2024/384
 
@@ -574,20 +536,11 @@ http://redima.pro:8880/VALLE1402/VALLE1402/334
 #EXTINF:-1 tvg-id="USA | HBO HD" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO HD
 http://redima.pro:8880/VALLE1402/VALLE1402/337
 
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
-
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO DIRECT TV 
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SIGNATURE ENG
 http://41.205.93.154/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
-http://191.52.214.5:8000/play/a06q/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
 
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO Family
 http://redima.pro:8880/VALLE1402/VALLE1402/336
@@ -606,12 +559,13 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
 http://redima.pro:8880/VALLE1402/VALLE1402/335
 
-#EXTINF:-1,HBO POP
+#EXTINF:-1,CINEMAX
 http://redima.pro:8880/VALLE1402/VALLE1402/333
+
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO +
 http://138.59.177.34:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | NICKTOONS" tvg-name="USA | NICKTOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 109 | NICKTOONS
+#EXTINF:-1,NICKTOONS
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="57" channel-number="57", CBS
@@ -628,9 +582,9 @@ http://74.91.17.110/play/fxhd
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 98 | Clover Channel
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 99 | Universal TV
-http://181.119.86.1:8000/play/a01e
+http://38.41.8.1:8000/play/a01a
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", 100 | Universal Crime
-http://38.191.90.109:8000/play/a04r/index.m3u8
+http://38.52.182.237:8000/play/a0ba
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", 101 | Universal Cinema
 http://170.83.242.9:4000/play/a00b
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="PELICULAS Y SERIES", 102 | Universal Reality
@@ -645,53 +599,25 @@ http://138.59.177.34:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="ENTERTAIMENT",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH MUSIC",TNT Music HD
-http://83.222.205.65:8080/tntmusic/index.m3u8
-
 #EXTINF:-1 group-title="ENGLISH MUSIC",v2 beat
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH MUSIC",Vevo Hip Hop (1080p)
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1 group-title="ENGLISH MUSIC",Vevo Latino (1080p)
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
 #EXTINF:-1 group-title="ENGLISH MUSIC",Vevo Pop Europe (1080p)
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-
-#EXTINF:-1 group-title="ENGLISH MUSIC",VH1 (1080p)
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 group-title="ENGLISH MUSIC",xite music
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En 
 http://redima.pro:8880/VALLE1402/VALLE1402/385
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax En
 http://191.52.214.5:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 105 | Cinemax Sp http://45.181.122.13:8000/play/028
-#EXTINF:-1 tvg-id="USA | Fox Premium action" tvg-name="USA | Fox Premium action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="PELICULAS Y SERIES", 105 | Fox premium action
-http://190.115.15.49:8000/play/a05q/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 112 | HBO Pop
-http://38.7.223.20:8000/play/a01z
 
 TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://45.4.3.76:7700/play/a008
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-http://191.52.214.5:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://redima.pro:8880/VALLE1402/VALLE1402/364
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
-http://191.52.214.5:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 114 | TNT Series
 http://38.41.8.1:8000/play/a01g
 
@@ -700,7 +626,7 @@ http://138.59.177.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 116 | Golden
 http://45.175.139.194:8000/play/40
 #EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 117 | Golden Plus
-http://204.157.96.1:8875/play/a0c7/index.m3u8
+http://45.184.87.142:8000/play/a037
 #EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 117 | Golden Plus
 http://45.4.1.202:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 118 | Golden Premier
