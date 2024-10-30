@@ -9,15 +9,14 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://cdnhd.iblups.com/hls/ptv5.m3u8 
-#EXTINF:-1 group-title="PELICULAS", TNT PRUEBA En https://live.tv247us.com/hls/tnt.m3u8
-#EXTINF:-1 group-title="PELICULAS", HBO PRUEBA En https://live.tv247us.com/hls/hbo.m3u8
-#EXTINF:-1 group-title="NOTICIAS", URANIO TV En
+
+#EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 5 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
-#EXTINF:-1 group-title="NOTICIAS", TUMPIS TV
+#EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS",  | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 group-title="NOTICIAS", NORSELVA TV (RIOJAS)
+#EXTINF:-1 tvg-id="PE | NORSELVA TV" tvg-name="PE | NORSELVA TV" tvg-logo="https://mediossanmartin.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-3.18.39-PM-1-821x560.jpeg" group-title="NOTICIAS",  | NORSELVA TV
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS",SEÑAL PERU TV
+#EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 5 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
