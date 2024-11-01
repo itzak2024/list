@@ -114,7 +114,7 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
 #EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
-http://38.51.233.85:8000/play/a03x/index.m3u8
+http://179.63.6.17:9000/play/a00j
 
 #EXTINF:-1 tvg.id="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"Tv PREMIUM", ESPN2
 http://38.51.233.85:8000/play/a03s/index.m3u8
