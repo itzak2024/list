@@ -18,6 +18,8 @@ https://servilive.com:3531/stream/play.m3u8
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 5 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS" | Amazonica Tv
+https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
@@ -92,9 +94,12 @@ http://190.216.112.169:8000/play/a03g
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://181.176.153.104:8090/play/a0s0/index.m3u8
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
-http://209.45.30.135:8000/play/a0bk/index.m3u8
+http://192.141.98.142:8000/play/a07c
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT2
 http://209.45.30.135:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
 
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
 http://170.82.37.21:8000/play/a04g/index.m3u8
