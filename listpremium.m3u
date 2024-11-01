@@ -9,7 +9,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://cdnhd.iblups.com/hls/ptv5.m3u8 
-
 #EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 5 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
 #EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS",  | TUMPIS TV
