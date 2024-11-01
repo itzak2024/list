@@ -17,7 +17,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 6 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
 
-#EXTINF:-1 tvg-id="PE | NATIVA TV" tvg-name="PE | NATIVA TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS DEPORTES", 7 | NATIVA DEPORTES
+#EXTINF:-1 tvg-id="PE | NATIVA DEPORTES TV" tvg-name="PE | NATIVA DEPORTES TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NATIVA DEPORTES", 7 | NATIVA DEPORTES
 https://live-evg25.tv360.bitel.com.pe/bitel/nativadepor/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 8 | TUMPIS TV
