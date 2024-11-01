@@ -17,27 +17,30 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 6 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
 
-#EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 7 | TUMPIS TV
+#EXTINF:-1 tvg-id="PE | NATIVA TV" tvg-name="PE | NATIVA TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS DEPORTES", 7 | NATIVA DEPORTES
+https://live-evg25.tv360.bitel.com.pe/bitel/nativadepor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 8 | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="PE | NORSELVA TV" tvg-name="PE | NORSELVA TV" tvg-logo="https://mediossanmartin.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-3.18.39-PM-1-821x560.jpeg" group-title="NOTICIAS", 8 | NORSELVA TV
+#EXTINF:-1 tvg-id="PE | NORSELVA TV" tvg-name="PE | NORSELVA TV" tvg-logo="https://mediossanmartin.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-3.18.39-PM-1-821x560.jpeg" group-title="NOTICIAS", 9 | NORSELVA TV
 https://live.obslivestream.com/norselvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 9 | SEÑAL PERU TV
+#EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 10 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS", 10 | Amazonica Tv
+#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS", 11 | Amazonica Tv
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
-#EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 11 | GLOBALTV
+#EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 12 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 12 | USMP TV
+#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 13 | USMP TV
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 
-#EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 13 | Orbit TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 14 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
 
-#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 14| E ENTERTAIMENT TV
+#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 15| E ENTERTAIMENT TV
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
@@ -214,7 +217,7 @@ http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 DW
 #EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo=" " group-title="Canales de EUROPA", DW ESPAÑOL (570p) [ 24/7]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo=" " group-title="Canales de EUROPA", DW ENGLISH (570p) [ 24/7]
+#EXTINF:-1 tvg-id="DW ENGLISH" tvg-logo=" " group-title="Canales de EUROPA", DW ENGLISH (570p) [ 24/7]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
