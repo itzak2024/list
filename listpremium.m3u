@@ -26,7 +26,7 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 9 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS" 10 | Amazonica Tv
+#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS", 10 | Amazonica Tv
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 11 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
@@ -37,7 +37,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 #EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 13 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
 
-#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA" 14| E ENTERTAIMENT TV
+#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 14| E ENTERTAIMENT TV
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
@@ -111,29 +111,29 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 
 
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
-http://170.82.37.21:8000/play/a04g/index.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
-http://154.198.57.34:8000/play/10
+http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO HD
-http://200.60.124.19:29000/play/a016/index.m3u8
+http://38.51.233.85:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
-http://181.78.8.90:16123/play/ch17
+http://38.51.233.85:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
 http://179.63.6.12:8000/play/a04v
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
-http://179.63.6.12:8000/play/a04x
+http://190.60.32.178:8178/play/a015/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
-http://38.252.213.1:8000/play/a01r
+http://190.60.32.178:8178/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/295304
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
-http://181.78.8.90:16123/play/ch19
+http://190.60.32.178:8178/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 
 http://38.252.213.1:8000/play/a01b
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 
-http://38.252.213.1:8000/play/a00t
+http://190.60.32.178:8178/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://154.198.57.34:8000/play/15
+http://209.45.20.210:50001/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
 http://190.60.32.178:8178/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
@@ -145,6 +145,9 @@ http://209.45.20.210:50001/play/a00w/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
+
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
+http://209.45.20.210:50001/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", VISION SPORT2 (argentina)
 http://redima.pro:8880/stalin2024/stalin2024/575
