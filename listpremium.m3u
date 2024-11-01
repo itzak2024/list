@@ -20,7 +20,6 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS" | Amazonica Tv
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
-
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 5 | USMP TV
@@ -137,7 +136,7 @@ http://209.45.20.210:50001/play/a00w/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 
-#EXTINF:-1 group-title="Bics DEPORTES", DIRECT SPORT2 (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES", VISION SPORT2 (argentina)
 http://redima.pro:8880/stalin2024/stalin2024/575
 
 #EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
@@ -147,6 +146,8 @@ http://181.78.105.146:2000/play/a053/index.m3u8
 http://38.199.5.160:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://209.45.30.135:8000/play/a0ap/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] 
 https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
