@@ -1,32 +1,44 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
+#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 1 | América Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",Frecuencia Latina
+
+#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru",2 | Frecuencia Latina
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b277944854766e23b95d5ad4&sid=ba5t1l1xb291700407166e2534795486&ndvc=0
-#EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png " group-title="Canales de Peru", Canal Ipe
+
+#EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png " group-title="Canales de Peru", 3| Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
+
+#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 4 | Panamericana Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://cdnhd.iblups.com/hls/ptv5.m3u8 
-#EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 5 | URANIO
+
+#EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 6 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
-#EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS",  | TUMPIS TV
+
+#EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 7 | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 tvg-id="PE | NORSELVA TV" tvg-name="PE | NORSELVA TV" tvg-logo="https://mediossanmartin.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-3.18.39-PM-1-821x560.jpeg" group-title="NOTICIAS",  | NORSELVA TV
+
+#EXTINF:-1 tvg-id="PE | NORSELVA TV" tvg-name="PE | NORSELVA TV" tvg-logo="https://mediossanmartin.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-3.18.39-PM-1-821x560.jpeg" group-title="NOTICIAS", 8 | NORSELVA TV
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 5 | SEÑAL PERU TV
+
+#EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 9 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS" | Amazonica Tv
+
+#EXTINF:-1 tvg-id="PE | Amazonica TV" tvg-name="PE | Amazonica tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQU4v5o_0p4mqNm_tSNffae2rhtvA94a7GiQ&s" group-title="NOTICIAS" 10 | Amazonica Tv
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
-#EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 5 | GLOBALTV
+
+#EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 11 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 5 | USMP TV
+
+#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 12 | USMP TV
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
-#EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 988 | Orbit TV || REPUBLICA DOMINICANA
+
+#EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 13 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
-#EXTINF:-1 group-title="Live TV (MoveOnJoy)", E! En
-#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA" | E ENTERTAIMENT TV
+
+#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA" 14| E ENTERTAIMENT TV
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1,Travel Channel
