@@ -173,8 +173,7 @@ http://209.45.30.135:8000/play/a0ap/index.m3u8
 https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ENLACE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20180426064713" group-title="Canales de Peru",ENLACE (720p) [ 24/7] 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
-#EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 33 | Televisión Tarapoto || Tarapoto
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=14768510
+
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 34 | Master Televisión || Tarapoto
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
@@ -182,10 +181,8 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",Via Television Tarapoto | PE
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-id="TarapotoPe" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru",Televisionpe 
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=9966246
+
+
 #EXTINF:-1 tvg-id="Amazonica tv" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687061195/2da9a4929033_640_360.png " group title="Canales de Peru", Amazonica Tv 
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 #EXTINF:-1 tvg-id="CNC LORETO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGQ0hh-AAT9G94aCYfBKyLwRpVyP_ELdkIw&s" group title="Canales de Peru", CNC LORETO 
@@ -194,11 +191,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cnctv/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/LOGO_RADIO_KARIBE%C3%91A.png" group-title="Canales de Peru",Karibeña (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWYt5UULg05WKrkUudWfsRNxyMdtj5mahkQ&s",Karibeña (720p) [Not 24/7]
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJEtjxM4KJ7ykaL06baJCsY9Aaa4DPlmqVNTcK_NNsonzlM9TQh0Biauma4I47WKS0M1DioSYZbc4JFyIoWLZ5vQhmrrznaQZL6CRV2Lp-nrq78FJFwpdaoZsR5x68oREuR2XHo40YLfs/s1600/radio-tropical.jpg" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Canales de Peru",La Ribereña (Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndvncpF9CeG4zGG9yPMsd0C2Q4FJybps2xA&s",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TR | CANAL 19" tvg-name="TR | CANAL 19" tvg-logo=" https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision.png" group-title="CINE Y DEPORTE", 60 | canal 19
@@ -217,9 +214,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 DW
-#EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo=" " group-title="Canales de EUROPA", DW ESPAÑOL (570p) [ 24/7]
+#EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="Canales de EUROPA", DW ESPAÑOL (570p) [ 24/7]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DW ENGLISH" tvg-logo=" " group-title="Canales de EUROPA", DW ENGLISH (570p) [ 24/7]
+#EXTINF:-1 tvg-id="DW ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHHC76o6ZYKezVvrfsp2KvF8vl3ZyTiXXbg&s" group-title="Canales de EUROPA", DW ENGLISH (570p) [ 24/7]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
