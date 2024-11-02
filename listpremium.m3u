@@ -123,6 +123,8 @@ http://179.63.6.17:9000/play/a00j
 http://clubtv.link/octFIN/key4513/lista5.php?c=a05l&token=TecnoGeneradorTv265477
 #EXTINF:-1 tvg.id="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Tv PREMIUM", ESPN2
 http://179.63.6.12:8000/play/a04v
+#EXTINF:-1 tvg.id="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Tv PREMIUM", ESPN2
+http://clubtv.link/octFIN/key4513/lista8.php?c=a013&token=TecnoGeneradorTv265477&f=.m3u8
 #EXTINF:-1 tvg.id="ESPN3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png" group-title="Tv PREMIUM", ESPN3
 http://190.60.32.178:8178/play/a015/index.m3u8
 #EXTINF:-1 tvg.id="ESPN3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png" group-title="Tv PREMIUM", ESPN3
@@ -233,6 +235,8 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Live TV (MoveOnJoy)" streamId="21" channel-number="21",Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Live TV (MoveOnJoy)" streamId="21" channel-number="21",Cinemax
+http://clubtv.link/octFIN/key4513/lista8.php?c=a016&token=TecnoGeneradorTv265477&f=.m3u8
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="22" channel-number="22",CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
@@ -577,6 +581,9 @@ http://191.52.214.5:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
 http://192.141.99.3:8000/play/a038
 
+#EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM 
+http://clubtv.link/octFIN/key4513/lista8.php?c=a06m&token=TecnoGeneradorTv265477&f=.m3u8
+
 #EXTINF:-1,Latino | HBO Signature
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
 
@@ -640,6 +647,8 @@ http://45.4.3.76:7700/play/a008
 
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
 http://redima.pro:8880/VALLE1402/VALLE1402/364
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT
+http://clubtv.link/octFIN/key4513/lista8.php?c=a010&token=TecnoGeneradorTv265477&f=.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 113 | TNT WEST
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 114 | TNT Series
