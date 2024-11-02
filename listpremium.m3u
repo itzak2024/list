@@ -265,7 +265,6 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="33" channel-number="33",DisneyXD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-
  🔰  Paranormal  👽  🔰 
 
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="" group-title="📺 Paranormal 👽" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png",Assombrações 🇧🇷 🟤
@@ -473,6 +472,7 @@ http://154.198.57.34:8000/play/31
 http://45.175.139.194:8000/play/31
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En
 http://clubtv.link/oct2810/key4513/lista3.php?c=a01q&token=TecnoGeneradorTv265477&f=.m3u8
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space En http://clubtv.link/octFIN/key4513/lista8.php?c=a00j&token=TecnoGeneradorTv265477&f=.m3u8
 
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
