@@ -63,7 +63,7 @@ https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
-https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_720p/chunks.m3u8
+https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="PERU", 10 | PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
