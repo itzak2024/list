@@ -628,7 +628,7 @@ http://179.1.33.2:4000/play/a123
 http://191.52.214.5:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
-http://192.141.99.3:8000/play/a038
+http://200.59.188.3:8000/play/a06m
 
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM 
 http://clubtv.link/octFIN/key4513/lista8.php?c=a06m&token=TecnoGeneradorTv265477&f=.m3u8
