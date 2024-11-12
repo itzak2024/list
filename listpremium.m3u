@@ -1804,6 +1804,10 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Euronews del Brasil" tvg-name="BR | Euronews del Brasil" tvg-logo="https://play-lh.googleusercontent.com/5P0jFpedf_XyaLXgibuwODS1xLzL-yyeHtcR_UTXLDfLDYii0E7FRVeCFS8b_8yKVDHn" group-title="BRASIL", 645 | Euronews del Brasil || BRASIL
 https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-tags="tdt" tvg-country="ES" tvg-language="" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200",Euronews
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="BR | TV Mais" tvg-name="BR | TV Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99952bc10e0b9a0eeb6f47cbf054a87e.webp" group-title="BRASIL", 646 | TV Mais || BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Ponte Preta TV" tvg-name="BR | Ponte Preta TV" tvg-logo="https://play-lh.googleusercontent.com/o4e5jrFkjyZqwhz8Y-WavLcip0kJqhTUEp8tlojryt52nXqXjNv4mUwNM3lye1RKnr0=w416-h235-rw" group-title="BRASIL", 647 | Ponte Preta TV || BRASIL
