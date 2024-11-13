@@ -176,8 +176,6 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", VISION SPORT2 (argentina)
 http://redima.pro:8880/stalin2024/stalin2024/575
 
-#EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
-https://dai.google.com/linear/hls/pa/event/_OKWx76jT7mivD6d-25QAw/stream/6edfb98f-bfbc-4e42-adbb-5acd665043ac:SCL/variant/0a790e0d9c436ef62af0be63fcb5c6d1/bandwidth/2444000.m3u8
 
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://38.199.5.160:8000/play/a04q/index.m3u8
@@ -225,8 +223,6 @@ https://live.sdfgnksbounce.com:8080/MTgxLjE3Ni45MS40Nw==/415_238.ts
 http://138.59.177.34:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas Latinoamérica
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="INTERNACIONALES", 64 | Las Estrellas Latinoamérica
-http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 65 | Univisión Latinoamérica
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
