@@ -188,9 +188,6 @@ http://179.1.148.246:8888/play/a05J/index.m3u8
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://209.45.30.135:8000/play/a0ap/index.m3u8
 
-#EXTINF:-1 tvg-id="Fanatiz" tvg-logo=" " group-title="CANALES DE DEPORTE", Fanatiz
-https://cdn-fz1-v2.nunchee.tv/1nagGn2O843U.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwNTIyXzg5MzM0OTE3NGYyZGI5YTU2NjU0In0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJkYXRhIjoidTo2NzJlYjIxYWNiYTIzNjJmMmJlNzBhOTgvZDo2NzJlYjIxYWNiYTIzNjJmMmJlNzBhOWQvcDoxIiwiZXhwIjoxNzMxMTEzNzUzLCJoZWFkZXJzIjpbXSwicXMiOltdLCJpbnRzaWciOiIydDN5TEt6V3RmU3hvZEVfak5XcG9MbndmMEFkZDd5R1A1QTFJUnRlN1BVIiwicGF0aHMiOlsiLyJdLCJleGMiOltdLCJuYmYiOjE3MzExMTM2MzQsImlhdCI6MTczMTExMzY5M30.66ZWWxPWaS3204yz94-8i8KBXGK8xxzxcyM3mTX3riE/index_9.m3u8
-
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] 
 https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ENLACE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20180426064713" group-title="Canales de Peru",ENLACE (720p) [ 24/7] 
@@ -247,12 +244,12 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135660
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2803
 #EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",S | DISCOVERY HOME&HEALT ®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153598
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY H&H ®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2809
 #EXTINF:-1  tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png",S | DISCOVERY CHANNEL®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2807
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/800px-Discovery_Civilization_logo.svg.png",Sᴾᴬ  | DISCOVERY Civilization ®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2808
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY H&H ®
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2809
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY ID ®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2810
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY KIDS ®
@@ -322,7 +319,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126375
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7966
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Paramount_Paramount_Network.png",CINE: PARAMOUNT NETWORK MX HD®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7967
-
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",CINE: HBO UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
