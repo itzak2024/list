@@ -296,25 +296,48 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126323
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126324
 #EXTINF:-1 ,ESP-3: MOVISTAR CINEDOC&ROLL FHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126333
-#EXTINF:-1 ,ESP-3: SYFY FHD
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",CINE: SYFY FHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126375
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png",CINE: AMC MX UHD®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7966
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Paramount_Paramount_Network.png",CINE: PARAMOUNT NETWORK MX HD®
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png",CINE: PARAMOUNT NETWORK MX HD®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7967
 
-#EXTINF:-1 group-title="Retro Music",Now 80s
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
-#EXTINF:-1 group-title="Retro Music",MTV 80's
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
-#EXTINF:-1 group-title="Retro Music",MTV Classic
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
 #EXTINF:-1 group-title="MUSIC",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="MUSIC",Box Hits
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19175/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",CINE: HBO UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",CINE: HBO UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | HBO 2 ®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2806
+#EXTINF:-1  tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",CINE: HBO MUNDI UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7968
+#EXTINF:-1  tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png",CINE: HBO POP UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7969
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",CINE: HBO SIGNATURE UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7970
+#EXTINF:-1  tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png",CINE: HBO XTREME HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7971
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",CINE: HBO XTREME HD (5MB)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7975
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",CINE: HBO FAMILY HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7984
+#EXTINF:-1  tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",CINE: HBO MUNDI UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7985
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",CINE: HBO PLUS UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7986
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png",CINE: GOLDEN UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150099
+#EXTINF:-1 ,CINE: GOLDEN EDGE UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150100
+#EXTINF:-1 ,CINE: GOLDEN PLUS UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150101
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",CINE: GOLDEN PREMIER UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150102
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
@@ -329,14 +352,10 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Live TV (MoveOnJoy)" streamId="21" channel-number="21",Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Live TV (MoveOnJoy)" streamId="21" channel-number="21",Cinemax
-http://clubtv.link/octFIN/key4513/lista8.php?c=a016&token=TecnoGeneradorTv265477&f=.m3u8
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="22" channel-number="22",CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="24" channel-number="24",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
