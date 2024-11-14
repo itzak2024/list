@@ -204,8 +204,7 @@ https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Amazonica tv" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687061195/2da9a4929033_640_360.png " group title="Canales de Peru", Amazonica Tv 
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
-#EXTINF:-1 tvg-id="CNC LORETO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGQ0hh-AAT9G94aCYfBKyLwRpVyP_ELdkIw&s" group title="Canales de Peru", CNC LORETO 
-https://live-evg25.tv360.bitel.com.pe/bitel/cnctv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="SELVA TV LORETO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687121172/045e5595b233_640_360.png" group title="Canales de Peru", SELVA TV LORETO
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
