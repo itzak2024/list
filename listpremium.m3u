@@ -277,7 +277,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145490
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145445
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png",ESP-1: MOVISTAR ESTRENOS
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126275
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1280px-Movistar_Series.svg.png",ESP-1: MOVISTAR SERIES HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126269
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png",ESP-1: MOVISTAR ACCION ᴇsᴘᴀɴᴀ ᴴᴰ
@@ -288,7 +287,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126218
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126219
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png",ESP-1: MOVISTAR ACCION ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126217
-
 #EXTINF:-1 ,ESP-3: MOVISTAR CINEDOC&ROLL FHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126333
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",CINE: SYFY FHD
@@ -321,8 +319,6 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7971
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7975
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",CINE: HBO FAMILY HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7984
-#EXTINF:-1  tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",CINE: HBO MUNDI UHD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7985
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",CINE: HBO PLUS UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7986
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png",CINE: GOLDEN UHD
@@ -331,8 +327,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150099
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150100
 #EXTINF:-1 ,CINE: GOLDEN PLUS UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150101
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",CINE: GOLDEN PREMIER UHD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150102
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",CINE: GOLDEN PREMIER UHD http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150102
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
