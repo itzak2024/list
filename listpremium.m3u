@@ -255,7 +255,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2819
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISNEY XD ®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2820
 
-#EXTINF:-1 group-title="NOTICIAS",France Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",Fran: France Español
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | CARACOL
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153613
@@ -267,7 +267,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/140371
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162551
 #EXTINF:-1  tvg-logo="https://www.pngitem.com/pimgs/m/229-2290404_ufc-logo-ufc-hd-png-download.png",Sports | UFC TV HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145479
-#EXTINF:-1 ,ESP-8: VIAJAR HD
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987730485311889409/orzn_-qe_400x400.jpg",ESP: VIAJAR HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126436
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",Sports | DIRECTV SPORTS HD (ARG)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145400
@@ -288,12 +288,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126218
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126219
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png",ESP-1: MOVISTAR ACCION ᴇsᴘᴀɴᴀ ᴴᴰ
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126217
-#EXTINF:-1 ,ESP-3: MOVISTAR ACCION HD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126322
-#EXTINF:-1 ,ESP-3: MOVISTAR  ACCION
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126323
-#EXTINF:-1 ,ESP-3: MOVISTAR ACCION FHD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126324
+
 #EXTINF:-1 ,ESP-3: MOVISTAR CINEDOC&ROLL FHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126333
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",CINE: SYFY FHD
@@ -341,6 +336,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150102
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
 http://redima.pro:8880/VALLE1402/VALLE1402/397
 
@@ -355,10 +351,8 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="22" channel-number="22",CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
-
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="25" channel-number="25",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="26" channel-number="26",Cooking Channel
@@ -580,13 +574,6 @@ http://190.216.162.234:8000/play/a02j
 
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 http://38.41.8.1:8000/play/a009
-
-
-
-
-
-
-
 
 #EXTINF:-1,CINEMAX
 http://redima.pro:8880/VALLE1402/VALLE1402/333
