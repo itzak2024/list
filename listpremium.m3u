@@ -29,6 +29,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativadepor/chunks.m3u8
 #EXTINF:-1 tvg-id="PE | NATIVA DEPORTES TV" tvg-name="PE | NATIVA DEPORTES TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NATIVA DEPORTES", 8 | NATIVA DEPORTES (ARG)
 https://www.ntv.pe/salida/nativa.m3u8
 
+#EXTINF:-1 tvg-id="SELVA TV LORETO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687121172/045e5595b233_640_360.png" group title="Canales de Peru", SELVA TV LORETO
+https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 9 | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
 
@@ -42,7 +45,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia tv" tvg-logo="https://pbs.twimg.com/profile_images/996797110933774337/Ro0vuaj9_400x400.jpg" group-title="NOTICIAS", 12 | Amazonia Tv
-https://servilive.com:3199/live/amazoniatvlive.m3u8
+https://servilive.com:3295/live/v8nkywddqlive.m3u8
 
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 13 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
@@ -188,11 +191,6 @@ https://live.obslivestream.com/vivatv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
 https://live.obslivestream.com/geniostvmux/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Amazonica tv" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687061195/2da9a4929033_640_360.png " group title="Canales de Peru", Amazonica Tv 
-https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SELVA TV LORETO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687121172/045e5595b233_640_360.png" group title="Canales de Peru", SELVA TV LORETO
-https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWYt5UULg05WKrkUudWfsRNxyMdtj5mahkQ&s",Karibeña (720p) 
@@ -293,7 +291,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7966
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png",CINE: PARAMOUNT NETWORK MX HD®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7967
 
-#EXTINF:-1 group-title="MUSIC",Mix Music Channel
+#EXTINF:-1 tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="MUSIC",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
