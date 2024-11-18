@@ -4,14 +4,32 @@
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
 #EXTINF:-1 group-title="CANADA",CA HBO 2 (R)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png",CINE | HBO 2 HD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/159126
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",CINE | HBO Xtreme SD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/185170
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | HBO FAMILY
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150079
+#EXTINF:-1 group-title="USA" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png",USA | HBO Family UHD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/482024
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",CINE | HBO Family FHD SUR
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/73200
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",CINE | HBO Pop
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/185169
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | HBO PLUS UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7986
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",CINE | HBO Plus SD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/19581
+#EXTINF:-1 group-title="ESPAÑA",ES | DMAX HD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/117150
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | RPP PY
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4845
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/CNNMax.png/revision/latest?cb=20230824135739",USA | CNN MAX
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237232
+#EXTINF:-1 group-title="USA" tvg-logo="http://apkip.tv/logos/USA/VH1.us.png",USA | VH1
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/481993
+#EXTINF:-1 group-title="USA" tvg-logo="http://apkip.tv/logos/USA/VH1.us.png",USA | VH1 UHD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/481994
 
 #EXTINF:-1 ,CINE: GOLDEN PLUS UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150101
@@ -71,10 +89,45 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7978
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7979
 #EXTINF:-1  tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/tnt-eps-vector-logo.png",CINE: TNT UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150114
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",CINE | TNT
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/158465
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png",CINE: TNT SERIES  MX UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150117
 #EXTINF:-1  tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png",CINE: WARNER CHANNEL UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7981
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png",KIDS | DISNEY CHANNEL MX HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149675
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png",KIDS | DISNEY CHANNEL HD LAT
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149676
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png",KIDS | DISNEY XD HD ES
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149680
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png",INF | Disney Channel SD ENG
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/211237
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/640px-MTV_Logo_2010.svg.png",MU | MTV Latino FHD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/9464
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/492px-MTV_Live_HD_2017_logo.svg.png",MU | MTV Live HD (Y)
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/9613
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://i.ibb.co/wzrHdTV/VH1-Classic.png",MU | VH1 Classic
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/9619
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://home-playtv.com:25461/images/90eb8d5ef4ebbd9d00cdd93f40aee8a9.png",MU | Retro Music Television
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/41923
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://i.picasion.com/pic90/6383d9f49aff3346c2b008dae2d47be4.gif",MU | MTV Classic HD (Y)
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/53197
+#EXTINF:-1 group-title="MÚSICA",MU | Music Top
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/54273
+#EXTINF:-1 group-title="MÚSICA",MU | Retro Music TV
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/54274
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://superestable.online:8080/images/7649b190ef60946612bef901054f076e.png",MU | HTV Latino
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/217140
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41AUFQI1FcL.png",MU | Vevo Reggaton ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/224311
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://ametv.xyz:25461/images/800201f915c31fde18cc25813e991198.png",MU | Vevo Latin
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/224314
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41AUFQI1FcL.png",MU | Vevo '80s
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/259763
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41AUFQI1FcL.png",MU | Vevo '70s
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/259764
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png",ᴸᴵᴳᴬ ᴹˣ | Claro SPORTS (La Liga) MX®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161000
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png",MX || Bandamax UHD®
