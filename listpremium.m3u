@@ -8,6 +8,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_480p/chunks.
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png " group-title="Canales de Peru", 3| Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
+#EXTINF:-1 ,PE | Canal N
+http://cdn1host.online:2999/happy2024/newyear/1761
+
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 4 | Panamericana Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 
@@ -50,18 +53,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 #EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 15 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
 
-#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 16| E ENTERTAIMENT TV
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
-#EXTINF:-1,Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
-
-#EXTINF:-1,Cartoonito HD
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-
-#EXTINF:-1,Arirang
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 
@@ -91,6 +82,18 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 #EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 16| E ENTERTAIMENT TV
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+#EXTINF:-1,Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+
+#EXTINF:-1,Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1,Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Bruja" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",La Bruja
 https://rcw6bat4y3dx8.pradoi.com/v/01/03087/buos0tptrlt1_h/161105--1c4c3dd8-f671-4baa-98be-2fdd854d5d20--BK--fhwl--2049297-streamwish.mp4?t=9IwFOy8x5zVmLDK8st0z2GqBArhlhXrEQI_OfAYzUMU&s=1725227132&e=129600&f=15439958&sp=400&i=0.0
