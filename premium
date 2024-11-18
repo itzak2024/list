@@ -33,6 +33,12 @@ http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/481994
 
 #EXTINF:-1 ,CINE: GOLDEN PLUS UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150101
+#EXTINF:-1  tvg-logo="http://lonewolftvpr.com/logos/goldenplus.png",MX | GOLDEN PLUS
+http://cdn1host.online:2999/happy2024/newyear/75
+#EXTINF:-1  tvg-logo="http://lonewolftvpr.com/logos/goldenpremier.png",MX | Golden Premier
+http://cdn1host.online:2999/happy2024/newyear/83
+#EXTINF:-1  tvg-logo="http://lonewolftvpr.com/logos/goldenedge.png",MX | Golden Edge
+http://cdn1host.online:2999/happy2024/newyear/84
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.395393765_UniversalReality-Oscuro.png.1bb04e2b88a3e95fd9a8a8b16688c83a.png",CINE: UNIVERSAL REALITY (HVEC)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/158528
 
@@ -119,10 +125,7 @@ http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/54273
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/54274
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="http://superestable.online:8080/images/7649b190ef60946612bef901054f076e.png",MU | HTV Latino
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/217140
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41AUFQI1FcL.png",MU | Vevo Reggaton ⁽ᴴᴰ⁾
-http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/224311
-#EXTINF:-1 group-title="MÚSICA" tvg-logo="http://ametv.xyz:25461/images/800201f915c31fde18cc25813e991198.png",MU | Vevo Latin
-http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/224314
+
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41AUFQI1FcL.png",MU | Vevo '80s
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/259763
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41AUFQI1FcL.png",MU | Vevo '70s
