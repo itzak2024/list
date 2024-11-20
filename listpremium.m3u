@@ -133,8 +133,6 @@ http://38.52.182.236:9000/play/a05g
 #EXTINF:-1 ,PE | Gol TV PERU
 http://cdn1host.online:2999/happy2024/newyear/1755
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bS1w14Q.png",ES | Movistar F1
-http://cdn1host.online:2999/happy2024/newyear/1442
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://192.141.98.142:8000/play/a07c
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DEP | D SPORTS+
