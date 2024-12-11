@@ -14,9 +14,6 @@ http://cdn1host.online:2999/happy2024/newyear/1761
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 4 | Panamericana Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-https://cdnhd.iblups.com/hls/ptv5.m3u8 
-
 #EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 6 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
 
@@ -152,7 +149,6 @@ http://redima.pro:8880/stalin2024/stalin2024/575
 
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
 http://38.199.5.160:8000/play/a04q/index.m3u8
-
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] 
 https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
