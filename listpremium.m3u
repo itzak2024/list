@@ -20,8 +20,8 @@ https://live.obslivestream.com/uraniotv/index.m3u8?
 #EXTINF:-1 tvg-id="PE | CONTROVERSIA TV" tvg-name="PE | CONTROVERSIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1244343621723324416/hc94IFJm_400x400.jpg" group-title="NOTICIAS", 7 | CONTROVERSIA TV
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PE | NATIVA DEPORTES TV" tvg-name="PE | NATIVA DEPORTES TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NATIVA DEPORTES", 8 | NATIVA DEPORTES
-https://live-evg25.tv360.bitel.com.pe/bitel/nativadepor/chunks.m3u8
+#EXTINF:-1 tvg-id="PE | NATIVA TV" tvg-name="PE | NATIVA TV" tvg-logo="https://i.ytimg.com/vi/tfyHGZ_l1jY/hqdefault.jpg" group-title="NATIVA TV", 8 | NATIVA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | NATIVA DEPORTES TV" tvg-name="PE | NATIVA DEPORTES TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NATIVA DEPORTES", 8 | NATIVA DEPORTES (ARG)
 https://www.ntv.pe/salida/nativa.m3u8
