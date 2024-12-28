@@ -7,7 +7,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png",CINE | HBO 2 HD
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/159126
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",CINE | HBO Xtreme SD
-http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/185170
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135677
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | HBO FAMILY
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150079
 #EXTINF:-1 group-title="USA" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png",USA | HBO Family UHD
@@ -65,14 +65,18 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/138047
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/138098
 #EXTINF:-1 group-title="De Paga",Star Channel HD
 https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png",CINE: STAR CHANNEL UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7991
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png",CINE: STAR FAMILY UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7994
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Star_Series_2021.png",CINE: MOVISTAR SERIES HD (5MB)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/138101
 #EXTINF:-1  tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-cinemax-a-cinemax-2-v-nov-podob.png",CINE: CINEMAX HD (5MB)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7989
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png",CINE: UNIVERSAL REALITY (5MB)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7990
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png",CINE: STAR CHANNEL UHD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7991
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png",CINE: FX  UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150121
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/523/503/png-transparent-universal-s-studio-universal-television-channel-studio-miscellaneous-television-text.png",CINE: STUDIO UNIVERSAL
@@ -111,6 +115,8 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149680
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/211237
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/640px-MTV_Logo_2010.svg.png",MU | MTV Latino FHD
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/9464
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",ARG: MTV HIT Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4982
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/492px-MTV_Live_HD_2017_logo.svg.png",MU | MTV Live HD (Y)
 http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/9613
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="http://i.ibb.co/wzrHdTV/VH1-Classic.png",MU | VH1 Classic
