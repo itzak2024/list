@@ -23,9 +23,6 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | NATIVA TV" tvg-name="PE | NATIVA TV" tvg-logo="https://i.ytimg.com/vi/tfyHGZ_l1jY/hqdefault.jpg" group-title="NATIVA TV", 8 | NATIVA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PE | NATIVA DEPORTES TV" tvg-name="PE | NATIVA DEPORTES TV" tvg-logo="https://yt3.googleusercontent.com/WLe1JrOP3MYDYrw91qx52cApa4kKtl23L24DwnPFBOi7hhSlnz4KEkeuVWOai9voDc4HFMt_7w=s900-c-k-c0x00ffffff-no-rj" group-title="NATIVA DEPORTES", 8 | NATIVA DEPORTES (ARG)
-https://www.ntv.pe/salida/nativa.m3u8
-
 #EXTINF:-1 tvg-id="SELVA TV LORETO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687121172/045e5595b233_640_360.png" group title="Canales de Peru", SELVA TV LORETO
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
 
@@ -109,12 +106,12 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
 http://179.63.6.17:9000/play/a022
 #EXTINF:-1 tvg.id="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS 
-http://181.78.201.70:8000/play/a05a/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4840
 
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://38.52.182.236:9000/play/a05g
 #EXTINF:-1 ,PE | Gol TV PERU
-http://cdn1host.online:2999/happy2024/newyear/1755
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4841
 
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://192.141.98.142:8000/play/a07c
