@@ -271,9 +271,12 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7967
 
 #EXTINF:-1 tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="MUSIC",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7971
+
+#EXTINF:-1 ,ESP-2: MTV HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126384
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png",CINE: GOLDEN UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150099
