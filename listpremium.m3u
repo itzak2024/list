@@ -86,6 +86,9 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 16| E ENTERTAIMENT TV
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
+#EXTINF:-1 ,Cᴜʟᴛᴜʀᴀ | E! ENTERTAINMENT UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155962
+
 #EXTINF:-1,Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
@@ -253,6 +256,12 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126219
 
 #EXTINF:-1 ,ESP-3: MOVISTAR CINEDOC&ROLL FHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126333
+
+#EXTINF:-1  tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | SONY ®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3007
+
+#EXTINF:-1  tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | SPACE
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4802 
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",CINE: SYFY FHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126375
