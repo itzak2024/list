@@ -8,7 +8,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_480p/chunks.
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="Canales de Peru", 3| Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
-
 #EXTINF:-1 tvg-id="CTV PERU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx441jRbtqK0xVq4VibCfXC3BlfizdKhJSg&s" group-title="Canales de Peru", 4| CTV PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_480p/chunks.m3u8
 
@@ -52,7 +51,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 18 | Orbit TV || REPUBLICA DOMINICANA
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w269890477.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w392672704.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
