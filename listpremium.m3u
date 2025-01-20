@@ -57,7 +57,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/media_w392672704_14959.ts
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Canales de Peru",ATV Sur (720p)
-https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales de Peru",ATV+
 https://d1svme839xkbsn.cloudfront.net/original.m3u8
@@ -100,35 +100,42 @@ https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
-http://179.63.6.17:9000/play/a022
+http://190.108.83.86:8000/play/a024
 #EXTINF:-1 tvg.id="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS 
 http://38.187.2.125:8000/play/a03g
 
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
-http://38.52.182.236:9000/play/a05g
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126517
 #EXTINF:-1 ,PE | Gol TV PERU
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4841
 
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
-http://192.141.98.142:8000/play/a07c
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135642
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DEP | D SPORTS+
 http://190.216.162.157:8001/play/a05h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",DEP | D SPORTS+
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135644
 #EXTINF:-1 tvg.id="D SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hd5qv0jKR_JW3tcIl0a8y0G0PCyEip_K8w&s" group-title="Tv PREMIUM", D SPORT
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135642
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png",ARG: DEPORTV ᴴᴰ
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3540
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png",ARG: FOX SPORTS 1 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135645
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",ARG: FOX SPORTS 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135646
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",ARG: FOX SPORTS 3 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135647
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | ESPN PLUS ®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3014
 #EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2823
 #EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
-http://190.95.11.209:8000/play/212
-#EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
 http://179.63.6.17:9000/play/a00j
 
 #EXTINF:-1 tvg.id="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Tv PREMIUM", ESPN2
-http://200.121.20.106:8000/play/a0i4/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135643
 #EXTINF:-1 tvg.id="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Tv PREMIUM", ESPN2
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2821
 
@@ -157,6 +164,9 @@ http://200.37.52.93:8000/play/a1pr/index.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru",BHTV (720p) [Not 24/7] 
 https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru", BETHEL BHTV (720p) [Not 24/7]
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ENLACE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20180426064713" group-title="Canales de Peru",ENLACE (720p) [ 24/7] 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
 
@@ -165,6 +175,7 @@ https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
 https://live.obslivestream.com/vivatv/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
 https://live.obslivestream.com/geniostvmux/tracks-v3a1/mono.m3u8
 
@@ -175,8 +186,12 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJEtjxM4KJ7ykaL06baJCsY9Aaa4DPlmqVNTcK_NNsonzlM9TQh0Biauma4I47WKS0M1DioSYZbc4JFyIoWLZ5vQhmrrznaQZL6CRV2Lp-nrq78FJFwpdaoZsR5x68oREuR2XHo40YLfs/s1600/radio-tropical.jpg" group-title="Canales de Peru",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndvncpF9CeG4zGG9yPMsd0C2Q4FJybps2xA&s",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndvncpF9CeG4zGG9yPMsd0C2Q4FJybps2xA&s",La Ribereña (San Martin) (480p) [Not 24/7]
+https://tv1.mediacp.eu:3226/live/ezpzhefzlive.m3u8
 
 #EXTINF:-1 tvg-id="TR | CANAL 19" tvg-name="TR | CANAL 19" tvg-logo=" https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision.png" group-title="CINE Y DEPORTE", 60 | Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
@@ -265,7 +280,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126375
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7966
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png",CINE: PARAMOUNT NETWORK MX HD®
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7967
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135670
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png",CINE: PARAMOUNT NETWORK MX HD®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150111
