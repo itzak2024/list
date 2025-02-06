@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 1 | América Televisión
-https://live-evg4.tv360.bitel.com.pe/3d8C2izI5aVPnMO5gv8c1g/1737574830/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
+https://live-evg4.tv360.bitel.com.pe/M2JkyQDpnwouVWd9rONYUA/1738946175/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru", 2| Frecuencia Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_480p/chunks.m3u8
@@ -32,9 +32,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunk
 #EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 11 | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="PE | NORSELVA TV" tvg-name="PE | NORSELVA TV" tvg-logo="https://mediossanmartin.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-09-at-3.18.39-PM-1-821x560.jpeg" group-title="NOTICIAS", 12 | NORSELVA TV
-https://live.obslivestream.com/norselvatv/index.m3u8
-
 #EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 13 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
 
@@ -49,9 +46,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.
 
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 17 | USMP TV
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
-
-#EXTINF:-1 tvg-id="RD | ORBIT TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 18 | Orbit TV || REPUBLICA DOMINICANA
-https://ss3.domint.net:3134/otv_str/orbittv/media_w392672704_14959.ts
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
