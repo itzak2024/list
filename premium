@@ -1,7 +1,7 @@
 
 #EXTM3U 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",CINE: HBO UHD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7983
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4961
 #EXTINF:-1 group-title="CANADA",CA HBO 2 (R)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png",CINE | HBO 2 HD
@@ -13,7 +13,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150079
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",CINE | HBO Family FHD SUR
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4963
 #EXTINF:-1  tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",CINE: HBO MUNDI UHD
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7968
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135674
 #EXTINF:-1  tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png",CINE: HBO POP UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7969
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",ARG: HBO SIGNATURE Pʳᵉᵐⁱᵘᵐ ʜᴅ
@@ -26,6 +26,8 @@ http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/19581
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4845
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/CNNMax.png/revision/latest?cb=20230824135739",USA | CNN MAX
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237232
+#EXTINF:-1  tvg-logo="http://assets.stickpng.com/images/58483b6584e35b574e745380.png",ARG: PARAMOUNT NETWORK Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135670
 
 #EXTINF:-1 ,CINE: GOLDEN PLUS UHD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150101
