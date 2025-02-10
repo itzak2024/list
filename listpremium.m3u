@@ -93,10 +93,19 @@ https://www.youtube.com/watch?v=NVDJrxs34hM
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg.id="MOVISTAR DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES 
-http://190.108.83.86:8000/play/a024
-#EXTINF:-1 tvg.id="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS 
-http://38.187.2.125:8000/play/a03g
+
+#EXTINF:-1 tvg.id="MOVISTAR DEPORTES PERU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES PERU 
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4836
+#EXTINF:-1 tvg.id="MOVISTAR PLUS PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PREMIUM", MOVISTAR PLUS PERU 
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4830
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",D-ESP | MOVISTAR DEPORTES
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/136653
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png",D-ESP | MOVISTAR GOLF HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/136656
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",D-ESP | MOVISTAR VAMOS HD*
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/55926
+#EXTINF:-1  tvg-logo="https://deultimahorard.com/wp-content/uploads/2020/04/claro.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | CANAL CLARO SPORTS
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4848
 
 #EXTINF:-1 tvg.id="MOVISTAR GolTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiMoxHvWpOfaBEvti8mNLnJkOkkU3BO7FAllK-u5KFQ&s" group-title="TV PREMIUM", MOVISTAR GOLTV
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126517
@@ -126,7 +135,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3014
 #EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2823
 #EXTINF:-1 tvg.id="ESPN EN VIVO" tvg-logo="https://i.ytimg.com/vi/hA8ZHhIzr1k/sddefault.jpg" group-title="Tv PREMIUM", ESPN EN VIVO
-http://179.63.6.17:9000/play/a00j
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/164986
 
 #EXTINF:-1 tvg.id="ESPN2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Tv PREMIUM", ESPN2
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135643
@@ -136,15 +145,22 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2821
 #EXTINF:-1 tvg.id="ESPN3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png" group-title="Tv PREMIUM", ESPN3
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2822
 #EXTINF:-1 tvg.id="ESPN3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png" group-title="Tv PREMIUM", ESPN3
-http://38.56.113.50:11211/play/a0rn/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/30954
 
-http://200.121.20.106:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/295304
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/34241
+
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/22896
 
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3039
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png",DEP | ESPN 6
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/292845
+
+#EXTINF:-1  tvg-logo="https://pnggallery.com/wp-content/uploads/espn-7-logo-01.png",Sports | ESPN 7 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/215031
 
 #EXTINF:-1 tvg-id="VISION SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26GTjJRaMBsnVYXLnqW8K7VGq5lW0-0iOaA&s"  group-title="Bics DEPORTES", VISION SPORT2 (argentina)
 http://redima.pro:8880/stalin2024/stalin2024/575
