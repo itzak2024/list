@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 1 | América Televisión
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/750748
 
+#EXTINF:-1 group-title="PERU" tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png",America  TV
+http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2398
+
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru", 2| Frecuencia Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_480p/chunks.m3u8
 
@@ -83,6 +86,9 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 ,Cᴜʟᴛᴜʀᴀ | E! ENTERTAINMENT TV ESP
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155962
 
+#EXTINF:-1 group-title="CINE" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w463605187.m3u8
+
 #EXTINF:-1,Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
@@ -161,6 +167,9 @@ http://visualservice.xyz:8080/Ita/Sf2ZqPD/292845
 
 #EXTINF:-1  tvg-logo="https://pnggallery.com/wp-content/uploads/espn-7-logo-01.png",Sports | ESPN 7 HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/215031
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png",SK-Y LA LIGA
+http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/51268
 
 #EXTINF:-1 tvg-id="VISION SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26GTjJRaMBsnVYXLnqW8K7VGq5lW0-0iOaA&s"  group-title="Bics DEPORTES", VISION SPORT2 (argentina)
 http://redima.pro:8880/stalin2024/stalin2024/575
@@ -249,6 +258,9 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162551
 
 #EXTINF:-1  tvg-logo="https://www.pngitem.com/pimgs/m/229-2290404_ufc-logo-ufc-hd-png-download.png",Sports | UFC TV HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145479
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.newslinereport.com/online/nota_ufc-networks-se-expande-en-la-regin.jpg",UFC Network
+http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/3112
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987730485311889409/orzn_-qe_400x400.jpg",ESP: VIAJAR HD
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126436
