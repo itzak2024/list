@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 1 | América Televisión
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/750748
 
-#EXTINF:-1 group-title="PERU" tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png",America  TV
+#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 1 | América Televisión
 http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2398
 
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru", 2| Frecuencia Latina
