@@ -83,7 +83,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 16| E ENTERTAIMENT TV ENG
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
-#EXTINF:-1 ,Cᴜʟᴛᴜʀᴀ | E! ENTERTAINMENT TV ESP
+#EXTINF:-1 tvg-id="PE | E entertaiment" tvg-name="US | E ENTERTAIMENT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_e_m.png" group-title="USA", 16| E ENTERTAIMENT TV ESP
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155962
 
 #EXTINF:-1 group-title="CINE" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png",Orbit TV
