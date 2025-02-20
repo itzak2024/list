@@ -1,70 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",Animal Planet
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2454
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg",Animal Planet HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2685
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png",Discovery Channel
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2455
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png",Discovery Channel HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2686
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png",Discovery Channel FHD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30417
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/1200px-Discovery_Familia_logo_%282%29.svg.png",Discovery Familia
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/37281
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/1200px-Discovery_Familia_logo_%282%29.svg.png",Discovery Familia HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2456
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png",Discovery Home & Health
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2457
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png",Discovery Home & Health HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2687
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png",Discovery Investigation
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30608
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png",Discovery Investigation HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2458
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-science.png",Discovery Science
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30609
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-science.png",Discovery Science HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2459
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es",Discovery Theater
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/38519
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es",Discovery Theater HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2460
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es",Discovery Theater FHD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2688
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png",Discovery TLC
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2461
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png",Discovery TLC HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2689
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",Discovery Turbo HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2690
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30610
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/4891
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2463
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2 HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/50969
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2 FHD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30470
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png",History
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/7062
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png",History HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2464
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/C57MNtWL/histiry.png",History FHD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2691
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.ibb.co/yFWQjGt/descarga.png",HGTV
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30822
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://2.bp.blogspot.com/-WXbh7TcBGoo/W4WLHuVLzLI/AAAAAAABLvM/yUaNuY9jgaQ1tm44c1x_ScT0A3U15oudQCLcBGAs/s1600/brand_love-nature.jpg",Love Nature HD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/51512
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png",National Geographic (op.1)
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2465
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png",National Geographic (op.2)
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/30611
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_wild.png",Nat Geo WILD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2466
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_wild.png",Nat Geo WILD FHD
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2692
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon.jpg",Nat Geo Mundo
-http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/76057
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",ARG: INVESTIGATION DISCOVERY Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135790
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png",ARG: Discovery Science Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135791
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",ARG: History 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135792
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",ARG: Discovery Home & Health Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135793
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",ARG: Discovery World Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135794
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png",ARG: DISCOVERY Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135821
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rai_Italia_2013.svg/1200px-Rai_Italia_2013.svg.png",ARG: RAI ITALIA Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135863
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",Cᴜʟᴛᴜʀᴀ | NAT GEO WILD UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2012
+#EXTINF:-1  tvg-logo="https://www.newslinereport.com/online/nota_nat-geo-mundo-emite-pioneros-del-mayflower.jpg",Cᴜʟᴛᴜʀᴀ | NAT GEO MUNDO UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2013
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png",Cᴜʟᴛᴜʀᴀ | NATIONAL GEOGRAPHIC (ARG)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2014
+#EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png",Cᴜʟᴛᴜʀᴀ | NATIONAL GEOGRAPHIC (MX)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2015
+#EXTINF:-1  tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY CHANNEL (MX)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2020
+#EXTINF:-1  tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY CHANNEL (ARG)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2024
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",Cᴜʟᴛᴜʀᴀ |  DISCOVERY HOME & HEALTH UHD®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2025
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",Cᴜʟᴛᴜʀᴀ |  DISCOVERY HOME & HEALTH MX UHD®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2026
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/2560px-Discovery_Familia_logo_%282%29.svg.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY FAMILIA UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2029
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY THEATER UHD®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2032
+#EXTINF:-1  tvg-logo="https://www.pngitem.com/pimgs/m/192-1922116_investigation-discovery-hd-logo-hd-png-download.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY INVESTIGATION MX  UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3605
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY WORLD MX UHD®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3606
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY TURBO UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3702
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY SCIENCE UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3713
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png",Cᴜʟᴛᴜʀᴀ | DISCOVERY TLC UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3741
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png",Cᴜʟᴛᴜʀᴀ | FOOD NETWORK MX UHD®
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3746
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3764
+#EXTINF:-1  tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png",Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3768
+#EXTINF:-1  tvg-logo="https://www.pngitem.com/middle/hmowTom_history-channel-2-logo-hd-png-download/",Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL 2 UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3778
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",Cᴜʟᴛᴜʀᴀ | HISTORY CHANNEL SUR UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/132332
+#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png",Cᴜʟᴛᴜʀᴀ | GARAGE TV MX UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/136487
