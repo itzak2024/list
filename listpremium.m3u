@@ -8,6 +8,9 @@ http://stklatino.dynns.com:2082/stkrestbra8653fnfoe734/764gdsl824d/2398
 #EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru", 2| Frecuencia Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_480p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Frecuencia Latina" tvg-logo="https://cdn.mitvstatic.com/channels/pe_frecuencia-latina_m.png" group-title="Canales de Peru", 2| Frecuencia Latina
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_360p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="Canales de Peru", 3| Canal Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
@@ -31,6 +34,12 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.
 
 #EXTINF:-1 tvg-id="SELVA TV LORETO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687121172/045e5595b233_640_360.png" group title="Canales de Peru", 10 | SELVA TV LORETO
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TARAPOTO TELEVISION" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru", 11 | TELEVISION TARAPOTO
+https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/l_521_56280119_5553.ts
+
+#EXTINF:-1 tvg-id="TARAPOTO TELEVISION" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru", 12 | TELEVISION TARAPOTO
+https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 11 | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
@@ -99,6 +108,12 @@ https://www.youtube.com/watch?v=NVDJrxs34hM
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 #EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
 https://video2.lhdserver.es/cableperu/live.m3u8
+
+
+#EXTINF:-1 group-title="Deportes: Definición Estandar SD⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png",Sᴘᴏʀᴛs Sᴰᵀ | DIRECTV SPORTS (Col)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132282
+#EXTINF:-1 group-title="Deportes: Definición Estandar SD⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png",Sᴘᴏʀᴛs Sᴰᵀ | DIRECTV SPORTS 2 (Col)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132283
 
 #EXTINF:-1 tvg.id="MOVISTAR DEPORTES PERU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0B44khgb4c5xxmAhc9b_AOE8LO0tkG9c79KpoWIrMg&s" group-title="TV PREMIUM", MOVISTAR DEPORTES PERU 
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4836
