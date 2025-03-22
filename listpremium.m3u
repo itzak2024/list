@@ -275,9 +275,10 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2819
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISNEY XD ®
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2820
 
+#EXTINF:-1 ,COL: CARACOL INTERNACIONAL ᴴᴰ
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3573
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ | CARACOL
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153613
-
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/C/caracol-television-2003-2012-logo-A38C2D1DD4-seeklogo.com.png",COL: CARACOL Cᵒˡᵒᵐᵇⁱᵃ 4k
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/167521
 
@@ -340,6 +341,9 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150111
 
 #EXTINF:-1 tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png" group-title="MUSIC",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.scdn.co/image/ab6761610000e5eb080971bbbfad7111930d4d0c",DJs ʜᴅ | DJ NICO VALLORANI (REGGAETÓN - CUMBIA)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153639
 
 #EXTINF:-1 group-title="MUSIC",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
@@ -506,12 +510,15 @@ http://clubtv.link/OcT25/key4513/lista1.php?c=a04o&token=TecnotvSep26092400&f=.m
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="121" channel-number="121",VH1 East
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
+#EXTINF:-1 ,ESP-2: COMEDY  CENTRAL
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126381
+
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
-http://179.1.33.2:4000/play/a113
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO SD
-http://redima.pro:8880/VALLE1402/VALLE1402/334
-#EXTINF:-1 tvg-id="USA | HBO HD" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO HD
-http://redima.pro:8880/VALLE1402/VALLE1402/337
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150077
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",CINE: HBO 2 UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150078
+#EXTINF:-1  tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png",CINE: HBO XTREME UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150084
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO DIRECT TV 
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
@@ -528,16 +535,15 @@ http://179.1.33.2:4000/play/a123
 http://191.52.214.5:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM                 
-http://200.59.188.3:8000/play/a06m
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150080
 
 #EXTINF:-1 tvg-id="USA | HBO PLUS PREMIUM" tvg-name="USA | HBO PLUS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group title= "PREMIUM", HBO PLUS PREMIUM 
 http://clubtv.link/octFIN/key4513/lista8.php?c=a06m&token=TecnoGeneradorTv265477&f=.m3u8
 
 #EXTINF:-1,Latino | HBO Signature
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
-
-#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO 2
-http://redima.pro:8880/VALLE1402/VALLE1402/335
+#EXTINF:-1  tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",CINE: HBO MUNDI UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150082
 
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO +
 http://138.59.177.34:8000/play/a01o/index.m3u8
@@ -553,19 +559,16 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="60" channel-number="60",HBO Family East
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 97 | FX
-http://74.91.17.110/play/fxhd
-
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 98 | Clover Channel
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 99 | Universal TV
 http://38.41.8.1:8000/play/a01a
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", 100 | Universal Crime
-http://38.52.182.237:8000/play/a0ba
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135855
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", 101 | Universal Cinema
 http://170.83.242.9:4000/play/a00b
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="PELICULAS Y SERIES", 102 | Universal Reality
-http://redima.pro:8880/stalin2024/stalin2024/1035
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2694
 #EXTINF:-1 tvg-id="USA | Universal Comedy" tvg-name="USA | Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015318&path-prefix=es" group-title="PELICULAS Y SERIES", 103 | Universal Comedy
 http://170.83.242.9:4000/play/a0kq
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", 104 | Universal Premiere
