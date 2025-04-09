@@ -23,6 +23,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal N" tvg-logo="https://pbs.twimg.com/profile_images/1769589607186763776/VcVi6V5s_400x400.png" group-title="Canales de Peru",5 | Canal N
 http://192.141.99.87:8000/play/a0lb
 
+#EXTINF:-1 tvg-id="NACIONAL TV PERU" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/06/1740006367890/9200e98d8cde_480_270.png" group-title="Canales de Peru",5 | NACIONAL TV PERU
+https://live-evg25.tv360.bitel.com.pe/bitel/nacionaltv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 6 | Panamericana Televisión
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
 
@@ -44,6 +47,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
 #EXTINF:-1 tvg-id="TARAPOTO TELEVISION" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru", 12 | TELEVISION TARAPOTO
 https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="COCINANDO TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/00/1743530008695/f5d4d666177d_480_270.png" group title="Canales de Peru", 12 | COCINANDO TV
+https://live-evg25.tv360.bitel.com.pe/bitel/cocinandotv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 11 | TUMPIS TV
 https://servilive.com:3531/stream/play.m3u8
 
@@ -55,6 +61,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia tv" tvg-logo="https://pbs.twimg.com/profile_images/996797110933774337/Ro0vuaj9_400x400.jpg" group-title="NOTICIAS", 15 | Amazonia Tv
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
+
+#EXTINF:-1 tvg-id="PE | ARPEGIO TV" tvg-name="PE | ARPEGIO TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/02/1743535918530/f69e726008e8_480_270.png" group-title="NOTICIAS", 15 | ARPEGIO TV
+https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 16 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
