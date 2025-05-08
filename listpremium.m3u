@@ -117,8 +117,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w463605187.m3u8
 #EXTINF:-1,Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="LA PEOR AMIGA" tvg-logo="https://image.tmdb.org/t/p/w185/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" group-title="movie",LA PEOR AMIGA
-https://www.youtube.com/watch?v=NVDJrxs34hM
 
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
@@ -264,7 +262,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4957
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4948
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://telegratis.org/wp-content/uploads/2020/07/golden_plus.png",CINE: GOLDEN PLUS Mᴇxɪᴄᴏ Sᵀᴰ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3648
-
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png",ARG: Universal Channel Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4946
