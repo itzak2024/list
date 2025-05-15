@@ -112,11 +112,19 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155962
 
 #EXTINF:-1 group-title="CINE" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w463605187.m3u8
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://dominicanchannels.com/wp-content/uploads/latinzonetv.png",LATIN ZONE TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png", NOVA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/1200px-Top_TV_logo.svg.png",TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8?
 
 #EXTINF:-1,Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
@@ -157,7 +165,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145427
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png",ARG: ESPN 4 EXTRA Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4941
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png",Sports | ESPN 5 HD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/215029
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/207358.ts
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/84tr6c1660760555.png",Sports | ESPN 6 HD
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/215030
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://pnggallery.com/wp-content/uploads/espn-7-logo-01.png",Sports | ESPN 7 HD
@@ -173,16 +181,16 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145402
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145403
 
 #EXTINF:-1 group-title="Canales: Premium UHD⭐️" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | AMC ®
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3019
+http://38.52.209.82:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINE: CINECANAL STD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/138127
+http://200.59.188.3:8000/play/a059
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINE: CINELATINO SD
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/62
 
 
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",CINE: CINEMAX SD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/60
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/320.ts
 #EXTINF:-1 group-title="Canales: Premium UHD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | CINEMAX UHD ®
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/133790
 
@@ -193,14 +201,14 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3642
 
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png",ARG: ESPN SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/
+http://190.123.90.146:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ARG: ESPN 2 HD Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/135784
 
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",ARG: HBO Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4961
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
 #EXTINF:-1 group-title="Canada: Entertainment⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",CANADA | HBO | HD
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130444
 #EXTINF:-1 group-title="Canales Cine: HD/UHD⭐️Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",CINE: HBO UHD
@@ -328,7 +336,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3758
 #EXTINF:-1 group-title="Canales Cine: HD/UHD⭐️Premium" tvg-logo="https://i.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.png",CINE: STUDIO UNIVERSAL HD
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3793
 #EXTINF:-1 group-title="Canales Cine: HD/UHD⭐️Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Paramount_Paramount_Network.png",CINE: PARAMOUNT NETWORK MX HD®
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/7967
+http://181.176.153.107:8090/play/a0yk/index.m3u8
+
 
 
 
