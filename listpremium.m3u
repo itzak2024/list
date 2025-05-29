@@ -51,12 +51,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
 #EXTINF:-1 tvg-id="TARAPOTO TELEVISION" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru", 12 | TELEVISION TARAPOTO
 https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="COCINANDO TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/00/1743530008695/f5d4d666177d_480_270.png" group title="Canales de Peru", 12 | COCINANDO TV
-https://live-evg25.tv360.bitel.com.pe/bitel/cocinandotv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="PE | TUMPIS TV" tvg-name="PE | TUMPIS TV" tvg-logo="https://pbs.twimg.com/profile_images/626941324462268416/isB0cmNN_400x400.png" group-title="NOTICIAS", 11 | TUMPIS TV
-https://servilive.com:3531/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="PE | SEÑAL PERU TV" tvg-name="PE | SEÑAL PERU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="NOTICIAS", 13 | SEÑAL PERU TV
 https://livestream.perucast.com/hls/stream.m3u8
 
@@ -67,7 +61,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
 
 #EXTINF:-1 tvg-id="PE | ARPEGIO TV" tvg-name="PE | ARPEGIO TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/02/02/1743535918530/f69e726008e8_480_270.png" group-title="NOTICIAS", 15 | ARPEGIO TV
-https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
+https://tv.oyotunserver.com:3954/live/demolive.m3u8
 
 #EXTINF:-1 tvg-id="PE | GLOBAL TV" tvg-name="PE | GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/360px-Global_logo_2019.png " group-title="PERU", 16 | GLOBALTV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
@@ -114,6 +108,9 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155962
 #EXTINF:-1 group-title="CINE" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png",Orbit TV
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_480_270.jpg", Canal DUB TV
+https://live-evg25.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
+
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://dominicanchannels.com/wp-content/uploads/latinzonetv.png",LATIN ZONE TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
@@ -132,11 +129,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png",ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4938
+http://38.7.204.238:8011/play/a2hj/index.m3u8
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png",Sports | ESPN PREMIUM HD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145421
+http://45.71.254.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",Sports | ESPN DEPORTES
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145416
+http://45.71.254.1:8000/play/a038/index.m3u8
 
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png",Sports | ESPN PREMIUM HD ARG
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145417
@@ -152,7 +149,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145418
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",Sports | ESPN HD CHILE
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145422
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ARG: ESPN 3 Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4940
+http://200.60.124.19:29000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ARG: ESPN 3 Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145419
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/2000px-ESPN_wordmark.svg-2000x495-583264009.png",Sports | ESPN 3 MX HD
@@ -167,10 +164,10 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4941
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png",Sports | ESPN 5 HD
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/207358.ts
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/84tr6c1660760555.png",Sports | ESPN 6 HD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/215030
+http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://pnggallery.com/wp-content/uploads/espn-7-logo-01.png",Sports | ESPN 7 HD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/215031
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4941
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
 #EXTINF:-1 group-title="Deportes: HD/UHD Premium ⭐️⚽" tvg-logo="https://b-i.forbesimg.com/dorothypomerantz/files/2014/01/670px-ESPN_wordmark.svg_.png",Sports | ESPN EXTRA
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145428
 
@@ -188,6 +185,9 @@ http://190.61.116.155:7000/play/a01k
 
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINE: CINECANAL STD
 http://200.59.188.3:8000/play/a059
+#EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINE: CINECANAL STD
+http://clubtv.link/my2505/phpcode/lista5.php?c=a025&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",CINE: CINELATINO SD
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/62
 
@@ -195,20 +195,15 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/62
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",CINE: CINEMAX SD
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/320.ts
 #EXTINF:-1 group-title="Canales: Premium UHD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | CINEMAX UHD ®
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/133790
+http://clubtv.link/my2505/phpcode/lista5.php?c=a02b&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Canales: Premium UHD⭐️" tvg-logo="data:image/png;base64,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",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | TNT  
+http://clubtv.link/my2505/phpcode/lista5.php?c=a043&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://assets.stickpng.com/images/5842f04ea6515b1e0ad75b14.png",ARG: STAR Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4942
 #EXTINF:-1 group-title="Cine Premium: Calidad STD⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",CINE: STAR CHANNEL Mᴇxɪᴄᴏ Sᵀᴰ
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3642
-
-
-#EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png",ARG: ESPN SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://190.123.90.146:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ARG: ESPN 2 HD Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/135784
-
 
 #EXTINF:-1 group-title="Argentina: Cable Premium⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",ARG: HBO Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
