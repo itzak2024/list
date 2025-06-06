@@ -70,7 +70,7 @@ https://tv.oyotunserver.com:3954/live/demolive.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_70mScUQBd5Bb3OxM9ODIliqIVPIUW7row&s" group-title="PERU", 17 | USMP TV
-https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales de Peru",ATV
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
